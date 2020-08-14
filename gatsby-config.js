@@ -7,7 +7,7 @@ module.exports = {
     position: `Unemployee`,
     description: `Cool Stuff and random posts mostly about korean/japanese culture`,
     author: `@gatsbyjs`,
-    siteUrl: `https://johndoe.com.br`, //TROCAR
+    siteUrl: `https://tiemi.netlify.app/`, //TROCAR
   },
   plugins: [
     `gatsby-plugin-transition-link`,
