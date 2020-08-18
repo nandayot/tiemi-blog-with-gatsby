@@ -4,9 +4,9 @@ const queries = require("./src/utils/algolia_queries")
 module.exports = {
   siteMetadata: {
     title: `Fernanda Tiemi`,
-    position: `Unemployee`,
-    description: `Cool Stuff and random posts mostly about korean/japanese culture`,
-    author: `@gatsbyjs`,
+    position: `Code & Books & Sports & Asian Culture Lover`,
+    description: `Blog pessoal criado para compartilhar minhas opiniões e conhecimento sobre cultura asiática e quem sabe algumas outras paixões.`,
+    author: `@nandayot`,
     siteUrl: `https://tiemi.netlify.app/`, //TROCAR
   },
   plugins: [
@@ -86,5 +86,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
   ],
 }
