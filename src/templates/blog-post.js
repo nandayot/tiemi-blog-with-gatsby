@@ -30,6 +30,16 @@ const BlogPost = ({ data, pageContext }) => {
       <S.MainContent>
         <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
       </S.MainContent>
+      <S.TagWrapper>
+      <S.TagTitle>Tags: </S.TagTitle>
+        {post.frontmatter.tags.map(function(item) {
+          return (
+            <S.Tag>
+              {item}
+            </S.Tag>
+          )
+        })}
+      </S.TagWrapper>
       <RecommendedPosts next={next} previous={previous} />
       <Comments url={post.fields.slug} title={post.frontmatter.title} />
     </Layout>
@@ -47,6 +57,7 @@ export const query = graphql`
         description
         date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
         thumbnail
+        tags
       }
       html
       timeToRead

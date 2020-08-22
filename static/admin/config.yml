@@ -28,20 +28,26 @@ collections:
         label: "Category",
         name: "category",
         widget: "select",
-        options: ["jekyll", "css", "js", "html", "svg", "dev", "misc"]
+        options: ["Asia", "Música", "Livros", "Filmes", "Esportes", "Cultura", "Code"]
+      }
+      - {
+        label: "Tags",
+        name: "tags",
+        widget: "list",
+        field: {name: tag, label: Tag, widget: string}
       }
       - {
         label: "Background",
         name: "background",
         widget: "select",
         options: [
-          { label: "Jekyll", value: "#B31917" },
-          { label: 'CSS', value: '#2DA0C3' },
-          { label: 'JS', value: '#D6BA32' },
-          { label: 'HTML', value: '#EB7728' },
-          { label: 'SVG', value: '#7D669E' },
-          { label: 'Dev', value: '#637a91' },
-          { label: 'Misc', value: '#7AAB13' },
+          { label: "Asia", value: "#B31917" },
+          { label: 'Música', value: '#2DA0C3' },
+          { label: 'Livros', value: '#D6BA32' },
+          { label: 'Filmes', value: '#BF2B97' },
+          { label: 'Esportes', value: '#46AE22' },
+          { label: 'Cultura', value: '#E7881D' },
+          { label: 'Code', value: '#2E29E0' },
         ]
       }
       - { label: "Body", name: "body", widget: "markdown" }

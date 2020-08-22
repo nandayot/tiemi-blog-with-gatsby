@@ -48,6 +48,46 @@ export const PostDate = styled.p`
   `}
 `
 
+export const TagWrapper = styled.section`
+  margin: auto;
+  max-width: 70rem;
+  padding: 2rem 5rem;
+  display: flex;
+  border-top: 1px solid var(--borders);
+
+  ${media.lessThan("large")`
+    padding: 2rem 0;
+    max-width: 100%;
+  `}
+`
+export const TagTitle = styled.h1`
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 0 1.4rem;
+  color: var(--tagTitle);
+
+  ${media.lessThan("large")`
+    font-size: 1.5rem;
+    line-height: 1.1;
+    padding: 0 1rem;
+  `}
+`
+export const Tag = styled.p`
+  border-radius: 0;
+  font-size: 1rem;
+  min-height: auto;
+  min-width: auto;
+  width: fit-content;
+  padding: .2rem .5rem;
+  margin-right: .5em;
+  align-items: center;
+  background: ${props => (props.background ? props.background : "var(--tag)")};
+  color: var(--tagTitle);
+  float: left;
+  font-weight: 700;
+  justify-content: center;
+  text-transform: uppercase;
+`
 export const MainContent = styled.section`
   margin: auto;
   max-width: 70rem;

@@ -55,6 +55,13 @@ export const MenuBarItem = styled.span`
   position: relative;
   width: 3.75rem;
 
+  &#aboutme {
+    display: none;
+    ${media.lessThan("large")`
+      display: block;
+    `}
+  }
+
   &.light {
     color: #d4d400;
 
