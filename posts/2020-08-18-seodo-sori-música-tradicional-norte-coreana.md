@@ -4,8 +4,12 @@ description: Diz a lenda que só quem provou a água do rio Daedong consegue
   cantar com perfeição. Atualmente, são poucos os mestres dessa arte centenária.
 date: 2020-08-17 10:33:44
 thumbnail: assets/img/102090_25888_327.jpg
-category: js
-background: "#D6BA32"
+category: Cultura
+tags:
+  - coreia do sul
+  - seodo sori
+  - ssingssing
+background: "#E7881D"
 ---
 Esse é um blog informativo sobre a cultura coreana, em específico, a norte-coreana. Gosto muito de descobrir sobre culturas, tradições, rituais, lendas e histórias de diversos países, mas como apreciadora da cultura coreana, saber mais a fundo sobre o país (norte e sul) é sempre um prazer e espero que também seja para vocês e por isso fiz este blog. Boa leitura!
 
