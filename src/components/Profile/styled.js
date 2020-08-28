@@ -29,8 +29,37 @@ export const ProfileAuthor = styled.h1`
 
   ${media.lessThan("large")`
     font-size: 1.2rem;
-    margin: 0 0 0 10px;
+    margin: 5px 0 0 10px;
   `}
+
+`
+
+export const CursorAuto = styled.span`
+  display: none;
+
+  ${media.lessThan("large")`
+    display: inline-block;
+    width: 10px;
+    height: 1.15rem;
+    background: #ea4a0c;
+    margin-left: 5px;
+    margin-top: 7px;
+    border-radius: 1px;
+    animation: cursor 1s infinite;
+  `}
+
+  @keyframes cursor {
+    0% {
+      opacity:0
+    }
+    50% {
+      opacity:1
+    }
+    
+    to{
+      opacity:0
+    }
+  }
 
 `
 
@@ -40,8 +69,7 @@ export const ProfilePosition = styled.small`
   font-weight: 300;
 
   ${media.lessThan("large")`
-    font-size: 0.8rem;
-    margin-top: 0.2rem;
+    display: none;
   `}
 `
 

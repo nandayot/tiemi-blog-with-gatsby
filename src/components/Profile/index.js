@@ -31,6 +31,7 @@ const Profile = () => {
           {title}
           <S.ProfilePosition>{position}</S.ProfilePosition>
         </S.ProfileAuthor>
+        <S.CursorAuto />
       </S.ProfileLink>
       <S.ProfileDescription>{description}</S.ProfileDescription>
       </S.ProfileWrapper>

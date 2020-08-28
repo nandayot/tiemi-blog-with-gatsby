@@ -55,18 +55,6 @@ const MenuBar = () => {
             <Search />
           </S.MenuBarItem>
         </S.MenuBarLink>
-        <S.MenuBarLink
-            to="/about/"
-            cover
-            direction="right"
-            bg={getThemeColor()}
-            duration={0.6}
-            title="Sobre Mim"
-          >
-          <S.MenuBarItem id="aboutme">
-            <Face />
-          </S.MenuBarItem>
-        </S.MenuBarLink>
       </S.MenuBarGroup>
       <S.MenuBarGroup>
         <S.MenuBarItem
