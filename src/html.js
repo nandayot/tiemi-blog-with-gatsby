@@ -11,8 +11,6 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <sessionState cookieSameSite="None" />
-        <httpCookies httpOnlyCookies="true" requireSSL="true" />  
         <link rel="alternate" hreflang="pt" href="https://www.tiemi.social" />
         <link rel="alternate" hreflang="en" href="https://en.tiemi.social" />
         <link rel="alternate" hreflang="fr" href="https://fr.tiemi.social" />
