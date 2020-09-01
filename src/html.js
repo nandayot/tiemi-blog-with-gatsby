@@ -18,7 +18,12 @@ export default function HTML(props) {
         <link rel="alternate" hreflang="ko" href="https://ko.tiemi.social" />
         <link rel="alternate" hreflang="es" href="https://es.tiemi.social" />
         <script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
-        <script type="text/javascript" src="weglot.js"></script>
+        <script  
+          dangerouslySetInnerHTML={{
+            __html: ` Weglot.initialize({
+            api_key: 'wg_4d50b188331cbe24a637a23560434f831'
+          });`}}
+        />
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes} className="dark">
