@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react"
 
 import { Home } from "@styled-icons/boxicons-solid/Home"
-import { Face } from "@styled-icons/material-sharp/Face"
 import { SearchAlt2 as Search } from "@styled-icons/boxicons-regular/SearchAlt2"
 import { UpArrowAlt as Arrow } from "@styled-icons/boxicons-regular/UpArrowAlt"
 import { Bulb as Light } from "@styled-icons/boxicons-regular/Bulb"
