@@ -114,7 +114,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Your Site's RSS Feed",
+            title: "Blog >> Tiemi",
             // optional configuration to insert feed reference in pages:
             // if `string` is used, it will be used to create RegExp and then test if pathname of
             // current page satisfied this regular expression;
@@ -124,6 +124,12 @@ module.exports = {
             //link: "https://feeds.feedburner.com/gatsby/blog",
           },
         ],
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: 'https://social.us17.list-manage.com/subscribe/post?u=250c82102f83d291e47798794&amp;id=1a94510349', // url do seu endpoint
       },
     },
     `gatsby-transformer-sharp`,
