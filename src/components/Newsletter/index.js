@@ -42,10 +42,10 @@ const Newsletter = () => {
     <>
       <S.Newsletter>
         <S.Title>
-          <Emoji aria-label="mailbox" content="📬" /> Assine a Newsletter!
+          <Emoji aria-label="mail" content="📩" /> Inscreva-se na Newsletter!
         </S.Title>
         <S.Text>
-          Assim você recebe por email as novidades :)
+          Receba no seu e-mail sempre que sair um novo blog!
         </S.Text>
         <S.Form>
           <Form schema={schema} onSubmit={onSubmit} disabled={sending} />

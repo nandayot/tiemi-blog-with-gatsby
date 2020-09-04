@@ -9,7 +9,7 @@ export const Text = styled.div`
   font-size: 14px;
   margin-left: 1em;
   margin-bottom: 1em;
-  color: white;
+  color: var(--tagTitle);
 
   ${media.lessThan("large")`
     margin-left: 1em;
@@ -17,8 +17,10 @@ export const Text = styled.div`
 `;
 
 export const Title = styled.h3`
-  color: orange;
+  color: var(--newsletterTitle);
   margin: 1em;
+  font-weight: 800;
+  font-size: 1.5em;
 `;
 
 export const Newsletter = styled.section`

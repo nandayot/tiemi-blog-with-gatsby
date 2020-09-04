@@ -34,11 +34,11 @@ export const Label = styled.label`
 export const Field = styled.input`
   width: 100%;
   border: 0;
-  background: black;
+  background: var(--background);
   padding: 1em;
   color: white;
   font-size: 14px;
-  border: 2px solid orange;
+  border: 2px solid var(--texts);
 
   ${media.lessThan("small")`
     margin-bottom: 1em;
@@ -48,7 +48,7 @@ export const Field = styled.input`
 export const Error = styled.span`
   display: block;
   font-size: 10px;
-  color: yellow;
+  color: var(--errorMessage);
   margin-top: 10px;
 
   ${media.lessThan("small")`

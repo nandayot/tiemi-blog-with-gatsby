@@ -74,6 +74,8 @@ const GlobalStyles = createGlobalStyle`
     --black: #222;
     --tag: #464b4e;
     --tagTitle: #fff;
+    --errorMessage: yellow;
+    --newsletterTitle: #ff9c21;
   }
 
   body.light {
@@ -87,6 +89,8 @@ const GlobalStyles = createGlobalStyle`
     --black: #222;
     --tag: #bebfbf;
     --tagTitle: #4a4a4a;
+    --errorMessage: #ec0f0f;
+    --newsletterTitle: #f0f;
   }
 `
 export default GlobalStyles

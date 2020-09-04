@@ -11,7 +11,7 @@ export default {
         type: 'email',
         name: 'email',
         label: 'Email',
-        placeholder: 'seu.email.mais@top.com',
+        placeholder: 'email.que.voce.mais@usa.com',
         validations: 'isEmail'
       },
     ],

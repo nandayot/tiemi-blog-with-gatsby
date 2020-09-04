@@ -6,9 +6,9 @@ export const Button = styled.button`
   padding: 1em;
   font-size: 14px;
   transition: .2s ease-in-out;
-  border: 2px solid orange;
-  background: black;
-  color: white;
+  border: 2px solid var(--texts);
+  background: var(--background);
+  color: var(--tagTitle);
   &:not([disabled]) {
     &:hover {
       background: transparent;
