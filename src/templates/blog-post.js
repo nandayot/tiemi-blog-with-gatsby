@@ -19,7 +19,7 @@ const BlogPost = ({ data, pageContext }) => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description}
-        thumbnail={post.frontmatter.thumbnail}
+        image={post.frontmatter.thumbnail}
       />
       <S.PostHeader>
         <S.PostDate>
