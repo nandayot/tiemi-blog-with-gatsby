@@ -142,8 +142,6 @@ Essa é uma música inteligentíssima que foi a primeira a ser lançada do EP. O
 > Full of biographies\
 > Cause I'm a loser pathetic\
 > I feel my agony through you
->
->
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
@@ -176,8 +174,6 @@ A música fala sobre preservar a relação de amizade que você tem com alguém.
 > Perhaps it’s a hard day\
 > Somehow it’s one day\
 > And I would say ME-AN
-
-
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
@@ -242,7 +238,7 @@ Então ele fica com aqueles sentimentos misturados sobre a cidade de Seoul. Que 
 
 # Finalização
 
-Lendo este blog pude perceber que realmente, todas as músicas trazem alguma mensagem importante para nós. E o título do álbum cumpre seu propósito. Através de todas essas músicas e seus significados nós possamos perceber ao nosso redor os motivos para nos alegrarmos ou algo maior para buscar a felicidade. Então a minha mensagem é: ame. Ame sua família, seus amigos, seu namorado(a), seus parentes. Peça desculpas sinceras para quem necessita. Ache alegria nas pequenas coisas e tente fazer algo novo para achar alegria em mais lugares e situações.
+Lendo este blog pude perceber que realmente, todas as músicas trazem alguma mensagem importante para nós. E o título do álbum cumpre seu propósito. Através de todas essas músicas e seus significados nós possamos perceber ao nosso redor os motivos para nos alegrarmos ou algo maior para buscar a felicidade.
 
 Espero que tenha gostado da análise das músicas do álbum. E claro, que escutem ele com mais atenção e a reinterprete. É outro tipo de sensação.
 
