@@ -1,14 +1,32 @@
 import React from "react"
-
-import Layout from "../components/Layout"
+import { useStaticQuery, graphql } from 'gatsby'
+//import Layout from "../components/Layout"
 import SEO from "../components/seo"
+import * as S from "./404styled"
 
-const NotFoundPage = () => (
-  <Layout>
+
+const NotFoundPage = () => {
+  const { avatarImage } = useStaticQuery(
+    graphql`
+      query {
+        avatarImage: file(relativePath: { eq: "Enel.png" }) {
+          childImageSharp {
+              fluid {
+                  ...GatsbyImageSharpFluid
+              }
+          }
+        }
+      }
+    `
+  )
+  return (<>
     <SEO title="404: Not found" />
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-  </Layout>
-)
+    <S.Wrapper>
+      <S.AvatarWrapper fluid={avatarImage.childImageSharp.fluid} />
+      <S.Title>404</S.Title>
+      <p>Você entrou na nuvem errada. Meia volta, mortal.</p>
+    </S.Wrapper>
+  </>)
+}
 
 export default NotFoundPage
