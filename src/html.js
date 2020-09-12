@@ -11,19 +11,6 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <link rel="alternate" hrefLang="pt" href="https://www.tiemi.social" />
-        <link rel="alternate" hrefLang="en" href="https://en.tiemi.social" />
-        <link rel="alternate" hrefLang="fr" href="https://fr.tiemi.social" />
-        <link rel="alternate" hrefLang="ja" href="https://ja.tiemi.social" />
-        <link rel="alternate" hrefLang="ko" href="https://ko.tiemi.social" />
-        <link rel="alternate" hrefLang="es" href="https://es.tiemi.social" />
-        <script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
-        <script  
-          dangerouslySetInnerHTML={{
-            __html: ` Weglot.initialize({
-            api_key: 'wg_4d50b188331cbe24a637a23560434f831'
-          });`}}
-        />
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes} className="dark">

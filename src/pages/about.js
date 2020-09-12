@@ -1,24 +1,27 @@
 import React from 'react'
+import { TransitionPortal } from "gatsby-plugin-transition-link"
 
-import Layout from "../components/Layout"
+import LayoutAbout from "../components/LayoutAbout"
 import SEO from "../components/seo"
+import MenuBar from "../components/MenuBar"
 
-import * as S from '../components/Post/styled'
+import * as S from '../components/About/styled'
+
 
 const AboutPage = () => (
-    <Layout>
-      <SEO
-        title="Sobre Mim"
-        description="Uma pessoa. Milhões de hobbies."
-      />
-      <S.PostHeader>
+  <LayoutAbout>
+    <SEO
+      title="Sobre Mim"
+      description="Uma pessoa. Milhões de hobbies."
+    />
+    <S.PostHeader>
         <S.PostDate>
           21 de Agosto de 2020 • 5 min de leitura
         </S.PostDate>
         <S.PostTitle>Sobre Mim</S.PostTitle>
         <S.PostDescription>Uma pessoa. Milhões de hobbies.</S.PostDescription>
       </S.PostHeader>
-      <S.MainContent>
+      <S.AboutContent>
       <p>
         Meu nome é Fernanda Tiemi, e sou apaixonada por muitas coisas.
         Gosto de esportes. Sou torcedora do Boston Red Sox, Seattle Seahawks e Toronto Raptor. Sim, não sou
@@ -58,8 +61,9 @@ const AboutPage = () => (
 
       <h2>Allons-y!</h2>
 
-      </S.MainContent>
-    </Layout>
+      </S.AboutContent>
+  </LayoutAbout>
+
 )
 
 export default AboutPage

@@ -13,11 +13,28 @@ export const SidebarWrapper = styled.aside`
   padding: 2rem;
   text-align: center;
   width: 20rem;
+  right: 0;
 
-  ${media.lessThan("large")`
+  ${media.lessThan("medium")`
+    width: 3.75rem;
+    padding: 0.8rem 0;
+    position: fixed;
+    align-items: center;
+    background: var(--mediumBackground);
+    border-left: 1px solid var(--borders);
+    height: 100vh;
+    justify-content: space-between;
+    border-left: 1px solid var(--borders);
+    transition: background 0.5s;
+    position: fixed;
+  `}
+
+  ${media.lessThan("small")`
     align-items: flex-start;
     height: auto;
-    padding: 1rem 2rem;
+    margin: 0;
+    padding: 0;
+    padding-top: 0.5rem;
     width: 100%;
     flex-direction: row;
     justify-content: space-between;
@@ -45,7 +62,7 @@ export const MenuBarItem = styled.span`
 
   &#aboutme {
     display: none;
-    ${media.lessThan("large")`
+    ${media.lessThan("medium")`
       display: initial;
     `}
   }
@@ -63,16 +80,16 @@ export const MenuBarItem = styled.span`
   }
 
   &.display {
-    ${media.lessThan("large")`
+    ${media.lessThan("medium")`
       display: none;
     `}
   }
-  ${media.greaterThan("large")`
+  ${media.greaterThan("medium")`
     &:hover {
       color: var(--highlight);
     }
   `}
-  ${media.lessThan("large")`
+  ${media.lessThan("medium")`
     height: 3.2rem;
     padding: .9rem;
     position: relative;

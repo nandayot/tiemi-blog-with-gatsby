@@ -1,10 +1,14 @@
 import React, { useState, useEffect } from "react"
+import { useStaticQuery, graphql } from 'gatsby'
 
 import { Home } from "@styled-icons/boxicons-solid/Home"
 import { SearchAlt2 as Search } from "@styled-icons/boxicons-regular/SearchAlt2"
 import { UpArrowAlt as Arrow } from "@styled-icons/boxicons-regular/UpArrowAlt"
-import { Bulb as Light } from "@styled-icons/boxicons-regular/Bulb"
+//import { Bulb as Light } from "@styled-icons/boxicons-regular/Bulb"
+import { ToggleRight } from "@styled-icons/boxicons-regular/ToggleRight"
+import { ToggleLeft } from "@styled-icons/boxicons-regular/ToggleLeft"
 import { Newsletter } from "@styled-icons/entypo/Newsletter"
+import { Face } from "@styled-icons/boxicons-solid/Face"
 //import { Grid } from "@styled-icons/boxicons-solid/Grid"
 
 import getThemeColor from "../../utils/getThemeColor"
@@ -30,6 +34,19 @@ const MenuBar = () => {
   return(
     <S.MenuBarWrapper>
       <S.MenuBarGroup>
+      <S.MenuBarLink
+            to="/about"
+            cover
+            direction="right"
+            bg={getThemeColor()}
+            duration={0.6}
+            title="Sobre Mim"
+          >
+          <S.MenuBarItem>
+            <Face />
+          </S.MenuBarItem>
+        </S.MenuBarLink>
+
         <S.MenuBarLink
             to="/"
             cover
@@ -63,7 +80,7 @@ const MenuBar = () => {
          }}
          className={theme}
         >
-          <Light />
+          {isDarkMode ? <ToggleRight /> : <ToggleLeft />}
         </S.MenuBarItem>
         <S.MenuBarLink
           to="/newsletter/"

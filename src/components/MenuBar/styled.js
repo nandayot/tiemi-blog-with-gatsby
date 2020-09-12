@@ -1,6 +1,8 @@
 import styled from "styled-components"
 import media from "styled-media-query"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
+import Img from "gatsby-image"
+
 
 export const MenuBarWrapper = styled.aside`
   align-items: center;
@@ -12,11 +14,11 @@ export const MenuBarWrapper = styled.aside`
   justify-content: space-between;
   padding: 0.8rem 0;
   position: fixed;
-  right: 0;
+  left: 0;
   width: 3.75rem;
-
+  border-right: 1px solid var(--borders);
   transition: background 0.5s;
-  ${media.lessThan("large")`
+  ${media.lessThan("small")`
     border-top: 1px solid var(--borders);
     bottom: 0;
     flex-direction: row;
@@ -31,7 +33,7 @@ export const MenuBarGroup = styled.div`
   display: flex;
   flex-direction: column;
 
-  ${media.lessThan("large")`
+  ${media.lessThan("small")`
     flex-direction: row;
   `}
 `
@@ -57,7 +59,7 @@ export const MenuBarItem = styled.span`
 
   &#aboutme {
     display: none;
-    ${media.lessThan("large")`
+    ${media.lessThan("small")`
       display: block;
     `}
   }
@@ -75,19 +77,24 @@ export const MenuBarItem = styled.span`
   }
 
   &.display {
-    ${media.lessThan("large")`
+    ${media.lessThan("small")`
       display: none;
     `}
   }
-  ${media.greaterThan("large")`
+  ${media.greaterThan("small")`
     &:hover {
       color: var(--highlight);
     }
   `}
-  ${media.lessThan("large")`
+  ${media.lessThan("small")`
     height: 3.2rem;
     padding: .9rem;
     position: relative;
     width: 3.2rem;
   `}
+`
+export const AvatarWrapper = styled(Img)`
+  margin: auto;
+  height: 1.875rem;
+  width: 1.875rem;
 `
