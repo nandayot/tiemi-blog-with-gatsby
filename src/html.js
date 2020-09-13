@@ -11,6 +11,7 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
+        <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Inconsolata:wght@600&family=Josefin+Sans:wght@700&family=Nunito:wght@600&display=swap" rel="stylesheet"></link>
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes} className="dark">

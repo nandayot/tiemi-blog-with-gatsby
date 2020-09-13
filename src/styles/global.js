@@ -55,7 +55,7 @@ const GlobalStyles = createGlobalStyle`
     background: #16202c;
     line-height: 1;
     font-size: 100%;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Dosis", "Josefin Sans";
   }
   img {
     display: block;
@@ -77,6 +77,9 @@ const GlobalStyles = createGlobalStyle`
     --errorMessage: yellow;
     --newsletterTitle: #ff9c21;
     --recommendedLink: #2a2a2b;
+    --artCopyright: #fff;
+    --404Title: #fff;
+    --404Description: #fff;
   }
 
   body.light {
@@ -93,6 +96,9 @@ const GlobalStyles = createGlobalStyle`
     --errorMessage: #ec0f0f;
     --newsletterTitle: #f0f;
     --recommendedLink: #e6ccf1;
+    --artCopyright: #050e17;
+    --404Title: #9e0505;
+    --404Description: #050e17;
   }
 `
 export default GlobalStyles

@@ -14,7 +14,7 @@ const PostItem = ({
     title,
     description,
   }) => (
-    <S.PostItemLink to={slug} cover direction="right" bg={getThemeColor()} duration={0.6}>
+    <S.PostItemLink to={slug} drip direction="right" bg={getThemeColor()} duration={0.6}>
       <S.PostItemWrapper>
         <S.PostItemTag background={background}>{category}</S.PostItemTag>
         <S.PostItemInfo>
