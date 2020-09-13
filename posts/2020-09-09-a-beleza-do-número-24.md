@@ -1,8 +1,8 @@
 ---
-title: A beleza do número 24
+title: "Hyukoh: 24 - How to find true love and happiness - Análise"
 description: Uma das obras primas da banda de rock coreano Hyukoh. Análise do
   álbum e suas músicas e sua mensagem sobre como achar o verdadeiro amor e
-  felicidade. Bora lá.
+  felicidade.
 date: 2020-09-08 08:42:22
 thumbnail: assets/img/24-1-.png
 category: Música
@@ -11,6 +11,8 @@ tags:
   - rock
   - coreia
   - kindie
+  - "24"
+  - how to find true love and happiness
 background: "#2DA0C3"
 ---
 # 🔆Por que 24?
@@ -234,12 +236,20 @@ Por cabine, creio que ele quis dizer cabine de estudos em que os coreanos ficam 
 
 Então ele fica com aqueles sentimentos misturados sobre a cidade de Seoul. Que apesar de amá-la, todas essas questões sociais que precisam melhorar o faz querer ir embora dela. Por isso o título da música ser "Adeus, Seoul".
 
+# Full Album
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8MGHUJQMFgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+
+
 ![Foto cortada onde podemos ver o vocalista Oh Hyuk com máscara e seus olhos semicerrados.](https://pm1.narvii.com/7096/86baf0bba7a3e38fc2a66cd9bcf609932553be9ar1-1280-427v2_hq.jpg)
 
 # Finalização
 
 Lendo este blog pude perceber que realmente, todas as músicas trazem alguma mensagem importante para nós. E o título do álbum cumpre seu propósito. Através de todas essas músicas e seus significados nós possamos perceber ao nosso redor os motivos para nos alegrarmos ou algo maior para buscar a felicidade.
 
-Espero que tenha gostado da análise das músicas do álbum. E claro, que escutem ele com mais atenção e a reinterprete. É outro tipo de sensação.
+Espero que tenha gostado da análise das músicas do álbum. E claro, que escutem ele com mais atenção e reinterprete. É outro tipo de sensação.
 
 Obrigada por ler até aqui.
