@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import { useStaticQuery, graphql } from 'gatsby'
+//import { useStaticQuery, graphql } from 'gatsby'
 
 import { Home } from "@styled-icons/boxicons-solid/Home"
 import { SearchAlt2 as Search } from "@styled-icons/boxicons-regular/SearchAlt2"
@@ -34,19 +34,6 @@ const MenuBar = () => {
   return(
     <S.MenuBarWrapper>
       <S.MenuBarGroup>
-      <S.MenuBarLink
-            to="/about"
-            cover
-            direction="right"
-            bg={getThemeColor()}
-            duration={0.6}
-            title="Sobre Mim"
-          >
-          <S.MenuBarItem>
-            <Face />
-          </S.MenuBarItem>
-        </S.MenuBarLink>
-
         <S.MenuBarLink
             to="/"
             cover
@@ -91,6 +78,18 @@ const MenuBar = () => {
           title="Inscreva-se na Newsletter">
           <S.MenuBarItem>
             <Newsletter />
+          </S.MenuBarItem>
+        </S.MenuBarLink>
+        <S.MenuBarLink
+            to="/about"
+            cover
+            direction="right"
+            bg={getThemeColor()}
+            duration={0.6}
+            title="Sobre Mim"
+          >
+          <S.MenuBarItem>
+            <Face />
           </S.MenuBarItem>
         </S.MenuBarLink>
         <S.MenuBarItem 

@@ -76,6 +76,7 @@ const GlobalStyles = createGlobalStyle`
     --tagTitle: #fff;
     --errorMessage: yellow;
     --newsletterTitle: #ff9c21;
+    --recommendedLink: #2a2a2b;
   }
 
   body.light {
@@ -91,6 +92,7 @@ const GlobalStyles = createGlobalStyle`
     --tagTitle: #4a4a4a;
     --errorMessage: #ec0f0f;
     --newsletterTitle: #f0f;
+    --recommendedLink: #e6ccf1;
   }
 `
 export default GlobalStyles

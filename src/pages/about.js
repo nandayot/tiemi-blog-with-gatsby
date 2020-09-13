@@ -1,9 +1,7 @@
 import React from 'react'
-import { TransitionPortal } from "gatsby-plugin-transition-link"
 
 import LayoutAbout from "../components/LayoutAbout"
 import SEO from "../components/seo"
-import MenuBar from "../components/MenuBar"
 
 import * as S from '../components/About/styled'
 
@@ -11,8 +9,8 @@ import * as S from '../components/About/styled'
 const AboutPage = () => (
   <LayoutAbout>
     <SEO
-      title="Sobre Mim"
-      description="Uma pessoa. Milhões de hobbies."
+      title="Sobre Mim | Fernanda Tiemi de Souza Taso"
+      description="Um pouco sobre a personalidade da Fernanda Tiemi de Souza Taso"
     />
     <S.PostHeader>
         <S.PostDate>

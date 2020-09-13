@@ -26,10 +26,10 @@ export const RecommendedLink = styled(AniLink)`
   `}
 
   &:hover {
-    background: var(--borders);
+    background: var(--recommendedLink);
   }
   &.previous {
-    border-right: 1px solid var(--borders);
+    border-right: 1px solid var(--recommendedLink);
   }
   &.next {
     justify-content: flex-end;

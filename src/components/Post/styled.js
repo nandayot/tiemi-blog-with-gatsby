@@ -53,11 +53,17 @@ export const TagWrapper = styled.section`
   max-width: 70rem;
   padding: 2rem 5rem;
   display: flex;
+  flex-wrap: wrap;
+  place-items: flex-start;
   border-top: 1px solid var(--borders);
 
   ${media.lessThan("large")`
     padding: 2rem 0;
     max-width: 100%;
+    margin-left: 0.8rem;
+    p {
+      margin-bottom: 0.8rem;
+    }
   `}
 `
 export const TagTitle = styled.h1`
@@ -87,15 +93,6 @@ export const Tag = styled.p`
   font-weight: 700;
   justify-content: center;
   text-transform: uppercase;
-`
-export const AboutContent = styled.section`
-  max-width: 55rem;
-  padding: 2rem 5rem;
-
-  ${media.lessThan("large")`
-    padding: 2rem 0;
-    max-width: 100%;
-  `}
 `
 export const MainContent = styled.section`
   margin: auto;
