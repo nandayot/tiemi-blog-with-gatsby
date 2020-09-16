@@ -27,7 +27,7 @@ background: "#D6BA32"
 
 Minha paixão por Jane Austen começou faz muitos anos, quando minha paixão pela leitura era muito grande. Creio que Jane Austen foi umas das primeiras escritoras clássicas que li. Antes dela já tinha lido Sir Arthur Conan Doyle, Júlio Verne, VIctor Hugo, Agatha Christie... Essa foi a época em que me apronfundei em escritas mais antigas.
 
-![Imagem dos 6 romances de Jane Austen. Minha coleção de livros.](https://pm1.narvii.com/7372/c63e7f7b618440b958bbb4e650c7143f4663116ar1-2048-778v2_hq.jpg "Minha coleção dos romances de Jane Austen.")
+![Imagem dos 6 romances de Jane Austen. Minha coleção de livros.](assets/img/colecao.jpg "Minha coleção dos romances de Jane Austen.")
 
 # Minha coleção Jane Austen
 
@@ -45,7 +45,7 @@ Pode conter alguns spoilers sobre doramas.
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Header de uma mão escrevendo com nanquim em um papel.](https://pm1.narvii.com/7372/639d45014cc56accb17028e330733f355a454ca5r1-1280-539v2_hq.jpg)
+![Header de uma mão escrevendo com nanquim em um papel.](assets/img/letter-hand.jpg)
 
 # Quem é Jane Austen?
 
@@ -71,7 +71,7 @@ Não vou contar em detalhes sobre as particularidades de Jane e de sua escrita m
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Header de uma cena do filme Orgulho e Preconceito em que aparece Elizabeth segurnado a mão de Darcy quando ele o ajuda a subir na carruagem.](https://pm1.narvii.com/7372/2c78b9dade43eb192f1724f7d5ce22e5e297b75cr1-1160-361v2_hq.jpg)
+![Header de uma cena do filme Orgulho e Preconceito em que aparece Elizabeth segurnado a mão de Darcy quando ele o ajuda a subir na carruagem.](assets/img/mao-darcy.jpg)
 
 # Os 6 romances de Jane
 
@@ -94,7 +94,7 @@ Agora vamos listar os 6 romances que falarei neste blog por ordem de publicaçã
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Gif de uma cena do filme Orgulho e Preconceito. Gif de uma pintura a óleo no teto de uma mansão](assets/img/razao-gif.gif)
+![Gif de uma cena do filme Orgulho e Preconceito. Gif de uma pintura a óleo no teto de uma mansão](https://64.media.tumblr.com/b7d6accf3a1185e7fbc9e9cf694f0d0b/tumblr_pkrh1sCL9N1r4xg82o1_r1_540.gifv)
 
 # Razão e Sensibilidade
 
@@ -128,7 +128,7 @@ Creio que foi somente este dorama que veio a mente com relação ao livro. Mas q
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Foto de um cena do dorama Age of Youth. 4 mulheres olhando para a câmera sentadas no sofá.](https://pm1.narvii.com/7372/7a31ab8b5df3f237f2fade68abf2c2fe839dde0fr1-1280-427v2_hq.jpg)
+![Foto de um cena do dorama Age of Youth. 4 mulheres olhando para a câmera sentadas no sofá.](https://64.media.tumblr.com/a99eecc13991715d9e1b9efabff5110b/tumblr_ovd3bvWYHX1um15yao4_1280.png)
 
 Se você assistiu e gostou de Age of Youth, eu recomendo ler Razão e Sensibilidade. E se você gostou do livro, com certeza vai amar o dorama!
 
@@ -138,7 +138,7 @@ Se você assistiu e gostou de Age of Youth, eu recomendo ler Razão e Sensibilid
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth tocando em esculturas na mansão de Darcy.](assets/img/gif-pp.gif)
+![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth tocando em esculturas na mansão de Darcy.](https://64.media.tumblr.com/c60cc69a84db04bc1c3da13778dbb136/tumblr_pkrh1sCL9N1r4xg82o5_r2_540.gifv)
 
 # Orgulho e Preconceito
 
@@ -174,7 +174,7 @@ Claro que temos diversos outros doramas que retraram algo parecido.
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Foto de uma cena do dorama Her Private Life. Ryan Gold e Deok Mi se beijando.](https://pm1.narvii.com/7372/2a4f79a3ae3982b03c8d8b22060b742a2f0cf3b4r1-1280-427v2_hq.jpg)
+![Foto de uma cena do dorama Her Private Life. Ryan Gold e Deok Mi se beijando.](https://64.media.tumblr.com/e74211d48cd4af8f316c317fe37a235d/79533874f0a6863e-d3/s2048x3072/52aedec25d2fa4248cf3b3b8ed3ccc105f9d5a5a.jpg)
 
 Portanto, quem assistiu e gostou de Her Private Life, com certeza amará Orgulho e Preconceito. Outros doramas com a mesma temática são:
 
@@ -188,7 +188,7 @@ Portanto, quem assistiu e gostou de Her Private Life, com certeza amará Orgulho
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Gif de uma cena do filme Orgulho e Preconceito. Gif de esculturas na mansão de Darcy.](assets/img/gif-mansfield.gif)
+![Gif de uma cena do filme Orgulho e Preconceito. Gif de esculturas na mansão de Darcy.](https://64.media.tumblr.com/1dd2c41ff3fe9ee7b021c20f28287ec0/tumblr_pkrh1sCL9N1r4xg82o4_r3_540.gifv)
 
 # Mansfield Park
 
@@ -222,7 +222,7 @@ Uma característica essencial que vi para escolher ele foi a relação dos irmã
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Foto poster do dorama Reply 1994 onde os 7 protagonistas estão em pé olhando para a camera um ao lado do outro.](https://pm1.narvii.com/7372/81a7caca7bfad77fc4111c8c52255c8f77fd18f1r1-1280-257v2_hq.jpg)
+![Foto poster do dorama Reply 1994 onde os 7 protagonistas estão em pé olhando para a camera um ao lado do outro.](assets/img/reply-1994.jpg)
 
 Se você gostou de Reply 1994, vai gostar de Mansfield Park. E se você leu Mansfield Park, é um dever assistir Reply 1994!
 
@@ -232,7 +232,7 @@ Se você gostou de Reply 1994, vai gostar de Mansfield Park. E se você leu Mans
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth bisbilhotando a mansão de Darcy.](assets/img/gif-emma.gif)
+![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth bisbilhotando a mansão de Darcy.](https://64.media.tumblr.com/7cd1b743e82e6a99cb8995181f0b5a96/tumblr_pkrh1sCL9N1r4xg82o9_r1_540.gifv)
 
 # Emma
 
@@ -266,7 +266,7 @@ A grande semelhança se dá na relação entre os protagonistas. Ambos são amig
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Foto poster do dorama The Time We Were not in Love. Os dois protagonistas estão sentados numa escada olhando para a camera.](https://pm1.narvii.com/7372/aa389964832259b753fe7f612789724eb5cb4d7ar1-739-178v2_hq.jpg)
+![Foto poster do dorama The Time We Were not in Love. Os dois protagonistas estão sentados numa escada olhando para a camera.](assets/img/the-time-we-were-not-in-love.jpg)
 
 Já atualiza sua lista de doramas e/ou sua lista de leitura e coloca esses nelas! Não irá se arrepender. Emma é um livro extraordinário, e detalha bastante a vida daquela época. Outros doramas que relembram Emma:
 
@@ -280,7 +280,7 @@ Já atualiza sua lista de doramas e/ou sua lista de leitura e coloca esses nelas
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth bisbilhotando a mansão de Darcy. Desta vez, está olhando para o teto.](assets/img/gif-abadia.gif)
+![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth bisbilhotando a mansão de Darcy. Desta vez, está olhando para o teto.](https://64.media.tumblr.com/2b60e96f0fbc2f06fecc7b226e21587d/tumblr_pkrh1sCL9N1r4xg82o10_r1_540.gifv)
 
 # A Abadia de Northanger
 
@@ -314,7 +314,7 @@ Falando de Henry Tilney e Kwon Jung Rok a personalidade não é tão semelhante 
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Foto de uma colagem em que mostra os dois protagonistas do drama Touch Your Heart. Ambos sentadosa frente de uma mesa de escritório.](https://pm1.narvii.com/7372/fefa5a7660ec679ed760f644f7effe6274e46d5ar1-1280-427v2_hq.jpg)
+![Foto de uma colagem em que mostra os dois protagonistas do drama Touch Your Heart. Ambos sentadosa frente de uma mesa de escritório.](https://64.media.tumblr.com/56da350d3014619d2535a5bdc26f0295/tumblr_pnyduuYIvg1tlyx9z_1280.jpg)
 
 Se você assistiu e gostou de Touch You Heart, eu recomendo ler A Abadia de Nothanger. E se você gostou do livro, com certeza vai amar o dorama!
 
@@ -324,7 +324,7 @@ Se você assistiu e gostou de Touch You Heart, eu recomendo ler A Abadia de Noth
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth bisbilhotando a mansão de Darcy. Ela está indo em direção a um vaso de flores.](assets/img/gif-persuasao.gif)
+![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth bisbilhotando a mansão de Darcy. Ela está indo em direção a um vaso de flores.](https://64.media.tumblr.com/f4aa6cf3f8f7153492a5e119c363c36a/tumblr_pkrh1sCL9N1r4xg82o6_r2_540.gifv)
 
 # Persuasão
 
@@ -360,7 +360,7 @@ Já a relação entre Frederick e Eun Ho são várias. A começar pela fase "jov
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Cena do dorama Romance is a Bonus Book. Os dois protagonistas estão em cima da cama olhando para um celular.](https://pm1.narvii.com/7372/903fccfa54db2d628b15aaf020daf8cef8b8eabbr1-1280-427v2_hq.jpg)
+![Cena do dorama Romance is a Bonus Book. Os dois protagonistas estão em cima da cama olhando para um celular.](https://64.media.tumblr.com/e682185575cb876cbd8262d2cbf2a26f/5038044af7688207-3a/s2048x3072/08dfc31a9b1ac537cad06cabc9d17217297ff21c.jpg)
 
 Resumindo. Recomendadíssimo a leitura de Persuasão para quem já assistiu e gostou de Romance is a Bonus Book. E para quem nem leu e nem viu. Opa, está aí uma oportunidade de fazer os dois e não se decepcionar!
 
@@ -370,7 +370,7 @@ Resumindo. Recomendadíssimo a leitura de Persuasão para quem já assistiu e go
 
 ˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
-![Foto de uma cena do filme Orgulho e Preconceito em que completa a foto já mostrada acima. Está foto aqui mostra a face do Darcy quando ele empresta sua mão para Elizabeth subir na carruagem.](https://pm1.narvii.com/7372/7b85adbe1697adef1241ea4c7b927cb68d1aeca5r1-1161-336v2_hq.jpg)
+![Foto de uma cena do filme Orgulho e Preconceito em que completa a foto já mostrada acima. Está foto aqui mostra a face do Darcy quando ele empresta sua mão para Elizabeth subir na carruagem.](assets/img/darcy0.jpg)
 
 # Finalização
 

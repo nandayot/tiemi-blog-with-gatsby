@@ -4,7 +4,7 @@ description: Uma das obras primas da banda de rock coreano Hyukoh. Análise do
   álbum e suas músicas e sua mensagem sobre como achar o verdadeiro amor e
   felicidade.
 date: 2020-09-08 08:42:22
-thumbnail: assets/img/24-1-.png
+thumbnail: assets/img/24 (1).png
 category: Música
 tags:
   - hyukoh

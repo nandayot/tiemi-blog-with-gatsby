@@ -56,14 +56,14 @@ export const TagWrapper = styled.section`
   flex-wrap: wrap;
   place-items: flex-start;
   border-top: 1px solid var(--borders);
+  p {
+    margin-bottom: 0.8rem;
+  }
 
   ${media.lessThan("large")`
     padding: 2rem 0;
     max-width: 100%;
     margin-left: 0.8rem;
-    p {
-      margin-bottom: 0.8rem;
-    }
   `}
 `
 export const TagTitle = styled.h1`
