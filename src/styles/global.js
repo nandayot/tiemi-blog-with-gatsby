@@ -80,6 +80,7 @@ const GlobalStyles = createGlobalStyle`
     --artCopyright: #fff;
     --404Title: #fff;
     --404Description: #fff;
+    --shadowThumbnail: rgba(32,11,77,1);
   }
 
   body.light {
@@ -99,6 +100,7 @@ const GlobalStyles = createGlobalStyle`
     --artCopyright: #050e17;
     --404Title: #9e0505;
     --404Description: #050e17;
+    --shadowThumbnail: rgba(0,0,0,0.59);
   }
 `
 export default GlobalStyles

@@ -7,6 +7,7 @@ import * as S from "./styled"
 
 const PostItem = ({
     slug,
+    thumbnail,
     background,
     category,
     date,
@@ -16,8 +17,9 @@ const PostItem = ({
   }) => (
     <S.PostItemLink to={slug} drip direction="right" bg={getThemeColor()} duration={0.6}>
       <S.PostItemWrapper>
-        <S.PostItemTag background={background}>{category}</S.PostItemTag>
+        <S.PostItemThumbnail src={thumbnail} />
         <S.PostItemInfo>
+          <S.PostItemTag background={background}>{category}</S.PostItemTag>
           <S.PostItemDate>
             {date} • {timeToRead} min de leitura
           </S.PostItemDate>

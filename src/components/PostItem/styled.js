@@ -30,46 +30,59 @@ export const PostItemWrapper = styled.section`
     justify-content: center;
   }
 
-  ${media.lessThan("large")`
-    align-items: flex-start;
+  ${media.lessThan("medium")`
+    align-items: center;
     flex-direction: column;
     padding: 2rem 1rem;
   `}
 `
 
-export const PostItemTag = styled.div`
+export const PostItemThumbnail = styled.img`
   align-items: center;
-  background: ${props => (props.background ? props.background : "var(--highlight)")};
-  border-radius: 50%;
-  color: var(--postColor);
   display: flex;
-  font-size: 1rem;
-  font-weight: 700;
   justify-content: center;
-  min-height: 90px;
-  min-width: 90px;
-  text-transform: uppercase;
+  width: 15vw;
+  -webkit-box-shadow: 10px 13px 31px 0px var(--shadowThumbnail);
+  -moz-box-shadow: 10px 13px 31px 0px var(--shadowThumbnail);
+  box-shadow: 10px 13px 31px 0px var(--shadowThumbnail);
 
-  ${media.lessThan("large")`
-    border-radius: 0;
-    font-size: 1rem;
-    min-height: auto;
-    min-width: auto;
-    padding: .2rem .5rem;
-    margin-bottom: .7rem;
+  ${media.lessThan("medium")`
+    min-width:15rem;
+  `}
+
+  ${media.lessThan("small")`
+    width: 55vw;
+    min-width: 0;
   `}
 
   body#grid & {
     margin-bottom: 1.5rem;
   }
 `
+export const PostItemTag = styled.div`
+  width: fit-content;
+  background: ${props => (props.background ? props.background : "var(--highlight)")};
+  align-items: center;
+  color: var(--postColor);
+  display: flex;
+  font-weight: 700;
+  justify-content: center;
+  font-size: 1rem;
+  padding: .2rem .5rem;
+  margin-bottom: .7rem;
+
+  ${media.lessThan("small")`
+    margin-top: 2rem;
+  `}
+`
+
 
 export const PostItemInfo = styled.div`
   display: flex;
   flex-direction: column;
   margin-left: 1.5rem;
 
-  ${media.lessThan("large")`
+  ${media.lessThan("medium")`
     margin: 0;
   `}
 `
