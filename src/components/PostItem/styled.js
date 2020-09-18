@@ -38,6 +38,7 @@ export const PostItemWrapper = styled.section`
 `
 
 export const PostItemThumbnail = styled.img`
+  border-radius: 50%;
   align-items: center;
   display: flex;
   justify-content: center;

@@ -80,7 +80,7 @@ const GlobalStyles = createGlobalStyle`
     --artCopyright: #fff;
     --404Title: #fff;
     --404Description: #fff;
-    --shadowThumbnail: rgba(32,11,77,1);
+    --shadowThumbnail: rgba(1,17,31,1);
   }
 
   body.light {
