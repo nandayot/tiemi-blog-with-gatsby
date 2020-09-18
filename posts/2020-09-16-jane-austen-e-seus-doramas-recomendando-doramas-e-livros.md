@@ -4,7 +4,7 @@ description: Quando duas paixões possuem uma correlação fica fácil falar sob
   como estão conectadas. Neste blog vamos ver algumas semelhanças dos romances
   de Jane Austen com alguns doramas coreanos.
 date: 2020-09-15 10:05:23
-thumbnail: assets/img/jane-austen-doramas.jpg
+thumbnail: assets/img/jane-capa.png
 category: Livros
 tags:
   - Jane Austen

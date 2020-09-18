@@ -4,13 +4,11 @@ import React, { useState, useEffect } from "react"
 import { Home } from "@styled-icons/boxicons-solid/Home"
 import { SearchAlt2 as Search } from "@styled-icons/boxicons-regular/SearchAlt2"
 import { UpArrowAlt as Arrow } from "@styled-icons/boxicons-regular/UpArrowAlt"
-//import { Bulb as Light } from "@styled-icons/boxicons-regular/Bulb"
-import { ToggleRight } from "@styled-icons/boxicons-regular/ToggleRight"
-import { ToggleLeft } from "@styled-icons/boxicons-regular/ToggleLeft"
 import { Newsletter } from "@styled-icons/entypo/Newsletter"
 import { Face } from "@styled-icons/boxicons-solid/Face"
 //import { Grid } from "@styled-icons/boxicons-solid/Grid"
-
+import { ToggleOn } from "@styled-icons/fa-solid/ToggleOn"
+import { ToggleOff } from "@styled-icons/fa-solid/ToggleOff"
 import getThemeColor from "../../utils/getThemeColor"
 
 import * as S from "./styled"
@@ -67,7 +65,7 @@ const MenuBar = () => {
          }}
          className={theme}
         >
-          {isDarkMode ? <ToggleRight /> : <ToggleLeft />}
+          {isDarkMode ? <ToggleOff /> : <ToggleOn />}
         </S.MenuBarItem>
         <S.MenuBarLink
           to="/newsletter/"

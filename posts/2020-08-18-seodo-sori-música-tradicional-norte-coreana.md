@@ -3,7 +3,7 @@ title: "Seodo Sori: música tradicional norte-coreana"
 description: Diz a lenda que só quem provou a água do rio Daedong consegue
   cantar com perfeição. Atualmente, são poucos os mestres dessa arte centenária.
 date: 2020-08-17 10:33:44
-thumbnail: assets/img/102090_25888_327.jpg
+thumbnail: assets/img/seodo.jpg
 category: Cultura
 tags:
   - coreia do sul
