@@ -39,11 +39,10 @@ Sempre recomendo Jane Austen para qualquer apreciador de literatura. Jane tem um
 
 Pode conter alguns spoilers sobre doramas.
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 ![Header de uma mão escrevendo com nanquim em um papel.](assets/img/letter-hand.jpg)
 
@@ -65,11 +64,10 @@ Não vou contar em detalhes sobre as particularidades de Jane e de sua escrita m
 
 [fonte](https://www.lpm.com.br/site/default.asp?TroncoID=805134&SecaoID=948848&SubsecaoID=0&Template=../livros/layout_autor.asp&AutorID=818372)
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 ![Header de uma cena do filme Orgulho e Preconceito em que aparece Elizabeth segurnado a mão de Darcy quando ele o ajuda a subir na carruagem.](assets/img/mao-darcy.jpg)
 
@@ -88,19 +86,17 @@ Agora vamos listar os 6 romances que falarei neste blog por ordem de publicaçã
 
 [fonte-datas](https://austenprose.com/2012/03/31/publication-dates-of-jane-austens-novels-and-minor-works/)
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 ![Gif de uma cena do filme Orgulho e Preconceito. Gif de uma pintura a óleo no teto de uma mansão](https://64.media.tumblr.com/b7d6accf3a1185e7fbc9e9cf694f0d0b/tumblr_pkrh1sCL9N1r4xg82o1_r1_540.gifv)
 
 # Razão e Sensibilidade
 
-### ─── Duas mulheres comsentimentos contrários
+### ─── Duas mulheres com sentimentos contrários
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 Vou comentar sobre livro somente pelas lembranças da leitura, do começo desse ano, que tenho sobre. Lembro que comecei a lê-lo logo depois de Mansfield Park e terminei em dois dias para vocês entenderem o quão impressionante as obras de Jane são. Fui pega de surpresa pois não esperava que gostaria tanto deste livro. Por isso que foi o último que comprei dela. O nome do livro tem muito a ver com o que minha querida Jane quer passar para o leitor.
 
@@ -108,7 +104,6 @@ O livro conta sobre a vida de duas irmãs Elinor e Marianne que se vêem tiradas
 
 ### ─── E o dorama?
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 #### Age of Youth
 
@@ -118,25 +113,22 @@ O primeiro dorama que veio em mente foi **Age of Youth**. E acho que realmente �
 
 Creio que foi somente este dorama que veio a mente com relação ao livro. Mas que faz muito sentido!
 
-˙
-
-˙
-
+˙\
+˙\
+˙\
 ˙
 
 ### ─── Conclusão
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 ![Foto de um cena do dorama Age of Youth. 4 mulheres olhando para a câmera sentadas no sofá.](https://64.media.tumblr.com/a99eecc13991715d9e1b9efabff5110b/tumblr_ovd3bvWYHX1um15yao4_1280.png)
 
 Se você assistiu e gostou de Age of Youth, eu recomendo ler Razão e Sensibilidade. E se você gostou do livro, com certeza vai amar o dorama!
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 ![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth tocando em esculturas na mansão de Darcy.](https://64.media.tumblr.com/c60cc69a84db04bc1c3da13778dbb136/tumblr_pkrh1sCL9N1r4xg82o5_r2_540.gifv)
 
@@ -144,7 +136,6 @@ Se você assistiu e gostou de Age of Youth, eu recomendo ler Razão e Sensibilid
 
 ### ─── O típico mal entendido
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 Agora vamos falar do livro mais renomado da autora e o que quase todo mundo conhece e ama. Orgulho e Preconceito faz jus ao seu sucesso. O livro do começo ao fim é um espetáculo de escrita e cheio de intrigas e diálogos ácidos e irônicos que o fazem rir e dar aquele sorriso de lado. Não é a toa que foi o livro com mais adaptações cinematográficas entre seus romances.
 
@@ -152,7 +143,6 @@ O livro conta a história de Elizabeth Bennet, uma jovem mulher que prefere livr
 
 ### ─── E o dorama?
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 #### Her Private Life
 
@@ -164,15 +154,13 @@ Agora falemos sobre a semelhança entre Sr. Darcy e Ryan Gold, o protagonista de
 
 Claro que temos diversos outros doramas que retraram algo parecido.
 
-˙
-
-˙
-
+˙\
+˙\
+˙\
 ˙
 
 ### ─── Conclusão
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 ![Foto de uma cena do dorama Her Private Life. Ryan Gold e Deok Mi se beijando.](https://64.media.tumblr.com/e74211d48cd4af8f316c317fe37a235d/79533874f0a6863e-d3/s2048x3072/52aedec25d2fa4248cf3b3b8ed3ccc105f9d5a5a.jpg)
 
@@ -182,11 +170,10 @@ Portanto, quem assistiu e gostou de Her Private Life, com certeza amará Orgulho
 * Rookie Historian Goo Hae-Ryung
 * What’s Wrong With Secretary Kim?
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 ![Gif de uma cena do filme Orgulho e Preconceito. Gif de esculturas na mansão de Darcy.](https://64.media.tumblr.com/1dd2c41ff3fe9ee7b021c20f28287ec0/tumblr_pkrh1sCL9N1r4xg82o4_r3_540.gifv)
 
@@ -194,7 +181,6 @@ Portanto, quem assistiu e gostou de Her Private Life, com certeza amará Orgulho
 
 ### ─── Um final in(esperado)
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 Esse foi um livro que li com um pé atrás porque quando li sua sinopse eu não gostei, confesso. Mas depois que fui lendo eu tive aquele sentimento "ah.... essa é a Jane Austen que conheço.". Mesmo com um plot não agradável para meu gosto, sua escrita é tão excelente que me fez ficar interessada pela trama.
 
@@ -204,7 +190,6 @@ Fanny já crescida, torna-se uma linda mulher e atraí olhares de um amigo de Ed
 
 ### ─── E o dorama?
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 #### Reply 1994
 
@@ -212,25 +197,22 @@ O único dorama que eu consegui pensar e que se encaixa PERFEITAMENTE com a tem�
 
 Uma característica essencial que vi para escolher ele foi a relação dos irmãos protagonistas do dorama, Na Jung e Sseureki (apelido carinhoso dele, que significa "lixo", lê-se "Suregui"). Desde criança eles sempre foram muito apegados um ao outro e mesmo na fase adulta eles continuam com um amor entre irmãos bem forte. Sseureki sempre cuidou muito bem de Na Jung e quando entrou na faculdade de Medicina também não faltou esforços por conta dos problemas de coluna que ela enfrentava. E isso me lembrou da relação de Fanny e Edmund e sua amizade calorosa que tinham. O que mais me impressiona é o final extremamente parecido entre o livro e o dorama. Quem já assistiu Reply 1994 já vai entender o final do livro rsrsrs. Dei um super spoiler agora.
 
-˙
-
-˙
-
+˙\
+˙\
+˙\
 ˙
 
 ### ─── Conclusão
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 ![Foto poster do dorama Reply 1994 onde os 7 protagonistas estão em pé olhando para a camera um ao lado do outro.](assets/img/reply-1994.jpg)
 
 Se você gostou de Reply 1994, vai gostar de Mansfield Park. E se você leu Mansfield Park, é um dever assistir Reply 1994!
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 ![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth bisbilhotando a mansão de Darcy.](https://64.media.tumblr.com/7cd1b743e82e6a99cb8995181f0b5a96/tumblr_pkrh1sCL9N1r4xg82o9_r1_540.gifv)
 
@@ -238,7 +220,6 @@ Se você gostou de Reply 1994, vai gostar de Mansfield Park. E se você leu Mans
 
 ### ─── Um amor destinado
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 Emma foi o segundo livro que li de Jane, senão me engano, e foi uma ótima leitura na época apesar de muitos acharem massante. O livro em si é grande mas eu achei bastante aproveitoso se você prestar bem atenção nos detalhes e diálogos dos personagens.
 
@@ -248,7 +229,6 @@ Apesar de todos as intrigas e confusões que Emma passa, seu amigo Sr. Knightley
 
 ### ─── E o dorama?
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 #### The Time We Were Not In Love
 
@@ -256,15 +236,13 @@ Dos vários que assisti, achei várias referências. Mas quando lembrei da hist�
 
 A grande semelhança se dá na relação entre os protagonistas. Ambos são amigos de longa data e se conhecem da cabeça aos pés. Eles possuem uma relação saudável e sincera. E claro, o interesse amoroso parte dos homens. Querendo ou não, a vida da protagonista feminina é a mais agitada e o amigo sempre está lá para consolar e ajudar. Tanto no livro quanto no dorama. Além dessa semelhança contextual tem a semelhança absurda dos personagens. Emma e Ha Na são ambas requisitadas, bonitas e super confiantes em seus julgamentos. Knightley e Choi Won são compassivos e bem humorados com a vida. É bem provável que o dorama, ou quem criou a história, teve bastante influência através de Emma.
 
-˙
-
-˙
-
+˙\
+˙\
+˙\
 ˙
 
 ─── Conclusão
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 ![Foto poster do dorama The Time We Were not in Love. Os dois protagonistas estão sentados numa escada olhando para a camera.](assets/img/the-time-we-were-not-in-love.jpg)
 
@@ -274,11 +252,10 @@ Já atualiza sua lista de doramas e/ou sua lista de leitura e coloca esses nelas
 * Bubblegum
 * Laughter in Waikiki
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 ![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth bisbilhotando a mansão de Darcy. Desta vez, está olhando para o teto.](https://64.media.tumblr.com/2b60e96f0fbc2f06fecc7b226e21587d/tumblr_pkrh1sCL9N1r4xg82o10_r1_540.gifv)
 
@@ -286,15 +263,12 @@ Já atualiza sua lista de doramas e/ou sua lista de leitura e coloca esses nelas
 
 ### ─── Uma heroína fora da realidade
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 Esse foi o livro mais aleatório que li da Jane. As decisões e pensamentos da protagonista eram bem espontâneas e dramáticas. Mas, na época em que li, eu adorei. E acho que foi um dos mais fáceis de entender no caso dos costumes, tradições e diálogos. Se você for querer começar algum livro de Jane, este seria o ideal.
 
 O livro conta sobre a vida de uma jovem chamada Catherine, vinda de uma família normal e cheia de irmãos. Logo de cara Jane já fala que Catherine sempre fugiu dos padrões exigidos por uma mulher. Ela gostava de brincadeiras de meninos em vez de aprender algum instrumento. Mas isso não excluía as características femininas dela. Catherine amava ler livros principalmente aqueles que a sociedade erudita taxavam como inúteis. No decorrer do livro, Catherine estava lendo um livro gótico quando foi convidada pela família Tilney a passar algumas semanas em sua abadia. Catherine não conteve sua emoção em saber que ficaria hospedada num lugar parecido com o que estava lendo no momento. Nisso ela conhece Henry Tilney e Thorpe no qual ambos ficam encantados pela beleza de Catherine. E assim o livro conta suas aventuras pela Abadia, em bailes, teatros e outros locais com seus pretendentes românticos e sua então nova melhor amiga, irmã de Tilney, Isabelle.
 
 ### ─── E o dorama?
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 #### Touch Your Heart
 
@@ -304,25 +278,22 @@ A começar pela personalidade de Catherine e Oh Jin Shim. Ambas são igualmente 
 
 Falando de Henry Tilney e Kwon Jung Rok a personalidade não é tão semelhante pois Henry é um homem cavalheiro com todas as mulheres e Jung Rok não, principalmente com Jim Shim. Mas a inteligência e a habilidade de se comunicar e sempre ter respostas para tudo é uma semelhança grandiosa.
 
-˙
-
-˙
-
+˙\
+˙\
+˙\
 ˙
 
 ### ─── Conclusão
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 ![Foto de uma colagem em que mostra os dois protagonistas do drama Touch Your Heart. Ambos sentadosa frente de uma mesa de escritório.](https://64.media.tumblr.com/56da350d3014619d2535a5bdc26f0295/tumblr_pnyduuYIvg1tlyx9z_1280.jpg)
 
 Se você assistiu e gostou de Touch You Heart, eu recomendo ler A Abadia de Nothanger. E se você gostou do livro, com certeza vai amar o dorama!
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 ![Gif de uma cena do filme Orgulho e Preconceito. Gif de Elizabeth bisbilhotando a mansão de Darcy. Ela está indo em direção a um vaso de flores.](https://64.media.tumblr.com/f4aa6cf3f8f7153492a5e119c363c36a/tumblr_pkrh1sCL9N1r4xg82o6_r2_540.gifv)
 
@@ -330,7 +301,6 @@ Se você assistiu e gostou de Touch You Heart, eu recomendo ler A Abadia de Noth
 
 ### ─── Um amor interrompido
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 Esse foi o livro mais fofinho com relação aos diálogos entre os protagonistas.
 
@@ -342,7 +312,6 @@ Anos depois, Frederick volta para a cidade com sua vida completamente diferente.
 
 ### ─── E o dorama?
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 #### Romance is a Bonus Book
 
@@ -350,25 +319,22 @@ Com relação a esse livro eu pensei imediatamente em Romance is a Bonus Book. C
 
 Já a relação entre Frederick e Eun Ho são várias. A começar pela fase "jovem" deles que ainda estavam se descobrindo e não possui uma renda boa. Porém, Eun Ho e Frederick sempre deixavam transparecer aquele sentimento de "seguir os seus sonhos e ser bem sucedido". Ambos são personagens que batalham e conseguem um cargo de alta posição. Assim quando Dan I se reencontra com Eun Ho, a relação entre eles mudam completamente. Bem como de Anne com Frederick.
 
-˙
-
-˙
-
+˙\
+˙\
+˙\
 ˙
 
 ### ─── Conclusão
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
 
 ![Cena do dorama Romance is a Bonus Book. Os dois protagonistas estão em cima da cama olhando para um celular.](https://64.media.tumblr.com/e682185575cb876cbd8262d2cbf2a26f/5038044af7688207-3a/s2048x3072/08dfc31a9b1ac537cad06cabc9d17217297ff21c.jpg)
 
 Resumindo. Recomendadíssimo a leitura de Persuasão para quem já assistiu e gostou de Romance is a Bonus Book. E para quem nem leu e nem viu. Opa, está aí uma oportunidade de fazer os dois e não se decepcionar!
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 ![Foto de uma cena do filme Orgulho e Preconceito em que completa a foto já mostrada acima. Está foto aqui mostra a face do Darcy quando ele empresta sua mão para Elizabeth subir na carruagem.](assets/img/darcy0.jpg)
 
@@ -380,11 +346,10 @@ Até a próxima!
 
 *Blog inicialmente criado em 03/11/2019*
 
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
-
-˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙˙
+˙\
+˙\
+˙\
+˙
 
 # Música temática
 

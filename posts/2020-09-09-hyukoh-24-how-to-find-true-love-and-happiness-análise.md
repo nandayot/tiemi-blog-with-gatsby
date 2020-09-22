@@ -253,3 +253,5 @@ Lendo este blog pude perceber que realmente, todas as músicas trazem alguma men
 Espero que tenha gostado da análise das músicas do álbum. E claro, que escutem ele com mais atenção e reinterprete. É outro tipo de sensação.
 
 Obrigada por ler até aqui.
+
+*Blog inicialmente criado em 02/06/2019*
