@@ -170,4 +170,4 @@ Obrigada e até a próxima.
 
 Fiquem com essa cena do dorama My ID is Gangnam Beauty >> [aqui](https://wooyoungbby.tumblr.com/post/176918606297/did-we-ever-tell-you-that-youre-ugly-i-only).
 
-Blog inicialmente feito no dia 11/02/2019
+*Blog inicialmente feito no dia 11/02/2019.*
