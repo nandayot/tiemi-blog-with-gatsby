@@ -6,6 +6,11 @@ description: Um dos artistas mais importantes para a popularização do gênero 
 date: 2020-09-25 10:03:27
 thumbnail: assets/img/264x264.jpg
 category: Música
+tags:
+  - Yoo Jae Ha
+  - Kpop
+  - Kim Hyun Sik
+  - Because I Love You
 background: "#2DA0C3"
 ---
 # Introdução
