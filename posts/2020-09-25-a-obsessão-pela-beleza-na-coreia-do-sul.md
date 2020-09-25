@@ -5,6 +5,13 @@ description: Venha comigo descobrir o quanto a indústria de cosméticos
 date: 2020-09-24 09:41:31
 thumbnail: assets/img/obesessao-beleza.png
 category: Cultura
+tags:
+  - padrão de beleza coreano
+  - akmu
+  - jealousy incarnate
+  - my id is gangnam beauty
+  - true beauty webtoon
+  - cosmetico coreano
 background: "#E7881D"
 ---
 # Introdução
