@@ -1,7 +1,7 @@
 ---
 title: A obsessão pela beleza na Coreia do Sul
 description: Venha comigo descobrir o quanto a indústria de cosméticos
-  sul-coreana causa de impacto no padrão estética e auto estima feminina.
+  sul-coreana causa de impacto no padrão de estética e auto estima feminina.
 date: 2020-09-24 09:41:31
 thumbnail: assets/img/obesessao-beleza.png
 category: Cultura
@@ -147,8 +147,6 @@ Mesmo depois de passar maquiagem, colocar lentes de contato... Os comentários c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zq51xKG-hyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A beleza não está na forma como você cobre o seu rosto, suas "imperfeições" com maquiagem. Mas sim na exposição de sua características únicas. No rosto que só você têm. Cada um tem sua própria característica. E é nisso que a beleza se faz presente. Mas o grande problema disso se dá na aceitação por parte da gente e da sociedade. Então eu sei que é difícil ter esse tipo de pensamento a todo momento. Mas temos que tentar; A autoaceitação é a melhor forma de se libertar dos padrões que a publicidade te mostra.
-
-![foto de um par de olhos da Alicia Keys com maquiagem](https://64.media.tumblr.com/d1c332dfc2b85d80cb52e694c96a0ab2/e7614eb9d72b5388-f5/s1280x1920/596d6a0dfcc7e0595c0df8d1662095e5194d3b05.jpg)
 
 # Não tem problema se maquiar!
 
