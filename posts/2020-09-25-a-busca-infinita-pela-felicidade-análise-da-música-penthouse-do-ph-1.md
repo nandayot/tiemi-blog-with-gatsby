@@ -12,7 +12,7 @@ tags:
   - ph1 penthouse
   - korean hip hop
   - F. Scott Fitzgerald
-background: "#B31917"
+background: "#2DA0C3"
 ---
 # Introdução
 
