@@ -1,16 +1,17 @@
 ---
 title: A busca infinita pela FELICIDADE - análise da música Penthouse do pH-1
-description: Análise lírica da letra Penthou do rapper sul-coreano pH-1 e o todo
-  o conceito do seu EP The Great Gastby e um pouco da sua própria experiência em
-  alcançar a felicidade.
+description: Análise lírica da letra Penthouse do rapper sul-coreano pH-1 e o
+  todo o conceito do seu EP The Great Gastby e um pouco da sua própria
+  experiência em alcançar a felicidade.
 date: 2020-09-25 09:11:49
 thumbnail: assets/img/ph1-gatsby.png
 category: Música
 tags:
   - ph1
-  - gatsby
+  - the great gatsby
   - ph1 penthouse
   - korean hip hop
+  - F. Scott Fitzgerald
 background: "#B31917"
 ---
 # Introdução
@@ -45,7 +46,7 @@ Mas agora chega de enrolação e vamos analisar a música? Para quem não ouviu 
 
 [ouça Communicate aqui](https://www.youtube.com/watch?v=KG5gSTi3H9Q)
 
-&nbsp; &nbsp;
+<br /><br /><br /><br />
 
 ![Foto de um caderno com rabiscos.](assets/img/ph1-2.png)
 
@@ -89,6 +90,8 @@ Ele também faz uma analogia dizendo que talvez aquele frio que está sentindo s
 
 Outra parte da música fala sobre pH-1 fazendo festas e festas na sua casa, na cobertura, convindando todos e todas mas mesmo assim sua vida continuava solitária. Ou seja, mesmo com festas e luxúria, parecia que ele não estava no mesmo ambiente que os demais estavam.
 
+<br /><br /><br /><br />
+
 ![ph-1 sentado numa cadeira em um quarto com iluminação azul.](assets/img/ph1-5.png)
 
 ### ─── a referência
@@ -119,6 +122,8 @@ Gatsby, mesmo sabendo que não conseguiria alcançar a luz verde, ele persistia 
 
 Assim, pH-1 continua se perguntando, qual é sua felicidade? Mesmo tendo todo esse status, ele não era feliz. Ele ainda continua indo atrás de sua felicidade. Vivenciando o que o mundo traz para tentar achar algo que o faça verdadeiramente feliz.
 
+<br /><br /><br /><br />
+
 ![Imagem de uma calçada movimentada e ph-1 aparece em foco olhando para câmera.](assets/img/ph1-4.png)
 
 ### ─── buscando e buscando
@@ -139,6 +144,8 @@ Ele tinha alcançado o sonho de viajar ao mundo e ter novas experiências. Poré
 
 > "A felicidade só é real quando compartilhada"
 
+<br /><br /><br /><br />
+
 ![Imagem com texto escrito "Qual é a sua luz verde piscando?"](assets/img/what-is-your-green-flashing-light_.png)
 
 ### ─── ultima pergunta
@@ -156,6 +163,8 @@ Para pH-1, mesmo ele tendo alcançado seu sonho de ser bem sucedido fazendo mús
 Qual é a sua luz verde piscando?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jA1Jo3Uka2k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br /><br /><br /><br />
 
 # Finalização
 
