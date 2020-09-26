@@ -45,6 +45,8 @@ Mas agora chega de enrolação e vamos analisar a música? Para quem não ouviu 
 
 [ouça Communicate aqui](https://www.youtube.com/watch?v=KG5gSTi3H9Q)
 
+&nbsp; &nbsp;
+
 ![Foto de um caderno com rabiscos.](assets/img/ph1-2.png)
 
 # Análise lírica
@@ -136,8 +138,6 @@ A coletividade também é importante. Lembra do Alexander Supertramp que eu fale
 Ele tinha alcançado o sonho de viajar ao mundo e ter novas experiências. Porém, ele acabou morrendo de inanição, sozinho, num ônibus abandonado no Alasca. Sabe quais foram suas últimas palavras?
 
 > "A felicidade só é real quando compartilhada"
-
-
 
 ![Imagem com texto escrito "Qual é a sua luz verde piscando?"](assets/img/what-is-your-green-flashing-light_.png)
 
