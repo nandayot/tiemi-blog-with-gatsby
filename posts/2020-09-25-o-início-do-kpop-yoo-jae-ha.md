@@ -27,7 +27,7 @@ Vamos ao blog.
 
 ˙
 
-![Foto de Yoo Jae Ha sentado em um banco em frente à praia.](assets/img/yoojaehaaa.png)
+![Foto de Yoo Jae Ha sentado em um banco em frente à praia.](assets/img/yoojaehaaaa.jpg)
 
 # Quem é Yoo Jae Ha?
 
@@ -65,13 +65,13 @@ Na época da banda de Cho Yong Pil, chamada The Great Birth na época, Yong Pil 
 
 Vale lembrar que Jae Ha era uma pessoa muito insegura e de baixa autoestima. Ele não acreditava em seu potencial e no seu talento em criar músicas. Ele sempre ficava questionando as suas habilidades. Quando Yong Pil falou para ele escrever músicas a reação foi imediata. Jae Ha ficou bastante feliz e acabou escrevendo 10 músicas depois daquilo. Quebrando aquela insegurança e autodepreciação de só ter escrito uma música (Because I Love You). Existem outras versões da história de como a canção do Jae Ha foi para com Yong Pil.
 
-&nbsp;&nbsp;
+<br /><br />
 
 *Na foto: Partitura “Our Love” de Yoo Jae Ha entregue para Cho Yong Pil*
 
 ![Na foto: Partitura “Our Love” de Yoo Jae Ha entregue para Cho Yong Pil](assets/img/partitura.png)
 
-&nbsp;&nbsp;
+<br /><br />
 
 Acontece que todas as gravações das músicas que Yoo Jae Ha escreveu não o agradava. "Because I Love You" e "Our Love" foi gravada por Yong Pil. E "You In My Arms" foi gravada por Lee Moon Sae. Yoo Jae Ha se arrependeu de entregar suas músicas para artistas famosos da época. Ele dizia que o sentimento que eles entregavam não era o sentimento correto para a música dele. Além da qualidade não ser a melhor para a música. Ouça You In My Arms, na voz de Lee Moon Sae, [aqui](https://www.youtube.com/watch?v=sTYgjXB7aZw) para entenderem.
 
@@ -81,9 +81,13 @@ Yoo Jae Ha tinha seu próprio sonho. Ele gastou 8 milhões de won na época para
 
 Quando o álbum foi lançado houve muitas reviravoltas. No começo ele foi taxado de cantor com falta de habilidade vocal. E não conseguiu que suas músicas fossem ouvidas na rádio e também não foi aceito em programas de TV na época por este motivo. Além disso, a mistura de música clássica com a pop não agradou os críticos e ficou conhecida como "músicas estranhas". Outro ponto foi a maneira como ele se vestia, que não era o jeito de um idol pop de se vestir. Os críticos também questionavam as melodias contrapontais e complexas, que eram "feias" na época mas que agora são um mainstream no kpop.
 
+<br /><br />
+
 *Na foto: Guitarra que Yoo Jae Ha usava*
 
 ![Na foto: Guitarra que Yoo Jae Ha usava (cor vermelha)](assets/img/22e479a7f1718728292e15afb472c6c0fd28cea8r1-2048-778v2_hq.jpg)
+
+<br /><br />
 
 A época dos anos 80 na Coreia também não era nada boa politicamente. O ano de 1987 ainda estava sob o regime militar do presidente Chun Doo Hwan. (As eleições diretas só foram acontecer em dezembro de 1987). Por conta do regime, vários artistas sofreram repressões e banimentos. Inclusive músicas românticas de Yoo Jae Ha teve que mudar o título e músicas por inteiro a pedido de um departamento de "moralidade". E de vez em quando artistas tinham que fazer propagandas em suas músicas exaltando o regime. Caso contrário sofreria punimentos.
 
@@ -109,9 +113,13 @@ A última pessoa que Jae Ha viu antes do acidente, falou que ele estava desapont
 
 Devido a sua morte súbita. A única coisa que ele fez durante sua promoção do álbum foi aparecer no programa da KBS, March of Youth, cantando a música My Reflection in My Mind. Veja abaixo.
 
+<br /><br />
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VlY18JiWbyo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Essa foi a primeira e última aparição dele na TV.*
+
+<br /><br />
 
 Because I Love You e Last Day foram as músicas mais tocadas nas rádios depois de sua morte. Todo o reconhecimento que ele não teve durante sua curta vida foi concedido depois do acidente. Uma questão interessante é que o solo de guitarra da música Because I Love You foi feito por Jae Ha. Antes disso, um guitarrista e amigo próximo de Jae Ha falou que ele não sabia tocar guitarra mas que para gravar a música ele teve que aprender. O amigo diz se sentir envergonhado pois Yoo Jae Ha conseguiu não só aprender mas a realizar técnicas de guitarra profissional. Em questões de dias.
 
@@ -121,7 +129,11 @@ A morte totalmente imprevista de Yoo Jae Ha chocou o país inteiro. Seus pais, c
 
 As duas músicas que Yoo Jae Ha compôs e não foram lançadas no álbum foi dada para Han Yeong Ae, cantora e amiga de Jae Ha, chamada [비애 (Sorrow)](https://www.youtube.com/watch?v=4y8YK0QUG3U) (1988) e para Lee Moon Sae, intitulada [그대와 영원히 (Forever With You)](https://www.youtube.com/watch?v=rXfVduR4nFs) (1985).
 
+<br /><br />
+
 ![Foto do cantor Kim Hyun Sik.](assets/img/kimhyunsik.jpg)
+
+<br /><br />
 
 Kim Hyun Sik foi um dos artistas que mais sofreu pela morte de Jae Ha. O quarto álbum da banda de Hyun Sik foi lançado em 1988 no qual incluiu a música de Jae Ha 'You In My Arms'. Depois da morte de Jae Ha, Hyun Sik começou a beber muito chegando ao ponto do médico dizer que poderia morrer se não parasse. E foi o que aconteceu. Em 1 de Novembro de 1990, coincidentemente no mesmo dia da morte de Yoo Jae Ha, Hyun Sik morreu no hospital num caso grave de cirrose. Mais tarde, em 2004, Epik High lançou o álbum High Society com a música "[1 de Novembro](https://www.youtube.com/watch?v=2nMVpBcyyeI)" dedicada a Yoo Jae Ha e Hyun Sik.
 
@@ -155,7 +167,7 @@ Não só no cenário musical que Yoo Jae Ha é lembrado. Nosso querido diretor B
 
 ˙
 
-![](assets/img/yoojaeha-capa.png)
+![](assets/img/photogrid_1601164693709.jpg)
 
 # Discografia
 
