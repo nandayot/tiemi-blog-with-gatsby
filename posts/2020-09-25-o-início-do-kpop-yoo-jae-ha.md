@@ -11,11 +11,12 @@ tags:
   - Kpop
   - Kim Hyun Sik
   - Because I Love You
+  - Season of You and Me
 background: "#2DA0C3"
 ---
 # Introdução
 
-Bom dia, boa tarde e boa noite a todos! Como vão vocês? Espero que tudo bem! Como pode ver pelo título. Irei falar de uma época da história importantíssima para o surgimento do nosso tão amado kpop. Falarei de um artista em especial que foi o mais importante artista para a popularização do gênero da Coreia.
+Como pode ver pelo título. Irei falar de uma época da história importantíssima para o surgimento do tão aclamado kpop. Falarei de um artista em especial que foi o mais importante artista para a popularização do gênero da Coreia.
 
 Muitos pensam em Big Bang, SuJu, Seo Taiji, Sechskies e GOD quando falam sobre origens do Kpop mas nesse blog vou falar de um compositor e cantor mais antigo que certamente foi o que influenciou os artistas que citei acima.
 
@@ -59,11 +60,11 @@ Mas não foi concedido a Cho Young Pil, pela universidade, a permissão de Yoo J
 
 Apesar de só ter entrado na banda em 1985, o álbum japonês de Cho Yong Pil, lançado em Novembro de 1984 já incluía a versão coreana e japonesa de Because I Love You do Yoo Jae Ha dando os créditos completos a Yong Pil como vocês podem ver nesse blog [aqui](https://m.blog.naver.com/PostView.nhn?blogId=dooge2080&logNo=220297387836&proxyReferer=https%3A%2F%2Fwww.google.com%2F). Logo depois, as músicas contidas nesse álbum japonês foram incluídas no sétimo álbum.
 
-A música de Yoo Jae Ha acabou não fazendo tanto sucesso no álbum de Yong Pil pela quantidade de outras músicas igualmente bem produzidas que acabou sendo ofuscada por elas. Até porque, naquela época, Yong Pil era uma dos artistas mais famosos, que tinha aquele ascensão igual teve o Elvis na sua época. Até hoje Yong Pil é considerado o rei do pop coreano.
+A música de Yoo Jae Ha acabou não fazendo tanto sucesso no álbum de Yong Pil pela quantidade de outras músicas igualmente bem produzidas que acabou sendo ofuscada por elas. Até porque, naquela época, Yong Pil era uma dos artistas mais famosos, que tinha aquela ascensão igual teve o Elvis na sua época. Até hoje Yong Pil é considerado o rei do pop coreano.
 
-Na época da banda de Cho Yong Pil, chamada The Great Birth na época, Yong Pil sabia que Jae Ha era uma diamante raro e incentivou-o a escrever mais músicas além de Because I Love You.
+Na época da banda de Cho Yong Pil, chamada The Great Birth, Yong Pil sabia que Jae Ha era uma diamante raro e incentivou-o a escrever mais músicas além de Because I Love You.
 
-Vale lembrar que Jae Ha era uma pessoa muito insegura e de baixa autoestima. Ele não acreditava em seu potencial e no seu talento em criar músicas. Ele sempre ficava questionando as suas habilidades. Quando Yong Pil falou para ele escrever músicas a reação foi imediata. Jae Ha ficou bastante feliz e acabou escrevendo 10 músicas depois daquilo. Quebrando aquela insegurança e autodepreciação de só ter escrito uma música (Because I Love You). Existem outras versões da história de como a canção do Jae Ha foi para com Yong Pil.
+Vale lembrar que Jae Ha era uma pessoa muito insegura e de baixa autoestima. Ele não acreditava em seu potencial e no seu talento em criar músicas. Ele sempre ficava questionando as suas habilidades. Quando Yong Pil falou para ele escrever músicas a reação foi imediata. Jae Ha ficou bastante feliz e acabou escrevendo 10 músicas depois daquilo. Quebrando aquela insegurança e autodepreciação de só ter escrito uma música (Because I Love You). Existem outras versões da história de como a canção do Jae Ha foi parar com Yong Pil.
 
 <br /><br />
 
@@ -75,7 +76,7 @@ Vale lembrar que Jae Ha era uma pessoa muito insegura e de baixa autoestima. Ele
 
 Acontece que todas as gravações das músicas que Yoo Jae Ha escreveu não o agradava. "Because I Love You" e "Our Love" foi gravada por Yong Pil. E "You In My Arms" foi gravada por Lee Moon Sae. Yoo Jae Ha se arrependeu de entregar suas músicas para artistas famosos da época. Ele dizia que o sentimento que eles entregavam não era o sentimento correto para a música dele. Além da qualidade não ser a melhor para a música. Ouça You In My Arms, na voz de Lee Moon Sae, [aqui](https://www.youtube.com/watch?v=sTYgjXB7aZw) para entenderem.
 
-Depois de se formar, em 1986, Yoo Jae Ha começou a tocar na banda chamada Spring, Summer, Autumn and Winter (봄여름가을겨울), do Kim Hyun Sik, outro cantor famoso na época. Ele estava se preparando para lançar seu terceiro álbum e pediu para os integrantes da banda escrever músicas. Yoo Jae Ha levou todas as 10 músicas que fez. Porém Hyun Sik só aceitava uma música por membro para manter a igualdade. Jae Ha ficou bravo na época e disse que ia sair da banda. Apesar disso, o álbum foi lançado em Dezembro de 1986 e depois de Jae Ha sair da banda, Hyun Sik e ele continuaram bons amigos.
+Depois de se formar, em 1986, Yoo Jae Ha começou a tocar na banda chamada Spring, Summer, Autumn and Winter (봄여름가을겨울), do Kim Hyun Sik, outro cantor famoso na época. Ele estava se preparando para lançar seu terceiro álbum e pediu para os integrantes da banda escreverem músicas. Yoo Jae Ha levou todas as 10 músicas que fez. Porém Hyun Sik só aceitava uma música por membro para manter a igualdade. Jae Ha ficou bravo na época e disse que ia sair da banda. Apesar disso, o álbum foi lançado em Dezembro de 1986 e depois de Jae Ha sair da banda, Hyun Sik e ele continuaram bons amigos.
 
 Yoo Jae Ha tinha seu próprio sonho. Ele gastou 8 milhões de won na época para produzir seu álbum solo. Onde ele escreveu, compôs, arranjou, tocou... enfim, fez tudo no álbum. Um feito enorme na época pois era difícil uma pessoa só produzir tudo sozinha. O álbum foi lançado em Agosto de 1987. Jae Ha, no começo da produção do álbum, no final de 1986, pediu ajuda para o baixista da banda de Hyun Sik, Cho Mon Ik. Ele ficou maravilhado e surpreso por receber as músicas de Jae Ha totalmente escritas e arranjadas. Todas as músicas tinham partituras para todos os instrumentos. E Jae Ha tinha feito tudo sozinho. Cho sabia que faria sucesso.
 
@@ -89,7 +90,7 @@ Quando o álbum foi lançado houve muitas reviravoltas. No começo ele foi taxad
 
 <br /><br />
 
-A época dos anos 80 na Coreia também não era nada boa politicamente. O ano de 1987 ainda estava sob o regime militar do presidente Chun Doo Hwan. (As eleições diretas só foram acontecer em dezembro de 1987). Por conta do regime, vários artistas sofreram repressões e banimentos. Inclusive músicas românticas de Yoo Jae Ha teve que mudar o título e músicas por inteiro a pedido de um departamento de "moralidade". E de vez em quando artistas tinham que fazer propagandas em suas músicas exaltando o regime. Caso contrário sofreria punimentos.
+A época dos anos 80 na Coreia também não era nada boa politicamente. O ano de 1987 ainda estava sob a ditadura militar do presidente Chun Doo Hwan. (As eleições diretas só foram acontecer em dezembro de 1987). Por conta do regime, vários artistas sofreram repressões e banimentos. Inclusive músicas românticas de Yoo Jae Ha teve que mudar o título e músicas por inteiro a pedido de um departamento de "moralidade". E de vez em quando artistas tinham que fazer propagandas em suas músicas exaltando o regime. Caso contrário sofreria punimentos.
 
 Mas sua música começou a ganhar popularidade na rádio no programa do Lee Moon Sae, Starry Night. No quadro Starry Night Chart especificamente. Onde ele classificava as músicas pelo número de chamadas de rádio. Yoo Jae Ha quebrou o recorde do programa por ficar mais tempo em primeiro lugar.
 
@@ -121,13 +122,13 @@ Devido a sua morte súbita. A única coisa que ele fez durante sua promoção do
 
 <br /><br />
 
-Because I Love You e Last Day foram as músicas mais tocadas nas rádios depois de sua morte. Todo o reconhecimento que ele não teve durante sua curta vida foi concedido depois do acidente. Uma questão interessante é que o solo de guitarra da música Because I Love You foi feito por Jae Ha. Antes disso, um guitarrista e amigo próximo de Jae Ha falou que ele não sabia tocar guitarra mas que para gravar a música ele teve que aprender. O amigo diz se sentir envergonhado pois Yoo Jae Ha conseguiu não só aprender mas a realizar técnicas de guitarra profissional. Em questões de dias.
+Because I Love You e Last Day foram as músicas mais tocadas nas rádios depois de sua morte. Todo o reconhecimento que ele não teve durante sua curta vida foi concedido depois do acidente. Uma questão interessante é que o solo de guitarra da música Because I Love You foi feito por Jae Ha. Antes disso, um guitarrista e amigo próximo dele falou que ele não sabia tocar guitarra mas que para gravar a música ele teve que aprender. O amigo diz sentir-se envergonhado pois Yoo Jae Ha conseguiu não só aprender mas a realizar técnicas de guitarra profissional. Em questões de dias.
 
 Seu estilo vocal também foi logo admirado por diversos vocalistas. Apesar de no começo ser considerado instável e tedioso, quando você tenta imitar é muito mais difícil do que aparenta ser. Yoo Jae Ha tinha um estilo único, puro e limpo de cantar. E não só a técnica da voz se sobressaía mas seus sentimentos na hora de cantar também.
 
 A morte totalmente imprevista de Yoo Jae Ha chocou o país inteiro. Seus pais, com mais de 60 anos na época apareceu numa reportagem especial sobre Jae Ha numa revista e a foto de seu pai olhando para o santuário de Jae Ha quebrou o coração de vários fãs.
 
-As duas músicas que Yoo Jae Ha compôs e não foram lançadas no álbum foi dada para Han Yeong Ae, cantora e amiga de Jae Ha, chamada [비애 (Sorrow)](https://www.youtube.com/watch?v=4y8YK0QUG3U) (1988) e para Lee Moon Sae, intitulada [그대와 영원히 (Forever With You)](https://www.youtube.com/watch?v=rXfVduR4nFs) (1985).
+As duas músicas que Yoo Jae Ha compôs e não foram lançadas no álbum foi dada para Han Yeong Ae, cantora e amiga dele, chamada [비애 (Sorrow)](https://www.youtube.com/watch?v=4y8YK0QUG3U) (1988) e para Lee Moon Sae, intitulada [그대와 영원히 (Forever With You)](https://www.youtube.com/watch?v=rXfVduR4nFs) (1985).
 
 <br /><br />
 
@@ -135,7 +136,7 @@ As duas músicas que Yoo Jae Ha compôs e não foram lançadas no álbum foi dad
 
 <br /><br />
 
-Kim Hyun Sik foi um dos artistas que mais sofreu pela morte de Jae Ha. O quarto álbum da banda de Hyun Sik foi lançado em 1988 no qual incluiu a música de Jae Ha 'You In My Arms'. Depois da morte de Jae Ha, Hyun Sik começou a beber muito chegando ao ponto do médico dizer que poderia morrer se não parasse. E foi o que aconteceu. Em 1 de Novembro de 1990, coincidentemente no mesmo dia da morte de Yoo Jae Ha, Hyun Sik morreu no hospital num caso grave de cirrose. Mais tarde, em 2004, Epik High lançou o álbum High Society com a música "[1 de Novembro](https://www.youtube.com/watch?v=2nMVpBcyyeI)" dedicada a Yoo Jae Ha e Hyun Sik.
+Kim Hyun Sik foi um dos artistas que mais sofreu pela morte de Jae Ha. O quarto álbum da banda de Hyun Sik foi lançado em 1988 no qual incluiu a música de Jae Ha 'You In My Arms'. Depois da morte dele, Hyun Sik começou a beber muito chegando ao ponto do médico dizer que poderia morrer se não parasse. E foi o que aconteceu. Em 1 de Novembro de 1990, coincidentemente no mesmo dia da morte de Yoo Jae Ha, Hyun Sik morreu no hospital num caso grave de cirrose. Mais tarde, em 2004, Epik High lançou o álbum High Society com a música "[1 de Novembro](https://www.youtube.com/watch?v=2nMVpBcyyeI)" dedicada a Yoo Jae Ha e Hyun Sik.
 
 ˙
 
@@ -149,11 +150,11 @@ Kim Hyun Sik foi um dos artistas que mais sofreu pela morte de Jae Ha. O quarto 
 
 # Legado
 
-Muitos críticos consideram o álbum de Yoo Jae Ha como um marco da evolução da música pop e ballad coreana. Outros dividem a história da música pop como antes e depois de Yoo Jae Ha. O famoso cantor e compositor Kim Dong Ryul falou que a morte dele foi como atrasar em 10 anos os padrões da música pop no país. E muitos consideram ele como o Rei da música pop e ballad coreana. Não é a toa que muitos cantores de ballad foram fortemente influenciados por Yoo Jae Ha e o gênero balllad só é o que é hoje por conta dele.
+Muitos críticos consideram o álbum de Yoo Jae Ha como um marco da evolução da música pop e ballad coreana. Outros dividem a história da música pop como antes e depois de Yoo Jae Ha. O famoso cantor e compositor Kim Dong Ryul falou que a morte dele foi como atrasar em 10 anos os padrões da música pop no país. E muitos consideram ele como o Rei da música pop e ballad coreana. Não é a toa que muitos cantores de ballad foram fortemente influenciados por Yoo Jae Ha e o gênero só é o que é hoje por conta dele.
 
 Yoo Jae Ha foi único na música coreana pelo simples fato de ser praticamente o único cantor na época que se especializou em música e fez graduação. Muitos cantores da época não compunham as músicas e alguns não sabiam nem ler partituras. Mas Jae Ha sabia fazer tudo. Desde a criação da letra até a criação da partitura de cada instrumento que seria colocado na melodia. Foi por isso que conseguiu produzir um álbum inteiro sozinho.
 
-O lucro que o álbum de Yoo Jae Ha trouxe fez com que o pai dele criasse a Yoo Jae-ha Scholarship (Bolsa Yoo Jae Ha) e a Competição Musical Yoo Jae Ha. As duas com a intenção de oferecer oportunidade a jovens músicos de expandir as possibilidades no pop coreano. Um vencedor da Competição disse: "Eu só entrei na faculdade de música porque Yoo Jae Ha também entrou". Ele agora é o famoso compositor, cantor e apresentador You Hee-yeol. Não só ele como diversos artistas, agora consolidados, foram descobertos a partis desta competição (ex: Kim Yeon-woo e Bang Si-hyuk).
+O lucro que o álbum de Yoo Jae Ha trouxe fez com que o pai dele criasse a Yoo Jae-ha Scholarship (Bolsa Yoo Jae Ha) e a Competição Musical Yoo Jae Ha. As duas com a intenção de oferecer oportunidade a jovens músicos de expandir as possibilidades no pop coreano. Um vencedor da Competição disse: "Eu só entrei na faculdade de música porque Yoo Jae Ha também entrou". Ele agora é o famoso compositor, cantor e apresentador You Hee-yeol. Não só ele como diversos artistas, agora consolidados, foram descobertos a partir desta competição (ex: Kim Yeon-woo e Bang Si-hyuk).
 
 Além disso diversos cantores já fizeram covers das músicas de Yoo Jae Ha e que é impossível enumerar aqui. Mas devo citar dois remakes do álbum que foram feitos. Um no ano de 1997 e outro no ano de 2017. Ambos em homenagem a Jae Ha quando sua morte completou 10 e 30 anos.
 
@@ -171,11 +172,11 @@ Não só no cenário musical que Yoo Jae Ha é lembrado. Nosso querido diretor B
 
 # Discografia
 
-Falei muito sobre Yoo Jae Ha mas não falei de suas músicas. Não sei muito de teoria musical então a minha análise de músicas é completamente superficial mas tenho certezas que músicos autênticos conseguem entender a genialidade de Jae Ha através do seu único álbum.
+Falei muito sobre Yoo Jae Ha mas não falei de suas músicas. Não sei muito de teoria musical então a minha análise de músicas é completamente superficial mas tenho certeza que músicos autênticos conseguem entender a genialidade de Jae Ha através do seu único álbum.
 
 ### ─── Faixa 1: [Our Love](https://youtu.be/gSAmQ1Di_0Y)
 
-Uma das músicas mais tocadas em karaokê e que foi uma das músicas tocadas em Reply 1988. Nessa música já percebemos toda a instrumentalidade de Jae Ha. É possível ouvir diversos instrumentos sendo tocados em segundo plano de ajuda a enriquecer a melodia. Uma técnica usada por ele e que até hoje usa é a oitavada. Quando a melodia sobe um tom acima.
+Uma das músicas mais tocadas em karaokê e que foi uma das tocadas em Reply 1988. Nessa música já percebemos toda a instrumentalidade de Jae Ha. É possível ouvir diversos instrumentos sendo tocados em segundo plano de ajuda a enriquecer a melodia. Uma técnica usada por ele e que até hoje usa é a oitavada. Quando a melodia sobe um tom acima.
 
 ### ─── Faixa 2: [You In My Arms](https://youtu.be/0JMEU5eU-kU)
 
