@@ -1,7 +1,7 @@
 ---
 title: "O início do Kpop: Yoo Jae Ha"
 description: Um dos artistas mais importantes para a popularização do gênero e
-  uns dos pioneiros na junção de música erudita com a música popular coreana.
+  um dos pioneiros na junção de música erudita com a música popular coreana.
   Venha conhecer a história de Yoo Jae Ha.
 date: 2020-09-25 10:03:27
 thumbnail: assets/img/264x264.jpg
@@ -231,11 +231,15 @@ Em 2011 o álbum de Yoo Jae Ha registrou a venda de mais de 2 milhões de cópia
 
 Em 2018 a Hankyeoreh em conjunto com o site Melon, Taerim Scores, diversos críticos musicais e jornalistas rankearam os 100 álbuns mais importantes do pop coreano. Because I Love You ficou em primeiro lugar. Mas não somente neste ano que o álbum de Jae Ha foi reconhecido. Em 1998 ficou em sétimo lugar e em 2007 em segundo lugar em ranks similares.
 
+### ─── Adaptação
+
+Foi anunciado recentemente que a vida de Yoo Jae Ha, Kim Hyun Sik e o primeiro amor de Yoo Jae Ha ganhará adaptação para o cinema. Um filme, chamado Season of You and Me, que terá lançamento em 2021 com participação do ator Song Joong Ki como Yoo Jae Ha. Saiba mais aqui: [aqui](https://asianwiki.com/Season_of_You_and_Me).
+
 ### ─── Covers & Performances
 
 [Hyukoh — Because I Love You](https://youtu.be/_ijvawCjPW0) (2015 — Melon Music Awards)
 
-[Crush — Blocked Road](https://youtu.be/P3x2Mae3Nuo)
+[Crush — Blocked Road](https://youtu.be/P3x2Mae3Nuo) (2019 — Sketchbook)
 
 [Crush — Because I Love You](https://youtu.be/BXfWyjnrruk) (2019 — Sketchbook)
 
