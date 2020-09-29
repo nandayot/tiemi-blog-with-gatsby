@@ -5,7 +5,7 @@ description: Tempos Difíceis é um livro satírico sobre a Inglaterra da primei
   grandes forças, as Mãos e seus Mestres. Entenda como essa obra continua sendo
   impactante nos tempos atuais.
 date: 2020-09-29 10:57:39
-thumbnail: assets/img/sissy-louisa.gif
+thumbnail: assets/img/hard-times.png
 category: Livros
 tags:
   - Charles Dickens
@@ -29,6 +29,10 @@ Esta é minha primeira resenha "elaborada" da vida. Não sei realmente o que fal
 > Primeira publicação: As aventuras do sr. Pickwick, 1836\
 
 Charles Dickes foi um escritor inglês da era vitoriana. Ele era autodidata e assim aprendeu taquigrafia a ainda jovem conseguiu emprego no tribunal. Depois se tornou jornalista e com vinte e poucos anos publicou seu primeiro livro. Em 1838 publica seu segundo livro, dois anos depois da publicação do primeiro, Oliver Twist, onde começou suas críticas a sociedade vitoriana. Logo depois ele começou uma série de livros de Natal de 1843 a 1848. E em 1849 publicou David Copperfield um dos livros de maior sucesso do autor. O livro Tempos Difícies foi publicado em 1854. Outro clássico é Grandes Esperanças, lançado em 1860.
+
+<br /><br />
+
+![Foto do livro de Tempos Difíceis. Capa Dura de cor roxa.](assets/img/temposdificeis.jpg)
 
 # Tempos Difíceis
 
