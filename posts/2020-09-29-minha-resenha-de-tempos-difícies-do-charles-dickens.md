@@ -26,9 +26,9 @@ Esta é minha primeira resenha "elaborada" da vida. Não sei realmente o que fal
 > Nascimento: 7 de fevereiro de 1812\
 > Cidade Natal: Portsmouth, Inglaterra\
 > Falecimento: 9 de junho de 1870\
-> Primeira publicação: As aventuras do sr. Pickwick, 1836\
+> Primeira publicação: As aventuras do sr. Pickwick, 1836
 
-Charles Dickes foi um escritor inglês da era vitoriana. Ele era autodidata e assim aprendeu taquigrafia a ainda jovem conseguiu emprego no tribunal. Depois se tornou jornalista e com vinte e poucos anos publicou seu primeiro livro. Em 1838 publica seu segundo livro, dois anos depois da publicação do primeiro, Oliver Twist, onde começou suas críticas a sociedade vitoriana. Logo depois ele começou uma série de livros de Natal de 1843 a 1848. E em 1849 publicou David Copperfield um dos livros de maior sucesso do autor. O livro Tempos Difícies foi publicado em 1854. Outro clássico é Grandes Esperanças, lançado em 1860.
+Charles Dickens foi um escritor inglês da era vitoriana. Ele era autodidata e assim aprendeu taquigrafia e ainda jovem conseguiu emprego no tribunal. Depois se tornou jornalista e com vinte e poucos anos publicou seu primeiro livro. Em 1838 publica seu segundo livro, dois anos depois da publicação do primeiro, Oliver Twist, onde começou suas críticas a sociedade vitoriana. Logo depois ele começou uma série de livros de Natal de 1843 a 1848. E em 1849 publicou David Copperfield um dos livros de maior sucesso do autor. O livro Tempos Difícies foi publicado em 1854. Outro clássico é Grandes Esperanças, lançado em 1860.
 
 <br /><br />
 
@@ -39,8 +39,6 @@ Charles Dickes foi um escritor inglês da era vitoriana. Ele era autodidata e as
 Tempos Difíceis é o décimo romance de Charles Dickens e a estória se passa na cidade fictícia Coketown, uma cidade típica e com todos as características de uma cidade vitoriana na era da revolução industrial. Com grandes fábricas e grandes torres de fumaça. Uma cidade onde não tinha dia, pois ele era coberto com fumaça a todo momento. Não vou colocar o enredo dele aqui. Vou falar dentro da minha perspectiva. 
 
 Esse é meu primeiro livro de Charles Dickens e estou ansiosa para começar outro clássico seu. Eu gostei bastante do desenvolvimento de Tempos Difíceis. Senti uma certa dificuldade no início da leitura, pode ter sido causado pelo meu tempo de inatividade no mundo literário também. Mas o começo do livro começa um pouco confuso porém a escrita do Charles não peca. É um estilo que gostei bastante e por ser uma livro onde Charles Dickens tem uma escrita mais amadurecida, também contribui para uma fluida leitura. 
-
-<br /><br /><br />
 
 ### ─── Começo do livro
 
