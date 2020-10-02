@@ -5,7 +5,7 @@ description: Tempos Difíceis é um livro satírico sobre a Inglaterra da primei
   grandes forças, as Mãos e seus Mestres. Entenda como essa obra continua sendo
   impactante nos tempos atuais.
 date: 2020-09-29 10:57:39
-thumbnail: assets/img/hard-times.png
+thumbnail: assets/img/tempos.png
 category: Livros
 tags:
   - Charles Dickens
@@ -20,6 +20,12 @@ background: "#D6BA32"
 # Introdução
 
 Esta é minha primeira resenha "elaborada" da vida. Não sei realmente o que falar sobre um livro mas quando o comprei sabia que seria uma crítica sobre o capitalismo e me interessei de antemão. Charles Dickens também é um autor que sempre quis ler pois sempre me recomendavam e decidi dar um fim a essa curiosidade e comprei uma edição linda do livro.
+
+<br/><br/>
+
+![Foto de Charles Dickens.](assets/img/charles-capa.png)
+
+
 
 # Charles Dickens
 
@@ -81,6 +87,10 @@ Ele inclusive, no mesmo ano de publicação de Tempos Difíceis, em 1854, escrev
 Assim Charles ressalta que a pauta sobre o trabalho é muita mais complexa do que apenas protestar. Isso também fica claro em uma parte de seu livro com a introdução de um personagem chamado Slackbridge. Onde Charles teve a inspiração dele justamente no protesto de Preston. Aliás, o protesto de Preston foi um protesto altamente organizado em que uma parte dos trabalhadores protestavam contra certa fábrica e outra parte continuava a ativa em outra fábrica para que eles conseguissem sustentar seus companheiros. Sabendo disso, os donos de fábrica deram um jeito de prevenir esse companherismo.
 
 É dessa forma que Charles consegue um grande sucesso em seu periódico. Ele escreveu Tempo Difíceis em um período com grandes conflitos laborais que aconteciam em toda a Inglaterra, trazendo a tona as dificuldades dos trabalhadores, suas péssimas condições de trabalho como também a terrível vida fora das fábricas.
+
+<br/><br/>
+
+![Colagem de 3 ilustrações usada na primeira edição de Tempos Difíceis.](assets/img/charles-final.png)
 
 # Finalização
 
