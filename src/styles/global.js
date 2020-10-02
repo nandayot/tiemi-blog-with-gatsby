@@ -48,6 +48,10 @@ const GlobalStyles = createGlobalStyle`
     border-collapse: collapse;
     border-spacing: 0;
   }
+
+  em {
+    font-style: italic;
+  }
   * {
     box-sizing: border-box;
   }
