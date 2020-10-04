@@ -31,6 +31,7 @@ const BlogList = props => {
             },
           }) => (
             <PostItem
+              source='blog-list'
               slug={slug}
               thumbnail={thumbnail}
               background={background}

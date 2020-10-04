@@ -6,6 +6,7 @@ import getThemeColor from "../../utils/getThemeColor"
 import * as S from "./styled"
 
 const PostItem = ({
+    source,
     slug,
     thumbnail,
     background,
@@ -17,7 +18,11 @@ const PostItem = ({
   }) => (
     <S.PostItemLink to={slug} drip direction="right" bg={getThemeColor()} duration={0.6}>
       <S.PostItemWrapper>
-        <S.PostItemThumbnail src={thumbnail} />
+        {(()=> {
+          if (source === 'blog-list') {
+            return <S.PostItemThumbnail src={thumbnail} />
+          }
+        })()}
         <S.PostItemInfo>
           <S.PostItemTag background={background}>{category}</S.PostItemTag>
           <S.PostItemDate>

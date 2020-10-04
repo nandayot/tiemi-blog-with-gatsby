@@ -30,6 +30,7 @@ export const SidebarWrapper = styled.aside`
   `}
 
   ${media.lessThan("small")`
+    border-right: none;
     border-bottom: 1px solid var(--borders);
     align-items: flex-start;
     height: auto;

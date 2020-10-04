@@ -3,7 +3,6 @@ import media from "styled-media-query"
 
 export const PostHeader = styled.header`
   color: var(--postColor);
-  margin: auto;
   max-width: 70rem;
   padding: 5rem 5rem 0;
 
@@ -47,47 +46,6 @@ export const PostDate = styled.p`
     padding: 0 1rem;
   `}
 `
-
-export const TagWrapper = styled.section`
-  margin: auto;
-  max-width: 70rem;
-  padding: 2rem 5rem;
-  display: flex;
-  border-top: 1px solid var(--borders);
-
-  ${media.lessThan("large")`
-    padding: 2rem 0;
-    max-width: 100%;
-  `}
-`
-export const TagTitle = styled.h1`
-  font-size: 1.5rem;
-  font-weight: 700;
-  padding: 0 1.4rem;
-  color: var(--tagTitle);
-
-  ${media.lessThan("large")`
-    font-size: 1.5rem;
-    line-height: 1.1;
-    padding: 0 1rem;
-  `}
-`
-export const Tag = styled.p`
-  border-radius: 0;
-  font-size: 1rem;
-  min-height: auto;
-  min-width: auto;
-  width: fit-content;
-  padding: .2rem .5rem;
-  margin-right: .5em;
-  align-items: center;
-  background: ${props => (props.background ? props.background : "var(--tag)")};
-  color: var(--tagTitle);
-  float: left;
-  font-weight: 700;
-  justify-content: center;
-  text-transform: uppercase;
-`
 export const AboutContent = styled.section`
   max-width: 55rem;
   padding: 2rem 5rem;
@@ -105,6 +63,13 @@ export const AboutContent = styled.section`
   ${media.lessThan("small")`
     width: 100%;
     padding-right: 0;
+  `}
+
+  ${media.greaterThan("large")`
+    padding: 2rem 0;
+    max-width: 90vw;
+    padding-left: 5rem;
+    padding-right: 20rem;
   `}
 
   p,
