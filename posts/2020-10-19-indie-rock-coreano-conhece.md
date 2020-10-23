@@ -34,11 +34,9 @@ background: "#2DA0C3"
 
 Dia 13 de Julho de 2020 comemora-se o Dia Mundial do Rock. Sim! E esse blog tem o intuito de recomendar bandas de rock coreanas! Não vou entrar em detalhes sobre o conceito do rock, acho que todo mundo sabe o que é o estilo musical e como ele surgiu mas para quem não sabe é só pesquisar no Google.
 
-Mas sobre a data 13 de Julho. Ela foi escolhida para celebrar o rock em homenagem a um grande evento beneficente que ocorreu nesse dia em 1985 com o objetivo de acabar com a fome na Etiópia. O evento, chamado Live Aid, ocorreu em duas cidades, Londres e Filadélfia e contou com participações icônicas de bandas como Queen, U2, David Bowie, The Who, Elton John, Mick Jagger, Led Zeppelin e muitos outros. [🖇 fonte.](https://pt.wikipedia.org/wiki/Live_Aid)
+Mas sobre a data 13 de Julho. Ela foi escolhida para celebrar o rock em homenagem a um grande evento beneficente que ocorreu nesse dia em 1985 com o objetivo de acabar com a fome na Etiópia. O evento, chamado Live Aid, ocorreu em duas cidades, Londres e Filadélfia e contou com participações icônicas de bandas como Queen, U2, David Bowie, The Who, Elton John, Mick Jagger, Led Zeppelin e muitos outros. [fonte.](https://pt.wikipedia.org/wiki/Live_Aid)
 
 É comum na comunidade do kpop, quando falamos sobre rock, citarem Day6, FTISLAND,  CNBLUE, N.Flying... E não estão errados. Mas todas essas bandas foram formadas por empresas de entretenimento de grande porte como JYP e FNC. E não é sobre essas bandas que vou falar. Aqui neste blog vou indicar as bandas de rock **independentes** da Coreia do Sul e que traz a raiz do rock com batidas pesadas, solos de guitarras e bateria presentes. Vamos conhecer?
-
-
 
 ˙
 
@@ -52,11 +50,11 @@ Mas sobre a data 13 de Julho. Ela foi escolhida para celebrar o rock em homenage
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7619/67ad8db861dd8fa191f597078c45d6112bb1c0a6r1-2048-778v2_hq.jpg)
+![user uploaded image](assets/img/1.png)
 
 # ~ TILDE
 
-Tilde foi formada recentemente e possui como membros Kang Dong Gyu (baterista), Kim Han Gyeol (guitarrista), Yang Joong Hyeok (baixista) e Hong Gwang Seon (vocalista e líder). O líder da banda é conhecido na Coreia por ter sido o vocalista da banda **Phonebooth** por dez anos. Conhecido como **Laser Hong**, ele é uma músico experiente e que possui muitos talentos. Sua voz é típica de um rockstar e quando ele sentiu a necessidade de ir para o pop/mainstream ele não conseguiu e com isso fundou a banda Tilde. Eles atualmente possuem 1 single e 1 EP. [🖇 fonte.](http://mirrorballmusic.co.kr/artist/55343/)
+Tilde foi formada recentemente e possui como membros Kang Dong Gyu (baterista), Kim Han Gyeol (guitarrista), Yang Joong Hyeok (baixista) e Hong Gwang Seon (vocalista e líder). O líder da banda é conhecido na Coreia por ter sido o vocalista da banda **Phonebooth** por dez anos. Conhecido como **Laser Hong**, ele é uma músico experiente e que possui muitos talentos. Sua voz é típica de um rockstar e quando ele sentiu a necessidade de ir para o pop/mainstream ele não conseguiu e com isso fundou a banda Tilde. Eles atualmente possuem 1 single e 1 EP. [fonte.](http://mirrorballmusic.co.kr/artist/55343/)
 
 A banda lançou um [mini-documentário](https://www.youtube.com/watch?v=ZkPa03YulC8) mostrando a evolução do EP e os bastidores da produção. Kim Han Gyeol (saiu da banda em Julho) e o Laser Hong foram os responsáveis por construir as melodias e letras das músicas do EP. Eles relatam que terminaram o álbum em um período de 5 meses. Fizeram 10 músicas em 4 meses. Foram meses em que estiveram no seu ápice e completamente apaixonados por fazer músicas. E isso é claramente percebido pela qualidade de cada uma delas.
 
@@ -68,7 +66,7 @@ Ode to Waves foi uma música que me fez sentir uma energia tão boa. Subitamente
 
 A letra da música é compatível com o título. E tem metáforas inteligentes com a onda e o por do sol. Um dos trechos da música diz: *"As ondas são o ritmo e o pôr do sol é a melodia. Oh! Vamos dançar juntos até o amanhecer não chegar!"*. E acho que a letra é a própria transcrição da música. Tudo combina e parece que ele está cantando a música entende? 
 
-A tradução da maiorias das músicas que falo neste blog foi feita pela pessoa que comanda o site **House of the Dragonfly**. Reside em Seoul e traduz qualquer música coreana que ainda não possui tradução. Essa música particularmente foi proposta pelo próprio Laser Hong quando o dono do site foi a um de seus shows. Laser Hong sugeriu para ele que traduzisse Ode to Waves primeiramente. E tá [aqui 🖇](https://mongkibijeuniseu.wordpress.com/2020/04/28/7775/).
+A tradução da maiorias das músicas que falo neste blog foi feita pela pessoa que comanda o site **House of the Dragonfly**. Reside em Seoul e traduz qualquer música coreana que ainda não possui tradução. Essa música particularmente foi proposta pelo próprio Laser Hong quando o dono do site foi a um de seus shows. Laser Hong sugeriu para ele que traduzisse Ode to Waves primeiramente. E tá [aqui](https://mongkibijeuniseu.wordpress.com/2020/04/28/7775/).
 
 Gostou? Siga-os nas redes!
 
@@ -84,9 +82,7 @@ Gostou? Siga-os nas redes!
 
 ☟ 
 
-
-
-![user uploaded image](https://pm1.narvii.com/7619/851aaf52791f66e73d60bc927b20797a0921ebfbr1-2048-778v2_hq.jpg)
+![user uploaded image](assets/img/2.png)
 
 # ~The KOXX
 
@@ -105,7 +101,7 @@ O que me chamou atenção nessa música foi a introdução. O solo de guitarra d
 > grand march without a drum\
 > *grande marcha sem tambor*
 
-[tradução 🖇](https://allklyrics.com/en/songs/0xvvp1/%EC%B9%B5%EC%8A%A4-THE-KOXX/zeitgeist)
+[tradução](https://allklyrics.com/en/songs/0xvvp1/%EC%B9%B5%EC%8A%A4-THE-KOXX/zeitgeist)
 
 Outras recomendações
 
@@ -121,13 +117,13 @@ Outras recomendações
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7619/03b1fc5060ede87aff66ddf5292ddbb54255edd9r1-2048-778v2_hq.jpg)
+![user uploaded image](assets/img/3.png)
 
 # ~ Oh Chill
 
-Oh Chill foi uma banda que adorei conhecer! Apesar de *banda* soar estranho por ser composta por um casal. A banda possui o guitarrista/vocalista Yoon Joon Hong e a baterista Kim Seol, Por ser um duo de rock acho que eles se destacam bastante pela originalidade de suas performances e música. O mais recente álbum Oh, Two Animals diz bastante sobre a marca da banda. Oh Chill significa 5 (Oh) e 7 (chil) em coreano e juntos "57" é a faixa principal do primeiro álbum da banda de rock escocesa **Biffy Clyro** que foi onde a banda se inspirou no nome. [fonte 🖇](https://blog.naver.com/mirrorball_m/221686166090)
+Oh Chill foi uma banda que adorei conhecer! Apesar de *banda* soar estranho por ser composta por um casal. A banda possui o guitarrista/vocalista Yoon Joon Hong e a baterista Kim Seol, Por ser um duo de rock acho que eles se destacam bastante pela originalidade de suas performances e música. O mais recente álbum Oh, Two Animals diz bastante sobre a marca da banda. Oh Chill significa 5 (Oh) e 7 (chil) em coreano e juntos "57" é a faixa principal do primeiro álbum da banda de rock escocesa **Biffy Clyro** que foi onde a banda se inspirou no nome. [fonte](https://blog.naver.com/mirrorball_m/221686166090)
 
-Oh Chill pode ser uma banda pequena e não muito conhecida mas possui vastas experiências. A banda foi formada em 2014 e no mesmo ano lançaram seu primeiro EP chamado 57! Isso me deixou encucada pois não achei esse álbum em nenhuma plataforma. ([fonte 🖇](https://www.melon.com/album/music.htm?albumId=2292798)). Enfim. Em 2017 eles tiveram a oportunidade de realizar uma turnê pela Europa por conta de 2 prêmios que ganharam sendo eles: KT&G Descoberta de Banda e EBS Hello Rookie do Ano. E com o apoio da KCCA eles realizaram 25 shows em 23 cidades de 4 países. Inglaterra, Alemanha, Polônia e França. Claro que todos os festivais no qual participaram não foram tipo Coachella da vida. Foram festivais relativamente pequenos mas que agregaram bastante na carreia deles.
+Oh Chill pode ser uma banda pequena e não muito conhecida mas possui vastas experiências. A banda foi formada em 2014 e no mesmo ano lançaram seu primeiro EP chamado 57! Isso me deixou encucada pois não achei esse álbum em nenhuma plataforma. ([fonte](https://www.melon.com/album/music.htm?albumId=2292798)). Enfim. Em 2017 eles tiveram a oportunidade de realizar uma turnê pela Europa por conta de 2 prêmios que ganharam sendo eles: KT&G Descoberta de Banda e EBS Hello Rookie do Ano. E com o apoio da KCCA eles realizaram 25 shows em 23 cidades de 4 países. Inglaterra, Alemanha, Polônia e França. Claro que todos os festivais no qual participaram não foram tipo Coachella da vida. Foram festivais relativamente pequenos mas que agregaram bastante na carreia deles.
 
 ### ─── Love Me More
 
@@ -142,11 +138,11 @@ A música Love Me More é a que se destaca no álbum e a mais rock'n'roll de tod
 > Doesn't matter how others see it\
 > Some people only see what they want
 
-[letra 🖇](https://music.bugs.co.kr/track/31728145?wl_ref=list_tr_08)
+[letra](https://music.bugs.co.kr/track/31728145?wl_ref=list_tr_08)
 
 Outras recomendações
 
-[discografia](https://www.youtube.com/watch?v=1lrtBSV7qek&amp;list=PLQlGPbdCwWO-wVGEjntixjTwtfbPyPjZz), [oh, two animals](https://www.youtube.com/watch?v=1CryiT-Skis), [should be better](https://www.youtube.com/watch?v=cI8o5deq2PU), [the message](https://www.youtube.com/watch?v=9cXRiZImrPo)
+[discografia](https://www.youtube.com/watch?v=1lrtBSV7qek&list=PLQlGPbdCwWO-wVGEjntixjTwtfbPyPjZz), [oh, two animals](https://www.youtube.com/watch?v=1CryiT-Skis), [should be better](https://www.youtube.com/watch?v=cI8o5deq2PU), [the message](https://www.youtube.com/watch?v=9cXRiZImrPo)
 
 ˙
 
@@ -158,7 +154,7 @@ Outras recomendações
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7619/b323a275fa617baaa29ee012fce3acca5ba65fdcr1-2048-778v2_hq.jpg)
+![user uploaded image](assets/img/4.png)
 
 # ~ Guckkasten
 
@@ -176,7 +172,7 @@ Uma das situações mais inusitadas e trágicas da banda foi quando eles gravara
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b971NOZEbgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Pulse é uma música tão bem feita que só comprova o quanto Guckkasten é uma banda influenciadora. Pulse possui uma letra poética e muitos simbolismos. A música começa tímida e melancólica com uma letra autodepreciativa logo depois, no pré refrão, a bateria começa a ditar um ritmo mais rápido chegando num refrão agitado. Como se fosse uma pessoa acordando para o mundo. Se descobrindo. E acho que é disso que a música se trata. Depois do refrão a letra começa a ser mais emponderada e menos depressiva. Como se o eu lírico estivesse descobrindo quem ele é. E isso fica bastante claro na melodia e ritmo quanto visualmente no vídeo clipe. E não preciso nem falar do quão bom Hyunwoo é pois já deixei evidente logo acima. [letra 🖇](https://mongkibijeuniseu.wordpress.com/2016/12/01/%ea%b5%ad%ec%b9%b4%ec%8a%a4%ed%85%90-pulse/)
+Pulse é uma música tão bem feita que só comprova o quanto Guckkasten é uma banda influenciadora. Pulse possui uma letra poética e muitos simbolismos. A música começa tímida e melancólica com uma letra autodepreciativa logo depois, no pré refrão, a bateria começa a ditar um ritmo mais rápido chegando num refrão agitado. Como se fosse uma pessoa acordando para o mundo. Se descobrindo. E acho que é disso que a música se trata. Depois do refrão a letra começa a ser mais emponderada e menos depressiva. Como se o eu lírico estivesse descobrindo quem ele é. E isso fica bastante claro na melodia e ritmo quanto visualmente no vídeo clipe. E não preciso nem falar do quão bom Hyunwoo é pois já deixei evidente logo acima. [letra](https://mongkibijeuniseu.wordpress.com/2016/12/01/%ea%b5%ad%ec%b9%b4%ec%8a%a4%ed%85%90-pulse/)
 
 Outras recomendações
 
@@ -192,13 +188,13 @@ Outras recomendações
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7619/49dea0b1d576279c6f21f7a8be313069de784993r1-2048-778v2_hq.jpg)
+![user uploaded image](assets/img/5.png)
 
 # ~ National Pigeon Unity
 
 Sim, isso mesmo. O nome da banda significa Unidade Nacional de Pombos (NPU). É um trio formado em 2007 e que agora também é um duo, composto por Kim Dong Hoon (guitarrista/vocalista) e Park Yeong Mok (baterista). Eles possuem 1 álbum como trio e mais 2 álbuns como duo. A dupla com o seu álbum Hero (2017) fizeram um álbum de qualidade do começo ao fim com traços de **punk rock** e com refrões cativantes. O duo possui muitos simbolismos, tanto no nome como nos seus álbuns. No álbum Hero, eles introduzem um herói chamado "Homem Pombo" e durante as 11 faixas do álbum, eles narram a sua história.
 
-Já em seu mais recente álbum intitulado 999 (lançado no dia 9 de Setembro de 2019). É um álbum cheio de experiências e histórias durante os últimos dois anos de produção. 999 possui 9 faixas em que cada uma conta uma história diferente. E aqui fica mais claro o porque o nome da banda ser o que é. Pombos que, com a habilidade voar possuem mais chances de sobreviver, são as aves que mais morrem atropelados por carros. Então, só de estar vivo é a prova de que você está voando. É mais ou menos isso o significado do nome da banda, meio confuso porque traduzi do coreano. A banda possui um estilo muito experimental e fica difícil enquadrá-los em algum gênero musical e isso é bom porque não importa qual estilo você goste, provavelmente vai gostar de alguma música deles. [fonte 🖇](http://mirrorballmusic.co.kr/artist/27973/)
+Já em seu mais recente álbum intitulado 999 (lançado no dia 9 de Setembro de 2019). É um álbum cheio de experiências e histórias durante os últimos dois anos de produção. 999 possui 9 faixas em que cada uma conta uma história diferente. E aqui fica mais claro o porque o nome da banda ser o que é. Pombos que, com a habilidade voar possuem mais chances de sobreviver, são as aves que mais morrem atropelados por carros. Então, só de estar vivo é a prova de que você está voando. É mais ou menos isso o significado do nome da banda, meio confuso porque traduzi do coreano. A banda possui um estilo muito experimental e fica difícil enquadrá-los em algum gênero musical e isso é bom porque não importa qual estilo você goste, provavelmente vai gostar de alguma música deles. [fonte](http://mirrorballmusic.co.kr/artist/27973/)
 
 ### ─── Sevenless
 
@@ -211,7 +207,7 @@ Sevenless já começa agitada com batidas pesadas e uma contagem numérica em qu
 > Are you asking because you don’t know?\
 > Are you crying because of that sort of thing?
 
-[letra 🖇](https://mongkibijeuniseu.wordpress.com/2017/10/19/%EC%A0%84%EA%B5%AD%EB%B9%84%EB%91%98%EA%B8%B0%EC%97%B0%ED%95%A9-sevenless/)
+[letra](https://mongkibijeuniseu.wordpress.com/2017/10/19/%EC%A0%84%EA%B5%AD%EB%B9%84%EB%91%98%EA%B8%B0%EC%97%B0%ED%95%A9-sevenless/)
 
 **Apoie!**
 
@@ -231,11 +227,11 @@ Sevenless já começa agitada com batidas pesadas e uma contagem numérica em qu
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7619/153f45c1dce3d5f6624619c17e0db97f09d8ade0r1-2048-778v2_hq.jpg)
+![user uploaded image](assets/img/6.png)
 
 # ~wave to earth
 
-Termino o blog com essa última indicação. Uma banda indie rock com uma pegada mais para o jazz e blues. Apesar de ter muitas outras bandas com o estilo punk e heavy de rock eu dedici colocar esta por ser justamente ela que me deu a ideia de fazer esse blog. A banda foi formada pelo vocalista da banda **The Poles**, Kim Daniel e pelo baterista do grupo de jazz **AIFF**, Shin Dong Gyu, com o single debut Wave. Posteriormente, com o lançamento em janeiro de 2020 do EP *wave 0.01* o baixista Cha Soon Jong foi introduzido. [fonte 🖇](https://blog.naver.com/PostView.nhn?blogId=jyjy113&amp;logNo=221799204764&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=%C2%A4tPage=1&amp;postListTopCurrentPage=1&amp;from=postView)
+Termino o blog com essa última indicação. Uma banda indie rock com uma pegada mais para o jazz e blues. Apesar de ter muitas outras bandas com o estilo punk e heavy de rock eu dedici colocar esta por ser justamente ela que me deu a ideia de fazer esse blog. A banda foi formada pelo vocalista da banda **The Poles**, Kim Daniel e pelo baterista do grupo de jazz **AIFF**, Shin Dong Gyu, com o single debut Wave. Posteriormente, com o lançamento em janeiro de 2020 do EP *wave 0.01* o baixista Cha Soon Jong foi introduzido. [fonte](https://blog.naver.com/PostView.nhn?blogId=jyjy113&logNo=221799204764&categoryNo=0&parentCategoryNo=0&viewDate=%C2%A4tPage=1&postListTopCurrentPage=1&from=postView)
 
 A banda tem um som aconchegante e confortante. O som deles é para mim o som perfeito para qualquer tipo de viagem. De carro, de barco, de avião. Seja o que for a som deles nos dá essa ternura. Não me lembro bem como conheci a banda mas escutei o EP inteiro deles e fiquei maravilhada.
 
@@ -264,7 +260,7 @@ maybe everyone is the same
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7619/708402b14cf0360b1e74147214f7ab3f48160117r1-2048-778v2_hq.jpg)
+![user uploaded image](assets/img/7.png)
 
 # ~ indicações extra
 
@@ -284,7 +280,7 @@ Claro que quando estava fazendo este blog me deparei com diversas bandas e não 
 
 Banda maravilhosa composta por jovens músicos prodígios em que todas as músicas que fazem são extraordinariamente muito boas. A banda possui tudo. Vocal, técnica, instrumental. Mesmo sendo jovens eles já possuem 2 EP e vários singles.
 
-#### [Dassut](https://www.youtube.com/channel/UCuXlRP-omthhLMEaoZT5jUA)
+#### [Dasutt](https://www.youtube.com/channel/UCuXlRP-omthhLMEaoZT5jUA)
 
 Outra banda incrível que o Youtube me recomendou e sem dúvidas vai viciar qualquer um que escutar. Eles possuem a mesma vibe de wave to earth e voltado para o folk. Com certeza merecem toda o apoio possível.
 
@@ -322,7 +318,7 @@ Outra banda talentossísima que também são bastante versáteis. O vocal é inc
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7619/abf9558e8045e58c860ccc2ecb2a8c04db9f92abr1-2048-778v2_hq.jpg)
+![user uploaded image]()
 
 # ~ Finalização
 
