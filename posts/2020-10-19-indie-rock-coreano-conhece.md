@@ -318,8 +318,6 @@ Outra banda talentossísima que também são bastante versáteis. O vocal é inc
 
 ☟ 
 
-![user uploaded image]()
-
 # ~ Finalização
 
 Finalmente consegui terminar o blog. Mas na verdade eu poderia continuar falando sobre muitas bandas. Creio que agora seja praticamente impossível você ter escutado algo e não gostado de nenhuma. Rock é um gênero que o kpop incorpora muito em suas músicas e consegue fazer com que qualquer um goste. Não importa se você é funkeiro ou erudito, rock é atingível para todos.
