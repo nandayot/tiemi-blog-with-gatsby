@@ -19,8 +19,6 @@ background: "#2DA0C3"
 
 O que eu realmente sei fazer bem é indicar cantores solos talentosíssimos que poucos fora da Coreia conhecem. Nesse blog vou falar da rainha Sunwoo JungA que a maioria dos coreanos conhecem. Em vez de lerem com atenção só espero que vocês **ESCUTEM** com atenção.
 
-
-
 Vamos ao blog.
 
 .
@@ -31,9 +29,7 @@ Vamos ao blog.
 
 .
 
-
-
-![user uploaded image](https://pm1.narvii.com/7404/85f158568783928dd0674a1704b246969320f6a9r1-2048-778v2_hq.jpg)
+![Colagem de fotos da Sunwoo Junga. Nesta ela possui cabelos bem curtos com coloração verde escuro e brincos de argola](assets/img/1.png)
 
 # Quem é Sunwoo JungA?
 
@@ -52,10 +48,6 @@ Cantora sola que fez seu debut em 2006 pela OGAM Entertainment e ficou em hiatus
 .
 
 .
-
-
-
-![user uploaded image](https://pm1.narvii.com/7404/c14cc80061119053515b9d6b15fb3ffc043d6d65r1-2048-778v2_hq.jpg)
 
 # Tópico de enaltecimento
 
@@ -87,7 +79,7 @@ Só citei no meio kpop mas ela já produziu diversas músicas para outros artist
 
 .
 
-![user uploaded image](https://pm1.narvii.com/7404/abf98458c42427d235abb63ee8bc9818dd97fe57r1-2048-778v2_hq.jpg)
+![Colagem de fotos da Sunwoo Junga. Nesta ela está de terno e calças azul turquesa, cabelos curtos louro e faz diferentes poses para fotos.](assets/img/3.png)
 
 # Sua trajetória
 
@@ -123,7 +115,15 @@ Em 2017, Sunwoo lançou dois singles: [구애 (求愛)](https://www.youtube.com/
 
 Em 2018 ela lançou 3 singles impactantes. Cada música é uma explosão de sentimentos que você sente e é muito bom. [남](https://www.youtube.com/watch?v=5_DzBjjlUQ4) e [백년해로](https://www.youtube.com/watch?v=6LI6h-dOtac) falam sobre relacionamentos, um amoroso e outro que vai além disso. Já a música [차트밖에서](https://www.youtube.com/watch?v=yd-evvsOe1I) eu preciso muito falar dela pois se trata de um **TAPA NA CARA** para todos que se preocupam em números de views/compartilhamentos/sucesso de uma música, mania muito presente no kpop. Sunwoo e **The Barberettes** fizeram essa crítica de forma tão disfarçada e irônica que me arrepiei toda. A música toda alegre e um MV divertido confunde quem não sabe coreano. Mas a letra é muito profunda e diz que uma boa música, aquela que impacta alguém, é muita mais importante do que charts e números. Elas também desabafam sobre o ofuscamento que existe no ramo musical da Coreia (onde o sucesso só acontece com grupos de kpop). Sunwoo ainda cita o momento em que participou do Mask Singer, onde ninguém conseguia a ver e fez um sucesso enorme apenas PELO SEU TALENTO. Porque é isso que importa.
 
-Em maio de 2019, Sunwoo mais uma vez traz um álbum tão perfeito quanto todos os outros. [Stand](https://www.youtube.com/playlist?list=OLAK5uy_kpI9eYxhbgdpL3DgyboPjpx0HpWhVtqrc) que contém 5 faixas. Mas devo dizer que esse é um dos mais geniais e lindos que escutei. E não serei capaz de mostrar sua importância e qualidade com apenas um parágrafo. Este álbum é 1 entre 3 que ela irá lançar em sequencia (atualmente já lançou todos). O segundo, intitulado [Stunning](https://www.youtube.com/playlist?list=OLAK5uy_nKft6nIVU3UUGHnZzfl_YaXvjB4ocAupc) foi lançado em agosto de 2019 com mais 5 faixas no qual não temos como abordar sua extraordinária qualidade aqui.
+Em maio de 2019, Sunwoo mais uma vez traz um EP tão perfeito quanto todos os outros. [Stand](https://www.youtube.com/playlist?list=OLAK5uy_kpI9eYxhbgdpL3DgyboPjpx0HpWhVtqrc) que contém 5 faixas. Mais adiante ele lançou o segundo EP chamado [Stunning](https://www.youtube.com/playlist?list=OLAK5uy_nKft6nIVU3UUGHnZzfl_YaXvjB4ocAupc), em agosto de 2019 com mais 5 faixas. E para fechar o ano de 2019 ela reuniu todas as músicas desses dois EPs para o full album chamado [Serenade](https://www.youtube.com/watch?v=izwrvm4O_sk) com mais 3 músicas novas senão e engano. Um total de 16 músicas. A capa de cada EP e álbum se encontra na última foto deste blog.
+
+Vale destacar uma música em particular que ela lançou no primeiro EP, SAM SAM (쌤쌤). Uma expressão coreana muito comum que usam que significa concordância, do inglês "same same". O video clipe da música abaixo já traduz a letra da música de forma tão artística que fico sem créditos para falar sobre. Então recomendo que vejam o clipe neste instante.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3d1AsbcPbWM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+A música possui uma letra bem poderosa. O eu lírico, provavelmente Sunwoo, fala sobre suas frustações com relação a conquistas e a sensação de superioridade que isso traz dentro de si. E depois ela acaba por se dar conta que ela não é melhor que ninguém e que todos somos iguais num sentido mais abrangente da palavra. Isto fica claro no video clipe da música onde todas as mulheres que aparecem no decorrer vestem o mesmo tom de cor que as demais.  A letra também trata do quanto o sentimento de cobiça e ganância pode não só machucar ela como também outras pessoas em sua volta.
+
+Essa música é para mim uma das melhoras dela.
 
 .
 
@@ -145,7 +145,7 @@ Vou tentar ser breve e resumir tudo que falei dela aqui. Versátil. Sunwoo tem s
 
 .
 
-![user uploaded image](https://pm1.narvii.com/7404/9d7dfe33972f79834e54150a090bbf318fff1883r1-2048-778v2_hq.jpg)
+![Diferentes colagens de fotos da Sunwoo Junga.](assets/img/4.png)
 
 # Participações
 
@@ -166,8 +166,6 @@ Outra participação que recomendo fortemente é ['Lost 2'](https://youtu.be/vt8
 .
 
 .
-
-![user uploaded image](https://pm1.narvii.com/7404/55669aac3cd251180e409d09f2342a90b0799553r1-2048-778v2_hq.jpg)
 
 # Covers
 
@@ -201,9 +199,7 @@ Também fica claro a extensão vocal dela que sempre me assemelha com a da Maria
 
 .
 
-
-
-![user uploaded image](https://pm1.narvii.com/7404/de922c87b2cc69b563a2756f99e6fda542e93e69r1-2048-778v2_hq.jpg)
+![Foto de capa dos últimos dois EPs e Album lançados no ano de 2019.](assets/img/2.png)
 
 # Finalização
 
