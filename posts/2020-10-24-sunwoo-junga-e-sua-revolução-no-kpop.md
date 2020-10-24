@@ -191,6 +191,22 @@ Outro cover capaz de fazer qualquer um chorar. A paixão na voz de Sunwoo coloca
 
 Também fica claro a extensão vocal dela que sempre me assemelha com a da Mariah Carey. Estou exagerando, eu sei. Mas Sunwoo é boa o bastante para chegar no patamar dela. Não com o mesmo tom vocal mas com certeza com o contralto perfeito que ela tem, sim.
 
+
+
+### ─── JAZZ BOX
+
+Se você chegou até aqui já vai ter percebido que a grande influência nas músicas da Sunwoo é o jazz, ela é fascinada pelo gênero e isso é percebido na coletânea de covers que ela faz de jazz na série JAZZ BOX que ela criou. Convidando seus amigos instrumentistas, ela canta músicas clássicas e elementares do jazz, tem Ella Fitzgerald, Tom Jobim, Joao Gilberto, Louis Armstrong, Frank Sinatra, Art Blakey, etc. Atualmente ela possui 5 séries de vídeos com convers belíssimos. Detalhe: ela transmite AO VIVO a séria, não é gravado não. Confira abaixo:
+
+#### [VOL.0](https://www.youtube.com/watch?v=vRzwREOQn3s)
+
+#### [VOL.1](https://www.youtube.com/watch?v=Dpb8O6FzPd0&t=1320s)
+
+#### [VOL.2](https://www.youtube.com/watch?v=5LAQxkH1fmk)
+
+#### [CAFÉ NEW ORLEANS](https://youtu.be/5pQnJmebMSY)
+
+#### [VOL.3](https://youtu.be/WKx3fm-u2_s)
+
 .
 
 .
