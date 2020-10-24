@@ -5,7 +5,7 @@ description: O mais recente álbum da banda Hyukoh. Aqui eu analiso seus
   de cada música. O álbum mais ambicioso e demorado da melhor banda de rock
   coreano.
 date: 2020-10-23 11:31:03
-thumbnail: assets/img/69192.jpg
+thumbnail: assets/img/83282223_124680255714424_4015004512409697983_n.jpg
 category: Música
 tags:
   - hyukoh
@@ -31,7 +31,7 @@ OBS: já fiz um blog de análise do álbum anterior 24. Deem uma olhada [aqui](h
 
 .
 
-![user uploaded image](https://pm1.narvii.com/7460/e555d66aed30a889558a18d2b20a1c99a88b7288r1-2048-778v2_hq.jpg)
+![Imagem dos integrantes da banda. Da esquerda para direita: Hyunjae, Donggun, Oh Hyuk, Inwoo. Fundo Branco.](assets/img/1.png)
 
 # Hyukoh?
 
@@ -47,7 +47,7 @@ Hyukoh é uma banda de indie rock que debutou no ano de 2014 pela sub-label da Y
 
 ☟ 
 
-![Real World Studio na Inglaterra](https://pm1.narvii.com/7460/87a07050196f4abe69489467d6e475efeaed8ab3r1-2048-778v2_hq.jpg)
+![Colagem de fotos da banda. Uma delas dentro do estúdio de música Real World Studio](assets/img/2.png)
 
 # Visão geral do álbum
 
@@ -75,13 +75,13 @@ Dessa vez a banda resolveu cortar o padrão numérico que foi sempre presente em
 
 Muitos fãs se surpreenderam em receber um álbum diferente do que estão acostumados deles. Nos álbuns anteriores, 23 e 24, a banda tinha letras maiores e mais acusadoras, elas mostravam o protesto da banda com relação a alguma questão sociopolítica, tinha uma vibe inquisitiva. Além do som pesado de rock que estávamos acostumados como em **Wanli** ou em **Citizen Kane**. Mas em Through Love as músicas se tornam menos carregadas de letras e com melodias calmas a tranquilas, mostrando um novo lado da banda, que, na verdade, sempre existiu.
 
-![Norman Nitzche à esquerda](https://pm1.narvii.com/7460/36ba42bb6246406db16129ebb231987068e91064r1-2048-778v2_hq.jpg)
+![Colagem de fotos da banda. ](assets/img/4.png)
 
 ### ─── Minha visão
 
 Isso foi a visão dos fãs mas para mim Hyukoh não me surpreendeu neste quesito. Não me surpreendeu em nada pois sempre acreditei no potencial deles de inovar e trazer músicas bem trabalhadas e de qualidade. Sempre soube que a banda tinha esse lado experimental e tranquilo. Como se estivesse voltando as suas raízes. Para mim, vi muitas semelhanças técnicas entre o álbum 20/22 com Through Love. No começo da carreira, a banda só se preocupava em fazer música por diversão e depois eles começaram a introduzir um discurso subversivo em 23/24 engajando na luta contra a desigualdade, homofobia e outras pautas importantes. Foi quando começaram a se tornar conhecidos. Agora eles voltaram na questão de fazer música focando em trazer o melhor deles, a melhor qualidade, algo que eles nunca irão se arrepender de entregar ao público mas com uma mensagem pacífica para um mundo muito mais cruel que se tornou. Como fosse um remédio que amenizasse as dores e indignações que este mundo traz para nós e para eles também. Eu sempre acreditei que eles eram capazes disso.
 
-![Fotografia de plantas de diversas espécies. Em destaque uma aparentemente murchada. Tirada pelo fotógrado Wolfgang Tillmans.](https://pm1.narvii.com/7460/20ff31fc854bce1c28f6551543666a964a7f7317r1-1080-1080v2_hq.jpg)
+![Fotografia de plantas de diversas espécies. Em destaque uma aparentemente murchada. Tirada pelo fotógrado Wolfgang Tillmans.](assets/img/69192.jpg)
 
 ### ─── Sobre a capa do álbum
 
@@ -101,7 +101,7 @@ Agora vamos ouvir as músicas!!
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7460/68d725e8d8aa608fc71bda8e4acb6becdb803922r1-2048-778v2_hq.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iKx4WvgkaEc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Help](https://www.youtube.com/watch?v=iKx4WvgkaEc)
 
@@ -129,7 +129,7 @@ Analisando para o lado religioso podemos interpretar também no sentido cristão
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7460/b7203f564e5a726d7de6e4164c732f803b29d586r1-2048-778v2_hq.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gVacR4GRZpw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Hey Sun](https://www.youtube.com/watch?v=gVacR4GRZpw)
 
@@ -155,7 +155,7 @@ Para mim esse é o sentimento quando ouço a música e me sinto tão bem depois 
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7460/6685caabbadc027b44a66458e8bc7b3d592f82c8r1-2048-778v2_hq.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mNYHaQTpr-M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Silverhair Express](https://www.youtube.com/watch?v=mNYHaQTpr-M)
 
@@ -178,7 +178,7 @@ Para mim a música é um símbolo do deboísmo. Uma canção com melodia dançan
 
 ☟
 
-![user uploaded image](https://pm1.narvii.com/7460/1883f6041ee7c79e70bce71e8e73b62814e5df48r1-2048-778v2_hq.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUVomEBkGwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Flat Dog](https://www.youtube.com/watch?v=VUVomEBkGwM)
 
@@ -205,7 +205,7 @@ Já a letra é meio confusa para mim, traduzi usando o Papago e segundo a tradu�
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7460/943b2ac5a87666872f521226070fe29ac83df9a6r1-2048-778v2_hq.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUVomEBkGwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [World of Forgotten](https://www.youtube.com/watch?v=hzPftgjYc7I)
 
@@ -226,7 +226,7 @@ Aqui nessa música eu entendi como uma crítica social ao mundo de hoje. Logo no
 
 ☟
 
-![user uploaded image](https://pm1.narvii.com/7460/dc5519c69df7df3d0e8a92833d8a9afa10dcd645r1-2048-778v2_hq.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0LAL1B80hbE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [New Born](https://www.youtube.com/watch?v=0LAL1B80hbE)
 
@@ -252,7 +252,7 @@ Quando a letra termina e os instrumentos e sons permanecem podemos perceber um s
 
 ☟
 
-![user uploaded image](https://pm1.narvii.com/7460/17f5bf16d7d25b5f98a7296c0551d16de5319786r1-2048-778v2_hq.jpg)
+![Colagem de fotos da banda. Em destaque: Fotos dos membros com amigos dentro de um estúdio de gravação.](assets/img/5.png)
 
 # A revelação
 
@@ -274,7 +274,7 @@ O que também consegui entender do álbum, vendo todas as previews no Youtube, o
 
 ☟ 
 
-![user uploaded image](https://pm1.narvii.com/7460/971b765a2482e584b8f5e5623c10b3fd559972e5r1-2048-778v2_hq.jpg)
+![Colagem de fotos da banda, fundo preto e foto com flash que destaca os membros.](assets/img/3.png)
 
 # Finalização
 
