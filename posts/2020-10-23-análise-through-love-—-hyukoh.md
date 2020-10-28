@@ -19,9 +19,9 @@ background: "#2DA0C3"
 ---
 # Introdução
 
-Bom dia, boa tarde ou boa noite a todos! Como vão vocês? Espero que tudo bem! Como leram acima já sabem de quem eu vou falar né. Dia 30 de Janeiro foi o grande lançamento do tão esperado álbum da banda sul-coreana Hyukoh. E como fã que sou, sei que cada álbum deles significa milhões de coisas e venho por meio deste blog, analisar suas músicas para entender melhor a proposta e quero dividir com todo mundo. Então, aqui estou. Vamos ao blog.
+Dia 30 de Janeiro de 2020 foi o grande lançamento do tão esperado álbum da banda sul-coreana Hyukoh. E como fã que sou, sei que cada álbum deles significa milhões de coisas e venho por meio deste blog, analisar suas músicas para entender melhor a proposta e quero dividir com todo mundo. Então vamos ao blog.
 
-OBS: já fiz um blog de análise do álbum anterior 24. Deem uma olhada [aqui](http://aminoapps.com/p/zqpl8m).
+OBS: já fiz um blog de análise do álbum anterior, 24. Está disponível aqui no site.
 
 .
 
