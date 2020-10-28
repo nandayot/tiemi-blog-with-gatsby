@@ -50,7 +50,7 @@ Mas sobre a data 13 de Julho. Ela foi escolhida para celebrar o rock em homenage
 
 ☟ 
 
-![user uploaded image](assets/img/1.png)
+![Colagem de fotos da banda Tilde.](assets/img/1.png)
 
 # ~ TILDE
 
@@ -82,7 +82,7 @@ Gostou? Siga-os nas redes!
 
 ☟ 
 
-![user uploaded image](assets/img/2.png)
+![Colagem de fotos da banda The Koxx](assets/img/2.png)
 
 # ~The KOXX
 
@@ -117,7 +117,7 @@ Outras recomendações
 
 ☟ 
 
-![user uploaded image](assets/img/3.png)
+![Colagem de fotos da banda Oh Chill](assets/img/3.png)
 
 # ~ Oh Chill
 
@@ -154,7 +154,7 @@ Outras recomendações
 
 ☟ 
 
-![user uploaded image](assets/img/4.png)
+![Colagem de fotos da banda Guckkasten](assets/img/4.png)
 
 # ~ Guckkasten
 
@@ -188,7 +188,7 @@ Outras recomendações
 
 ☟ 
 
-![user uploaded image](assets/img/5.png)
+![Colagem de fotos da banda NPU](assets/img/5.png)
 
 # ~ National Pigeon Unity
 
@@ -227,7 +227,7 @@ Sevenless já começa agitada com batidas pesadas e uma contagem numérica em qu
 
 ☟ 
 
-![user uploaded image](assets/img/6.png)
+![Colagem de foto da banda Wave to Earth](assets/img/6.png)
 
 # ~wave to earth
 
@@ -260,7 +260,7 @@ maybe everyone is the same
 
 ☟ 
 
-![user uploaded image](assets/img/7.png)
+![Colagem de fotos da bana Monotheism, Thornapple, Woozy e SURL.](assets/img/7.png)
 
 # ~ indicações extra
 
