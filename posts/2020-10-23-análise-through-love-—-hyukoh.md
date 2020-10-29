@@ -31,7 +31,7 @@ OBS: já fiz um blog de análise do álbum anterior, 24. Está disponível aqui 
 
 .
 
-![Imagem dos integrantes da banda. Da esquerda para direita: Hyunjae, Donggun, Oh Hyuk, Inwoo. Fundo Branco.](assets/img/1.png)
+![Imagem dos integrantes da banda. Da esquerda para direita: Hyunjae, Donggun, Oh Hyuk, Inwoo. Fundo Branco.](assets/img/hyukoh1.png)
 
 # Hyukoh?
 
@@ -47,7 +47,7 @@ Hyukoh é uma banda de indie rock que debutou no ano de 2014 pela sub-label da Y
 
 ☟ 
 
-![Colagem de fotos da banda. Uma delas dentro do estúdio de música Real World Studio](assets/img/2.png)
+![Colagem de fotos da banda. Uma delas dentro do estúdio de música Real World Studio](assets/img/hyukoh2.png)
 
 # Visão geral do álbum
 
@@ -75,7 +75,7 @@ Dessa vez a banda resolveu cortar o padrão numérico que foi sempre presente em
 
 Muitos fãs se surpreenderam em receber um álbum diferente do que estão acostumados deles. Nos álbuns anteriores, 23 e 24, a banda tinha letras maiores e mais acusadoras, elas mostravam o protesto da banda com relação a alguma questão sociopolítica, tinha uma vibe inquisitiva. Além do som pesado de rock que estávamos acostumados como em **Wanli** ou em **Citizen Kane**. Mas em Through Love as músicas se tornam menos carregadas de letras e com melodias calmas a tranquilas, mostrando um novo lado da banda, que, na verdade, sempre existiu.
 
-![Colagem de fotos da banda. ](assets/img/4.png)
+![Colagem de fotos da banda. ](assets/img/hyukoh4.png)
 
 ### ─── Minha visão
 
@@ -252,7 +252,7 @@ Quando a letra termina e os instrumentos e sons permanecem podemos perceber um s
 
 ☟
 
-![Colagem de fotos da banda. Em destaque: Fotos dos membros com amigos dentro de um estúdio de gravação.](assets/img/5.png)
+![Colagem de fotos da banda. Em destaque: Fotos dos membros com amigos dentro de um estúdio de gravação.](assets/img/hyukoh5.png)
 
 # A revelação
 
@@ -274,7 +274,7 @@ O que também consegui entender do álbum, vendo todas as previews no Youtube, o
 
 ☟ 
 
-![Colagem de fotos da banda, fundo preto e foto com flash que destaca os membros.](assets/img/3.png)
+![Colagem de fotos da banda, fundo preto e foto com flash que destaca os membros.](assets/img/hyukoh3.png)
 
 # Finalização
 
