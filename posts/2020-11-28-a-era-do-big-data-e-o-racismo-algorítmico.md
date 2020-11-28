@@ -5,7 +5,7 @@ description: "O mundo onde milhões de dados são criados por segundo, onde a
   em todas as áreas, parece inovador e brilhante. Mas não é e te mostro o por
   quê. "
 date: 2020-11-27 11:00:50
-thumbnail: assets/img/capa.png
+thumbnail: assets/img/capa-coded-bias.png
 category: Code
 tags:
   - coded bias
@@ -29,7 +29,7 @@ Não é de hoje que as tecnologias são usadas freneticamente sem pensarmos em s
 
 A chegada do Google e sua ferramenta de busca chamada PageRank fez com que os cidadãos abrissem os horizontes para diversas páginas disponíveis pelo mundo, e com apenas algum impulso ou desejo de disseminar o ódio, páginas nazistas e racistas eram sugeridas para quem procurasse, gerando, em alguns, faíscas que causaria morte de diversas pessoas.
 
-Atualmente, vivemos na era do Big Data, onde o volume de dados gerados é altamente grande e impossível de mantê-lo em planilhas de Excel. Dados não apenas de músicas, páginas de internet, jogos, livros, mas dados sobre sua vida, sua personalidade, suas preferências, seu nome, sua rede de contatos, sua opinião política... Seu rosto. Quando menos espera, esses dados podem ser usados de maneira injusta e isso pode custar um benefício pública, uma vaga numa empresa, um mandado criminal.
+Atualmente, vivemos na era do Big Data, onde o volume de dados gerados é altamente grande e impossível de mantê-lo em planilhas de Excel. Dados não apenas de músicas, páginas de internet, jogos, livros, mas dados sobre sua vida, sua personalidade, suas preferências, seu nome, sua rede de contatos, sua [opinião política](https://www.nature.com/news/facebook-experiment-boosts-us-voter-turnout-1.11401)... Seu rosto. Quando menos espera, esses dados podem ser usados de [maneira injusta](https://science.sciencemag.org/content/366/6464/447) e isso pode custar um benefício público, uma vaga numa empresa, um [mandado criminal](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html#:~:text=What%20he%20could%20not%20have,on%20technology%20and%20the%20law.).
 
 Para entender melhor sobre todos esses assuntos eu reuni neste blog um conjunto de 5 livros que falam sobre como sistemas estátísticos, automatizados e preditivos são comercializados e usados deliberadamente em empresas, órgãos públicos, departamentos policiais e que acabam gerando preconceitos raciais, de gênero e de classe. Esses 5 livros eu li nessas últimas 3 semanas e apesar de ser difícil falar de cada um em apenas um blog, vou dar apenas uma pincelada em cada um e o resto deixo para a curiosidade e desejo de vocês de entender melhor sobre o assunto, sendo ou não do ramo da tecnologia. Todos nós somos alvos desses sistemas.
 
@@ -39,7 +39,11 @@ Antes de começar a falar sobre os livros é necessários alguns esclarecimentos
 
 Irei citar durante toda a postagem palavras como "sistemas automatizados", "modelos estatísticos/matemáticos/de inteligência artificial". O que eu quero dizer com esses modelos? Eles são um conjunto de procedimentos que processam grande quantidade de dados, esses dados são analisados por esses modelos sob diversos padrões matemáticos e estatísticos que no final, conseguem gerar predições sobre certas variáveis que definimos previamente ou não.
 
-Por exemplo, eu quero predizer o valor de um imóvel baseado em dados como CEP, Bairro, Número de cômodos, quartos, banheiros, Quintal, entre outros. Para isso, eu tenho uma base de dados contendo todas essas variáveis e o valor de cada imóvel. Colocamos esses dados nesse modelo. Ele é "treinado", ou seja, o modelo aprende a identificar padrões para, depois do treinamento, conseguir predizer o valor de um certo imóvel novo que não estava na base de treino. Isso é como um modelo simples de inteligência artificial funciona. Existem diversos outros tipos de aprendizagem mas, conhecendo essa lógica, é o suficiente para entender o que será abordado abaixo.
+Por exemplo, eu quero predizer o valor de um imóvel baseado em dados como CEP, bairro, número de cômodos, quartos, banheiros, quintal, entre outros. Para isso, eu tenho uma base de dados contendo todas essas variáveis e o valor de cada imóvel. Colocamos esses dados nesse modelo. Ele é "treinado", ou seja, o modelo aprende a identificar padrões para, depois do treinamento, conseguir predizer o valor de um certo imóvel novo que não estava na base de treino. Isso é como um modelo simples de inteligência artificial funcionam. Existem diversos outros tipos de aprendizagem mas, conhecendo essa lógica, é o suficiente para entender o que será abordado abaixo.
+
+<br><br>
+
+![Foto de perfil de Cathy. Cathy é uma mulher branca com olhos claros e cabelo curto azul.](assets/img/1-big-data.png)
 
 # Weapons of Math Destruction - Cathy O'Neil (2016)
 
@@ -67,6 +71,10 @@ Os policiais viam o quadrado vermelho também não com o objetivo de fazê-lo de
 
 Cathy, durante o livro, também investiga diversos outros softwares que causam grandes preconceitos de raça e gênero e isso deixo para vocês lerem. Um dos exemplos é o algoritmo de recrutamento que a Amazon utilizava que automaticamente rejeitava currículos de mulheres. ([](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)<https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G>)
 
+<br><br>
+
+![Foto de Ruha Benjamin, foto de cabelo comprido preso com dreads. Ruha usa terno preto e está com as mãos cruzadas.](assets/img/2-big-data.png)
+
 # Race After Technology - Ruha Benjamin (2019)
 
 O segundo livro que li, e aqui vou ordenar em ordem cronológica de leitura. "Raça após Tecnologia" fala justamente sobre como a raça é vista e moldada nos meios tecnológicos e aqui ela mostra no aspecto geral da tecnologia desde seu início por exemplo com a criação das máquinas fotográficas. Ruha percorre a história da tecnologia em conjunto com a raça e o racismo perpetrado dentro dela.
@@ -83,6 +91,10 @@ A autora também traz uma reflexão sobre como as grandes companhias de tecnolog
 
 No final do livro, Ruha mostra nos apêndices algumas iniciativas que vem sendo feitas com relação a emancipação de grupos marginalizados dentro da tecnologia, sobre responsabilidade e prestação de contas, sobre igualdade na tecnologia. Um deles é **ACM FAccT**, uma conferência com "foco interdisciplinar que reúne pesquisadores e profissionais interessados em justiça, responsabilidade e transparência em sistemas sociotécnicos". ([](https://facctconference.org/)<https://facctconference.org/>); **Auditing Algorithms**, "um grupo de eventos projetado para produzir um white paper que ajudará a definir e desenvolver a comunidade de pesquisa emergente para "auditoria de algoritmo"" ([](https://auditingalgorithms.science/)<https://auditingalgorithms.science/>); **Equality Labs**, "organização progressiva de construção de poder que usa pesquisa comunitária, organização cultural e política, educação popular e segurança digital para combater as opressões do apartheid de castas, islamofobia, supremacia branca e intolerância religiosa." ([](https://www.equalitylabs.org/)<https://www.equalitylabs.org/>).
 
+<br><br>
+
+![Foto de Safiya Noble, cabelo preto cacheado aos ombros e sorrindo para a camera.](assets/img/3-big-data.png)
+
 # Algorithms of Oppression - Safiya Noble (2018)
 
 Neste livro, Safiya faz um alerta sobre a ferramenta de busca do Google. Uma pesquisa de década que começou em 2011 quando ela digitou "Black Girls" no Google e foi apresentado em primeiro lugar, site pornográfico. Safiya traz esse foco nas ferramentas do Google e como o seu monopólio de informações na internet é perigoso e violento. Ela cita diversos casos em que a ferramenta de busca do Google trouxe em pesquisas, sites pornográficos, com incitações de ódio, neonazistas.
@@ -97,6 +109,10 @@ Safiya pega muito no pé do Google e Facebook e o quanto é perigoso que apenas 
 
 Safiya responde, durante todo o seu livro, a pergunta "Esse site que aparece em primeiro lugar na pesquisa do Google é confiável?". Adianto que a resposta é não. Ela explica em seu livro como funciona o processo de ranqueamento e como empresas de conteúdo pornográfico são especialistas em SEO e conseguem fazer com que seus sites apareçam na primeira página. A autora responsabiliza o Google por manter esses sites a vista e eu concordo. Ela questiona em seu livro, quando Google é pressionado por jornais sobre "glitches" encontrados, exemplo de Michelle Obama, eles são rapidamente e facilmente consertado, por que as demais coisas não são? Se eles não são responsáveis pelos seus próprios algoritmos e seus viéses, quem são?
 
+<br><br>
+
+![Foto de Meredith Broussard. Cabelo cacheado aos ombros.](assets/img/4-big-data.png)
+
 # Artificial Unintelligence - Meredith Broussard (2018)
 
 (Des)inteligência Artificial é um dos principais livros junto com WMD de Cathy, ambos trazem exemplos de sistemas preditivos, suas inconsistências, seus erros e como eles são causados. Aqui, Meredith, traz o termo Tecnochauvinismo (**Technochauvinism**), que seria a crença de que a tecnologia sempre é a solução. Essa crença é acompanhada também de meritocracia, valores políticos tecnolibertários, celebração da "liberdade de expressão" a tal ponto de negar que o assédio virtual é um problema, a noção de que os algoritmos são neutros porque são programados com base em classificações matemáticas, uma fé inabalável de que quanto mais computadores usados de forma apropriada todos os problemas do mundo desapareciam e viveríamos numa utopia digital.
@@ -110,6 +126,10 @@ Meredith, traz nesse livro, exemplos de tecnologias "*disruptivas*" e como elas 
 A autora também explora diversos outros softwares em diversas áreas, como na educação (softwares que classificavam a qualidade de um professor) e traz à tona como o ambiente educacional é complexo e não pode ser meramente classificado por um algoritmo. Os modelos matemáticos funcionam bem em problemas bem definidos, em situações bem definidas com parâmetros bem definidos. E o ambiente escolar, é o oposto disso.
 
 Meredith também alerta sobre como a tecnologia foi desenvolvida basicamente por homens brancos (e como eles foram capazes, devido ao mundo socio-político, a focarem em seus passatempos), acabam produzindo falas erradas sobre a relação da tecnologia com a sociedade. Apesar de serem experts sobre tecnologia, não eram sobre as pessoas e a sociedade. Dessa forma, não podemos nos apressar em ser governados por sistemas computacionais projetados por pessoas que não se importam/importavam e não entendem/entendiam sobre o sistema cultural em que estamos firmados.
+
+<br><br>
+
+![Foto de Virgnia Eubanks, cabelo curto grisalho com óculos. ](assets/img/5-big-data.png)
 
 # Automating Inequality - Virgnia Eubanks (2018)
 
@@ -126,6 +146,10 @@ Virginia também fala no livro, assim como nos outros, sobre como os diversos da
 A autora alerta também sobre o cálculo da negligência infantil feita pelo algoritmo. O sistema conta como negligência a falta de comida na casa, roupas desgastadas, doenças infantis... e todas essas condições são causadas pela pobreza. Se, em vez do algoritmo espiar as famílias com a possível retirada da criança do lar, ajudar a família a conseguir comida e moradia de qualidade? Muitos entrevistados falam que apenas quando a criança é retirada de seus cuidados, é que os assistentes sociais oferecem apoio financeiro.
 
 No final do livro, a autora também orienta e conclui que sistemas automatizados que são usados no ambiente público devem ser **auditados**, devem ser **supervisionados** pela população, devem ser **transparentes** com relação ao seu funcionamento e a coleta de dados. O exemplo do AFST foi um ótimo estudo de caso, Virginia diz. A criadora do algoritmo sempre realizou reuniões sobre o progresso da ferramenta e suas funcionalidades, o desenvolveu de forma transparente onde pessoas que o usa são ouvidas e com isso, a autora diz, que o sistema melhorou muito depois disso.
+
+<br><br>
+
+![Foto do poster do documentário Coded Bias com uma imagem de uma pessoa negra vestida com uma máscara branca.](assets/img/coded_twitter_post_1024-x-512px.jpg)
 
 # CODED BIAS - 2020
 
