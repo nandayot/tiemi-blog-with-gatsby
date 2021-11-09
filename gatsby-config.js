@@ -7,7 +7,7 @@ module.exports = {
     position: `Code & Books & Sports & Asian Culture Lover`,
     description: `Blog pessoal criado para compartilhar minhas opiniões e conhecimento sobre cultura asiática e quem sabe algumas outras paixões.`,
     author: `@nandayot`,
-    siteUrl: `https://tiemi.social/`, //TROCAR
+    siteUrl: `https://tiemi.dev/`, //TROCAR
   },
   plugins: [
     `gatsby-plugin-transition-link`,
