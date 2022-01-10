@@ -29,7 +29,7 @@ Bem vindos ao blog. Este tem como objetivo trazer referências históricas sobre
 
 ```toc
 exclude: Sumário
-from-heading: 2
+from-heading: 1
 to-heading: 6
 ```
 
