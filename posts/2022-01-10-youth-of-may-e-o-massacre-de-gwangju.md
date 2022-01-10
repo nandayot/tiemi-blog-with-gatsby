@@ -25,6 +25,12 @@ background: "#E7881D"
 ---
 Bem vindos ao blog. Este tem como objetivo trazer referências históricas sobre o recente drama Youth of May e como ele transmitiu alguns acontecimentos da história da redemocratização da Coreia. Dito isto, o blog VAI CONTER ALGUNS SPOILERS sobre o drama mas acredito que isso não implica de forma alguma o/a leitor(a) que ainda não assistiu e deseja assistir. Garanto que após a leitura do blog e os relatos históricos aqui mostrados vão até deixar a experiência de assistir o dorama mais elucidativa e realística. Espero que acompanhem pois vai ser um tanto extenso. Abaixo deixo o sumário.
 
+## Sumário
+
+\`\``toc
+
+\`\``
+
 # ¹ Youth Of May
 
 Data de transmissão: 3 de Maio a 8 de Junho de 2021
@@ -107,8 +113,6 @@ Foi por causa dos conflitos que ocorreram em maio de 1980, em Gwangju, que o ant
 
 Outra causa para o anti-americanismo na Coreia se deu por conta do rumor amplamente espalhado de que um porta-aviões americano (USS Coral Seal), tinha entrado no país para ajudar as tropas especiais em Gwangju. Rumor ou não, investigações confirmam o fato de que os Estados Unidos sabia do golpe que Chun daria e na repressão violenta que aguardava Gwangju no meio de maio de 1980 mas nada fez para combater o massacre. Após os acontecimentos em Gwangju, com a ditadura de Chun perdurando até 1987, diversos outros protestos aconteceram em embaixadas dos EUA no país e o espirito anti-americano foi crescendo a cada ano.
 
-
-
 ![](http://pm1.narvii.com/8075/26fd28476716eaa93ae4fba5d7c8f3ec37577fa9r1-1919-1079v2_00.jpg)
 
 # ⁵ 17 a 27 de Maio de 1980
@@ -163,8 +167,6 @@ No dia 27 de Maio, pela manhã, já programado para os militares retomarem toda 
 
 "Os militares têm esperado pacientemente desde a evacuação da cidade em 21 de maio. Prometemos aos representantes dos cidadãos que não voltaríamos, desde que certas condições fossem respeitadas. Elas não foram respeitadas. Voltar para a cidade tornou-se inevitável, pois a escória da sociedade e os elementos criminosos se organizaram como o chamado “exército dos cidadãos”. Eles infringiram a lei. O exército completou sua missão com sucesso. Cidadãos, venham à frente. A ordem foi restaurada." - Comunicado emitido pelo Comandante da Lei Marcial às 05:25 do dia 27 de Maio de 1980.
 
-
-
 \-- Na foto: 1) Cena do dorama onde os corpos dos mortos eram colocados. 2) Foto real em um dos ginásios que eram usados para funerais das pessoas mortas durante os ataques. Tirada pelo jornalista Jurgen Hinzpeter.
 
 ![](http://pm1.narvii.com/8076/d27480ece88d09de159cb9e89990777089afb84er1-1702-630v2_00.jpg)
@@ -194,8 +196,6 @@ Uma das pautas para que os protestos ainda continuassem acontecendo era a falta 
 Foi em 1996 que o julgamento chegou ao fim com a condenação de 8 políticos militares incluindo Chun Doo Hwan e Roh Tae Woo. Acusados de alta traição e responsáveis pelo massacre de Gwangju, suas punições foram oficializadas em 1997 com a sentença de morte. A sentença acabou sendo alterada para prisão perpétua para Chun Doo Hwan e para Roh Tae Woo e demais militares. Apesar disso, todos receberam perdão em nome do Presidente da época, Kim Young Sam, que foi aconselhado pelo Kim Dae Jung.
 
 Resumidamente, mesmo após anos e anos de protestos e milhares de mortes, nenhum dos militares recebeu efetivamente uma punição justa pelo massacre. Todos foram perdoados e apenas tiveram que pagar multas. Não é de agora que a justiça coreana não pune criminosos de guerra e faz pouco caso com políticos assassinos enquanto prendem pessoas que fumam maconha quase todo mês. Nada de novo no capitalismo.
-
-
 
 # ⁸ Outras adaptações
 
@@ -229,8 +229,6 @@ Mais algumas
 
 *26 Years (26년, 2012)*
 
-
-
 \-- Na foto: vítima dos tiros de militares, a estudante de ensino médio Park Geum Hi foi morta após ter ido ao hospital doar sangue para ajudar os militantes dos protestos.
 
 ![](http://pm1.narvii.com/8076/9488b87e7c46c7086ea26633fdb5919f941b2053r1-1702-630v2_00.jpg)
@@ -249,8 +247,6 @@ KIM, Yong Cheol. The Shadow of the Gwangju Uprising in the Democratization of Ko
 
 Katsiaficas, Georgy. "Neoliberalism and the Gwangju uprising." 민주주의와 인권 6.2 (2006): 191-229.
 
-
-
 # Finalização
 
 Foi um blog que não queria ter me estendido tanto mas gostei do resultado e da experiência em aprender um pouco mais da história da Coreia. Não falei muito sobre Youth of May, mas considero ele um ótimo drama, caso você, que tenha lido, já tenha assistido ele, notou diversas semelhanças com a realidade e creio que isso foi bem repassado nas telas assim como as demais adaptações acima.
@@ -258,8 +254,6 @@ Foi um blog que não queria ter me estendido tanto mas gostei do resultado e da 
 Para quem terminou esse extenso artigo, meu obrigada e espero que tenha aprendido mais sobre o levante de Gwangju. Deixe seu comentário caso queira. Até a próxima.
 
 \#YouthOfMay #Gwangju #1980 #Sandglass #APetal #TaxiDriver #1987 #WhenTheDaysCome #ParkChunHee #ChunDooHwan #RohTaeWoo #KimDaeJung #KimYoungSam #Historia #Yushin #Ditadura #Tiemi
-
-
 
 # Bônus
 
