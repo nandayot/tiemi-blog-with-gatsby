@@ -18,6 +18,13 @@ background: "#E7881D"
 
 Esse blog tem como objetivo entender melhor o por quê da obsessão em cosméticos e skin care existe no pais sul-coreano e como isso é um agravante para a baixa auto-estima de diversas mulheres que não se encaixam com o que a indústria de cosméticos apresenta.
 
+## Sumário
+
+```toc
+exclude: Sumário
+tight: true
+```
+
 ![Foto da celebridade coreana Nana em uma publicidade de cosmético.](assets/img/nana.jpg)
 
 # Padrão de beleza
@@ -54,7 +61,7 @@ E todos esses padrões que homem tem de seguir também são reflexos do machismo
 
 ![Foto da dupla de kpop AKMU.](assets/img/akmu.jpg)
 
-### ─── No Kpop
+## No Kpop
 
 Muitos sabem que a beleza na Coreia é como se fosse uma missão que todos tem de cumprir. O desejo de ser bonito é alto. E essa obrigação é percebida por todos. Até por nós que nem moramos lá. Isso por causa do K-pop.
 
@@ -64,7 +71,7 @@ Muitos são obrigados a fazerem cirurgia plásticas em ordem de debutar em seus 
 
 ![Foto de um trecho da cena do clima do tempo do dorama Jealousy Incarnate](assets/img/jealousy.jpg)
 
-### ─── Nos doramas
+## Nos doramas
 
 Acho que os doramas mostram bem a realidade dos padrões de beleza na Coreia. Existem vários doramas que passam essa mensagem como tema principal, mas você pode perceber esses esteriótipo em qualquer um, do quanto isso é disseminado lá no país.
 
@@ -78,7 +85,7 @@ Poderia ter citado diversos outros doramas para verem o quanto os coreanos são 
 
 ![Foto da protagonista do webtoon True Beauty. Onde metade de seu rosto está sem maquiagem, com óculos e espinhas e a outra metade com maquiagem e lentes de contato.](assets/img/true-beauty.jpg)
 
-### ─── Na cultura
+## Na cultura
 
 Ultimamente eu venho lendo bastante webtoons. Um em especial chama a atenção. Se chama [True Beauty](https://www.webtoons.com/en/drama/truebeauty/list?title_no=1436&page=1) (Beleza de verdade) de uma autora coreana e ele conta a história de uma menina que sempre sofreu na escola por ter um rosto coberto de espinhas, e usar óculos. Assim, ela decide aprender a se maquiar e usar lentes. No seu ensino médio, ela volta a escola completamente mudada. Com isso ela consegue amigos e admiradores e sua autoestima é levantada. Ela não passa um dia sequer sem passar maquiagem e poucos sabem como ela é naturalmente. Além disso, ela não pensa na hipótese de se mostrar natural para ninguém. O webtoon é bem famoso e está em lançamento ainda mas dá pra ter uma ideia de como a sociedade coreana vê as mulheres. Inclusive ele vai ser adaptado para dorama.
 

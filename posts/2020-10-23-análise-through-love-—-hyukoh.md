@@ -30,6 +30,14 @@ OBS: já fiz um blog de análise do álbum anterior, 24. Está disponível aqui 
 .
 
 .
+## Sumário
+
+```toc
+exclude: Sumário
+tight: true
+from-heading: 1
+to-heading: 6
+```
 
 ![Imagem dos integrantes da banda. Da esquerda para direita: Hyunjae, Donggun, Oh Hyuk, Inwoo. Fundo Branco.](assets/img/hyukoh1.png)
 
@@ -51,7 +59,7 @@ Hyukoh é uma banda de indie rock que debutou no ano de 2014 pela sub-label da Y
 
 # Visão geral do álbum
 
-### ─── Janeiro de 2020
+## Janeiro de 2020
 
 O álbum foi lançado no dia 30 de Janeiro de 2020. Sob a companhia **Dooroo Dooroo**. Foi gravado no estúdio da [Real World Studio](http://realworldstudios.com/clients/), uma renomada gravadora britânica que gravou com artistas como: Beyoncé, Arctic Monkeys, Alicia Keys, Harry Styles, Amy Winehouse, Paul Simon, entre outros. E recebeu ajuda do compositor alemão e amigo de longa data da banda, Norman Nitzche. Possui 6 músicas, assim como o álbum anterior. E analisarei cada uma delas.
 
@@ -69,7 +77,7 @@ O álbum foi lançado no dia 30 de Janeiro de 2020. Sob a companhia **Dooroo Doo
 
 [Full Album](https://youtu.be/UBpdUClwDpw)
 
-### ─── Epa. Cadê o número? Não deveria ser 26? 25?
+## Epa. Cadê o número? Não deveria ser 26? 25?
 
 Dessa vez a banda resolveu cortar o padrão numérico que foi sempre presente em seus álbuns. Foi mais uma questão sentimental da banda diante dos acontecimentos mundiais em diversas áreas da sociedade que levou a pensar em focar totalmente na ideia do Amor. Por isso, Through Love, em português (Através do amor ou Com Amor), tem a intenção de fazer o ouvinte perceber que com o Amor, conseguimos superar tudo, e conviver com todos. Creio que a banda não quis fazer com que o álbum fosse apenas uma sequência dos anteriores mas sim um novo conceito e uma mensagem nova para um mundo certamente mudado.
 
@@ -77,13 +85,13 @@ Muitos fãs se surpreenderam em receber um álbum diferente do que estão acostu
 
 ![Colagem de fotos da banda. ](assets/img/hyukoh4.png)
 
-### ─── Minha visão
+## Minha visão
 
 Isso foi a visão dos fãs mas para mim Hyukoh não me surpreendeu neste quesito. Não me surpreendeu em nada pois sempre acreditei no potencial deles de inovar e trazer músicas bem trabalhadas e de qualidade. Sempre soube que a banda tinha esse lado experimental e tranquilo. Como se estivesse voltando as suas raízes. Para mim, vi muitas semelhanças técnicas entre o álbum 20/22 com Through Love. No começo da carreira, a banda só se preocupava em fazer música por diversão e depois eles começaram a introduzir um discurso subversivo em 23/24 engajando na luta contra a desigualdade, homofobia e outras pautas importantes. Foi quando começaram a se tornar conhecidos. Agora eles voltaram na questão de fazer música focando em trazer o melhor deles, a melhor qualidade, algo que eles nunca irão se arrepender de entregar ao público mas com uma mensagem pacífica para um mundo muito mais cruel que se tornou. Como fosse um remédio que amenizasse as dores e indignações que este mundo traz para nós e para eles também. Eu sempre acreditei que eles eram capazes disso.
 
 ![Fotografia de plantas de diversas espécies. Em destaque uma aparentemente murchada. Tirada pelo fotógrado Wolfgang Tillmans.](assets/img/69192.jpg)
 
-### ─── Sobre a capa do álbum
+## Sobre a capa do álbum
 
 É importante falar da capa do álbum porque nisso também a banda se preocupou em passar a mensagem que eles realmente queriam. A capa é uma fotografia do fotógrafo alemão [Wolfgang Tillmans](https://www.instagram.com/wolfgang_tillmans/). Ele foi o primeiro fotógrafo (e primeira pessoa não-britânica) a ganhar o Prêmio Turner. Esse Prêmio é dado, anualmente, a artistas britânicos das artes visuais com menos de 50 anos de idade. Ele ganhou o premio no ano 2000. Tillmans gosta de fotografar com o objetivo de ver o mundo, diz ele. É bastante engajado nas pautas LGBTQIA+ e outros movimentos de minorias. [wiki](https://en.wikipedia.org/wiki/Wolfgang_Tillmans)
 
@@ -256,7 +264,7 @@ Quando a letra termina e os instrumentos e sons permanecem podemos perceber um s
 
 # A revelação
 
-### ─── A maneira certa de escutar o álbum, diz Oh Hyuk
+## A maneira certa de escutar o álbum, diz Oh Hyuk
 
 Aqui eu encerro a minha análise do álbum. Claro que são apenas MINHAS opiniões diante das músicas. Cada um escuta e interpreta de um jeito. Quis mostrar o meu, como fã de música, como fã de Hyukoh. Mas o próprio Oh Hyuk [disse](https://youtu.be/RA4KDvT1SfQ) que preparou cada música para que uma se "grudasse" na outra se tornando uma única música no álbum. Uma música de 26 minutos e 25 segundos. Olha só o número 26 aparecendo e o 25 também. Como se a banda demonstrasse também uma continuidade em seus álbuns por meio deste também. Sem colocar os números no nome do álbum mas passar através das músicas. 26 é a idade de todos os integrantes da banda aliás. Isso, para mim, também mostra o pensamento, ideologias e posicionamento, de cada um deles na idade de 26 anos, no mundo. E na verdade, era isso que eles queriam mostrar em todos os álbuns. Os pensamentos de jovens dessa idade (20,22,23,24) e como se comportam.
 

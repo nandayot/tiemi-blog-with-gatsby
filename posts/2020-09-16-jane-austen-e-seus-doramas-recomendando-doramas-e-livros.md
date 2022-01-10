@@ -27,6 +27,13 @@ background: "#D6BA32"
 
 Minha paixão por Jane Austen começou faz muitos anos, quando minha paixão pela leitura era muito grande. Creio que Jane Austen foi umas das primeiras escritoras clássicas que li. Antes dela já tinha lido Sir Arthur Conan Doyle, Júlio Verne, VIctor Hugo, Agatha Christie... Essa foi a época em que me apronfundei em escritas mais antigas.
 
+## Sumário
+
+```toc
+exclude: Sumário
+tight: true
+```
+
 ![Imagem dos 6 romances de Jane Austen. Minha coleção de livros.](assets/img/colecao.jpg "Minha coleção dos romances de Jane Austen.")
 
 # Minha coleção Jane Austen
@@ -35,7 +42,7 @@ Não lembro a data exata mas foi por volta de 2013 que comprei meu primeiro livr
 
 Sempre recomendo Jane Austen para qualquer apreciador de literatura. Jane tem uma escrita incrível. Sua irônia foi revolucionária em sua época em que a faz ser uma das escritoras mais consagradas do romance moderno.
 
-### Atenção!
+#### Atenção!
 
 Pode conter alguns spoilers sobre doramas.
 
@@ -95,14 +102,14 @@ Agora vamos listar os 6 romances que falarei neste blog por ordem de publicaçã
 
 # Razão e Sensibilidade
 
-### ─── Duas mulheres com sentimentos contrários
+## Duas mulheres com sentimentos contrários
 
 
 Vou comentar sobre livro somente pelas lembranças da leitura, do começo desse ano, que tenho sobre. Lembro que comecei a lê-lo logo depois de Mansfield Park e terminei em dois dias para vocês entenderem o quão impressionante as obras de Jane são. Fui pega de surpresa pois não esperava que gostaria tanto deste livro. Por isso que foi o último que comprei dela. O nome do livro tem muito a ver com o que minha querida Jane quer passar para o leitor.
 
 O livro conta sobre a vida de duas irmãs Elinor e Marianne que se vêem tiradas de seu conforto financeiro quando seu pai falece. Elas e sua mãe foram obrigadas a mudaram para um chalé, bem menor que sua casa original dentro de uma propriedade privada chamada Barton Park. Elinor tem uma personalidade forte e sempre usa seu lado racional e intelectual para decidir sobre todas as escolhas de sua vida. Enquanto Marianne, irmã mais nova, é cheia de paixão e espontaneidade e sua vida é ditada pelo seus sentimentos. Assim, o livro conta a história e romances de suas vidas durante essa nova fase de adaptação onde podemos entrar na cabeça das duas e conseguimos perceber suas aflições e desejos, que conforme o tempo passa, e novas pessoas vão conhecendo, eles vão mudando e amadurecendo.˙
 
-### ─── E o dorama?
+## E o dorama?
 
 
 #### Age of Youth
@@ -118,7 +125,7 @@ Creio que foi somente este dorama que veio a mente com relação ao livro. Mas q
 ˙\
 ˙
 
-### ─── Conclusão
+## Conclusão
 
 
 ![Foto de um cena do dorama Age of Youth. 4 mulheres olhando para a câmera sentadas no sofá.](https://64.media.tumblr.com/a99eecc13991715d9e1b9efabff5110b/tumblr_ovd3bvWYHX1um15yao4_1280.png)
@@ -134,14 +141,14 @@ Se você assistiu e gostou de Age of Youth, eu recomendo ler Razão e Sensibilid
 
 # Orgulho e Preconceito
 
-### ─── O típico mal entendido
+## O típico mal entendido
 
 
 Agora vamos falar do livro mais renomado da autora e o que quase todo mundo conhece e ama. Orgulho e Preconceito faz jus ao seu sucesso. O livro do começo ao fim é um espetáculo de escrita e cheio de intrigas e diálogos ácidos e irônicos que o fazem rir e dar aquele sorriso de lado. Não é a toa que foi o livro com mais adaptações cinematográficas entre seus romances.
 
 O livro conta a história de Elizabeth Bennet, uma jovem mulher que prefere livros em vez de homens em uma sociedade em que você precisa estar a procura de um homem rico para conseguir um futuro decente. Lizze não se importava com esse padrões e gostava de aproveitar a vida do jeito dela. Acontece que ela se encontra com o amigo de seu novo vizinho na festa de recepção deles, o Sr. Darcy. Esse amigo fala sobre suas primeiras impressões sobre Lizze, quando perguntado. O que ele não esperava era Lizze ter escutado tudo. Assim começa a história de mal-entendidos entre eles e o surgimento de interesses por parte de ambos.
 
-### ─── E o dorama?
+## E o dorama?
 
 
 #### Her Private Life
@@ -159,7 +166,7 @@ Claro que temos diversos outros doramas que retraram algo parecido.
 ˙\
 ˙
 
-### ─── Conclusão
+## Conclusão
 
 
 ![Foto de uma cena do dorama Her Private Life. Ryan Gold e Deok Mi se beijando.](https://64.media.tumblr.com/e74211d48cd4af8f316c317fe37a235d/79533874f0a6863e-d3/s2048x3072/52aedec25d2fa4248cf3b3b8ed3ccc105f9d5a5a.jpg)
@@ -179,7 +186,7 @@ Portanto, quem assistiu e gostou de Her Private Life, com certeza amará Orgulho
 
 # Mansfield Park
 
-### ─── Um final in(esperado)
+## Um final in(esperado)
 
 
 Esse foi um livro que li com um pé atrás porque quando li sua sinopse eu não gostei, confesso. Mas depois que fui lendo eu tive aquele sentimento "ah.... essa é a Jane Austen que conheço.". Mesmo com um plot não agradável para meu gosto, sua escrita é tão excelente que me fez ficar interessada pela trama.
@@ -188,7 +195,7 @@ O livro conta a história de uma menina pobre chamada Fanny em que a mãe a aban
 
 Fanny já crescida, torna-se uma linda mulher e atraí olhares de um amigo de Edmund, Henry Crawford. Mas Fanny o rejeita de primeira, surpreendendo a todos pelo seu "rigoroso" tipo ideal. O livro conta com diversos diálogos entre Edmund, Fanny e reuniões com seus amigos em sua mansão, e até mesmo uma encenação teatral. Juntamente a isso, conta as frustrações de Fanny com relação as investidas de Henry durante todo o livro e fui presentada com um final... digamos... interessante e abrupto.
 
-### ─── E o dorama?
+## E o dorama?
 
 
 #### Reply 1994
@@ -202,7 +209,7 @@ Uma característica essencial que vi para escolher ele foi a relação dos irmã
 ˙\
 ˙
 
-### ─── Conclusão
+## Conclusão
 
 
 ![Foto poster do dorama Reply 1994 onde os 7 protagonistas estão em pé olhando para a camera um ao lado do outro.](assets/img/reply-1994.jpg)
@@ -218,7 +225,7 @@ Se você gostou de Reply 1994, vai gostar de Mansfield Park. E se você leu Mans
 
 # Emma
 
-### ─── Um amor destinado
+## Um amor destinado
 
 
 Emma foi o segundo livro que li de Jane, senão me engano, e foi uma ótima leitura na época apesar de muitos acharem massante. O livro em si é grande mas eu achei bastante aproveitoso se você prestar bem atenção nos detalhes e diálogos dos personagens.
@@ -227,7 +234,7 @@ O livro conta a história de uma mulher chamada, pasmem, Emma. Uma mulher, digam
 
 Apesar de todos as intrigas e confusões que Emma passa, seu amigo Sr. Knightley sempre está ao seu lado, apoiando-a e repreendendo-a nas horas certas. Acontece que nem mesmo ela previu os sentimentos de seu amigo, e depois, de seu próprio. É um livro bastante agitado, cheio de diversão, brigas, festas e chás. E claro, romance.
 
-### ─── E o dorama?
+## E o dorama?
 
 
 #### The Time We Were Not In Love
@@ -241,7 +248,7 @@ A grande semelhança se dá na relação entre os protagonistas. Ambos são amig
 ˙\
 ˙
 
-─── Conclusão
+## Conclusão
 
 
 ![Foto poster do dorama The Time We Were not in Love. Os dois protagonistas estão sentados numa escada olhando para a camera.](assets/img/the-time-we-were-not-in-love.jpg)
@@ -261,14 +268,14 @@ Já atualiza sua lista de doramas e/ou sua lista de leitura e coloca esses nelas
 
 # A Abadia de Northanger
 
-### ─── Uma heroína fora da realidade
+## Uma heroína fora da realidade
 
 
 Esse foi o livro mais aleatório que li da Jane. As decisões e pensamentos da protagonista eram bem espontâneas e dramáticas. Mas, na época em que li, eu adorei. E acho que foi um dos mais fáceis de entender no caso dos costumes, tradições e diálogos. Se você for querer começar algum livro de Jane, este seria o ideal.
 
 O livro conta sobre a vida de uma jovem chamada Catherine, vinda de uma família normal e cheia de irmãos. Logo de cara Jane já fala que Catherine sempre fugiu dos padrões exigidos por uma mulher. Ela gostava de brincadeiras de meninos em vez de aprender algum instrumento. Mas isso não excluía as características femininas dela. Catherine amava ler livros principalmente aqueles que a sociedade erudita taxavam como inúteis. No decorrer do livro, Catherine estava lendo um livro gótico quando foi convidada pela família Tilney a passar algumas semanas em sua abadia. Catherine não conteve sua emoção em saber que ficaria hospedada num lugar parecido com o que estava lendo no momento. Nisso ela conhece Henry Tilney e Thorpe no qual ambos ficam encantados pela beleza de Catherine. E assim o livro conta suas aventuras pela Abadia, em bailes, teatros e outros locais com seus pretendentes românticos e sua então nova melhor amiga, irmã de Tilney, Isabelle.
 
-### ─── E o dorama?
+## E o dorama?
 
 #### Touch Your Heart
 
@@ -283,7 +290,7 @@ Falando de Henry Tilney e Kwon Jung Rok a personalidade não é tão semelhante 
 ˙\
 ˙
 
-### ─── Conclusão
+## Conclusão
 
 
 ![Foto de uma colagem em que mostra os dois protagonistas do drama Touch Your Heart. Ambos sentadosa frente de uma mesa de escritório.](https://64.media.tumblr.com/56da350d3014619d2535a5bdc26f0295/tumblr_pnyduuYIvg1tlyx9z_1280.jpg)
@@ -299,7 +306,7 @@ Se você assistiu e gostou de Touch You Heart, eu recomendo ler A Abadia de Noth
 
 # Persuasão
 
-### ─── Um amor interrompido
+## Um amor interrompido
 
 
 Esse foi o livro mais fofinho com relação aos diálogos entre os protagonistas.
@@ -310,7 +317,7 @@ Anne é uma mulher bonita vinda de uma família nobre, logo, o romance entre Ann
 
 Anos depois, Frederick volta para a cidade com sua vida completamente diferente. Durante suas viagens a trabalho pela Marinha ele se torna um renomado capitão. Um par perfeito para um dama. E assim o livro conta o momento de reencontro embaraçoso entre Anne e Frederick. Não quero dar spoilers.
 
-### ─── E o dorama?
+## E o dorama?
 
 
 #### Romance is a Bonus Book
@@ -324,7 +331,7 @@ Já a relação entre Frederick e Eun Ho são várias. A começar pela fase "jov
 ˙\
 ˙
 
-### ─── Conclusão
+## Conclusão
 
 
 ![Cena do dorama Romance is a Bonus Book. Os dois protagonistas estão em cima da cama olhando para um celular.](https://64.media.tumblr.com/e682185575cb876cbd8262d2cbf2a26f/5038044af7688207-3a/s2048x3072/08dfc31a9b1ac537cad06cabc9d17217297ff21c.jpg)

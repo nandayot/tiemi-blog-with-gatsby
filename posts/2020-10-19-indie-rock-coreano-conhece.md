@@ -49,6 +49,14 @@ Mas sobre a data 13 de Julho. Ela foi escolhida para celebrar o rock em homenage
 ˙
 
 ☟ 
+## Sumário
+
+```toc
+exclude: Sumário
+tight: true
+from-heading: 1
+to-heading: 6
+```
 
 ![Colagem de fotos da banda Tilde.](assets/img/1.png)
 
@@ -58,7 +66,7 @@ Tilde foi formada recentemente e possui como membros Kang Dong Gyu (baterista), 
 
 A banda lançou um [mini-documentário](https://www.youtube.com/watch?v=ZkPa03YulC8) mostrando a evolução do EP e os bastidores da produção. Kim Han Gyeol (saiu da banda em Julho) e o Laser Hong foram os responsáveis por construir as melodias e letras das músicas do EP. Eles relatam que terminaram o álbum em um período de 5 meses. Fizeram 10 músicas em 4 meses. Foram meses em que estiveram no seu ápice e completamente apaixonados por fazer músicas. E isso é claramente percebido pela qualidade de cada uma delas.
 
-### ─── ode to waves
+## ode to waves
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mGrlNfOGZTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -90,7 +98,7 @@ The KOXX é uma banda sul-coreana formada em 2009. Fizeram seu debut com o EP En
 
 Quando comecei escutá-los eu pude perceber muitas influências no som deles. Eles possuem diversas técnicas e ritmos padrões de diversas bandas de rock. Pude perceber influências de Arctic Monkeys e The Killers. O que dizer musicalmente de suas músicas além de dizer que é rock puro? Claro que algumas b-sides dele possuem um rock puxado para o melódico pop mas a maioria possuem essa pegada pesada do rock. E para quem curte rock, The KOXX é obrigatório na playlist.
 
-### ─── zeitgeist
+## zeitgeist
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9WL4gNBXvNM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -125,7 +133,7 @@ Oh Chill foi uma banda que adorei conhecer! Apesar de *banda* soar estranho por 
 
 Oh Chill pode ser uma banda pequena e não muito conhecida mas possui vastas experiências. A banda foi formada em 2014 e no mesmo ano lançaram seu primeiro EP chamado 57! Isso me deixou encucada pois não achei esse álbum em nenhuma plataforma. ([fonte](https://www.melon.com/album/music.htm?albumId=2292798)). Enfim. Em 2017 eles tiveram a oportunidade de realizar uma turnê pela Europa por conta de 2 prêmios que ganharam sendo eles: KT&G Descoberta de Banda e EBS Hello Rookie do Ano. E com o apoio da KCCA eles realizaram 25 shows em 23 cidades de 4 países. Inglaterra, Alemanha, Polônia e França. Claro que todos os festivais no qual participaram não foram tipo Coachella da vida. Foram festivais relativamente pequenos mas que agregaram bastante na carreia deles.
 
-### ─── Love Me More
+## Love Me More
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s04sTHZ7t_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -168,7 +176,7 @@ Uma das situações mais inusitadas e trágicas da banda foi quando eles gravara
 
 [fonte](https://kindie.fandom.com/wiki/Guckkasten) e [fonte](https://en.wikipedia.org/wiki/Guckkasten)
 
-### ─── Pulse
+## Pulse
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b971NOZEbgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -196,7 +204,7 @@ Sim, isso mesmo. O nome da banda significa Unidade Nacional de Pombos (NPU). É 
 
 Já em seu mais recente álbum intitulado 999 (lançado no dia 9 de Setembro de 2019). É um álbum cheio de experiências e histórias durante os últimos dois anos de produção. 999 possui 9 faixas em que cada uma conta uma história diferente. E aqui fica mais claro o porque o nome da banda ser o que é. Pombos que, com a habilidade voar possuem mais chances de sobreviver, são as aves que mais morrem atropelados por carros. Então, só de estar vivo é a prova de que você está voando. É mais ou menos isso o significado do nome da banda, meio confuso porque traduzi do coreano. A banda possui um estilo muito experimental e fica difícil enquadrá-los em algum gênero musical e isso é bom porque não importa qual estilo você goste, provavelmente vai gostar de alguma música deles. [fonte](http://mirrorballmusic.co.kr/artist/27973/)
 
-### ─── Sevenless
+## Sevenless
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ptYaBCp0HFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -235,7 +243,7 @@ Termino o blog com essa última indicação. Uma banda indie rock com uma pegada
 
 A banda tem um som aconchegante e confortante. O som deles é para mim o som perfeito para qualquer tipo de viagem. De carro, de barco, de avião. Seja o que for a som deles nos dá essa ternura. Não me lembro bem como conheci a banda mas escutei o EP inteiro deles e fiquei maravilhada.
 
-### ─── gold
+## gold
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TMfr3H05ido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -264,7 +272,7 @@ maybe everyone is the same
 
 # ~ indicações extra
 
-### ─── The Wetter, Se So Neon & Hyukoh
+## The Wetter, Se So Neon & Hyukoh
 
 Se for considerar o rock como um movimento um pouco mais genérico, ou seja, sem considerar suas diversas vertentes temos diversas outras bandas incríveis na Coreia para vocês não terem sossego nem descanso. **The Wetter** é uma delas. Tem um som de garage rock e alternativo que assemelha muito com Arcade Fire e outros atuais. 
 
@@ -272,35 +280,35 @@ Outra banda de destaque e que todo coreano que se preze conhece é **Se So Neon*
 
 E outra banda importante para a popularização do rock coreano para o mundo é a melhor banda de rock **Hyukoh**. Quem me conhece sabe que sou fanática por eles. E não faz ideia quem seja? Ou conhece só de escutar? Eu tenho um blog deles aqui. A [análise](https://www.tiemi.social/hyukoh-24-how-to-find-true-love-and-happiness-análise/) do álbum 24.
 
-### ─── Menções Honrosas
+## Menções Honrosas
 
 Claro que quando estava fazendo este blog me deparei com diversas bandas e não coube falar de todas aqui. Então preciso pelo menos citá-las.
 
-#### [SURL](https://www.youtube.com/c/SURLofficial/playlists)
+### [SURL](https://www.youtube.com/c/SURLofficial/playlists)
 
 Banda maravilhosa composta por jovens músicos prodígios em que todas as músicas que fazem são extraordinariamente muito boas. A banda possui tudo. Vocal, técnica, instrumental. Mesmo sendo jovens eles já possuem 2 EP e vários singles.
 
-#### [Dasutt](https://www.youtube.com/channel/UCuXlRP-omthhLMEaoZT5jUA)
+### [Dasutt](https://www.youtube.com/channel/UCuXlRP-omthhLMEaoZT5jUA)
 
 Outra banda incrível que o Youtube me recomendou e sem dúvidas vai viciar qualquer um que escutar. Eles possuem a mesma vibe de wave to earth e voltado para o folk. Com certeza merecem toda o apoio possível.
 
-#### [THORNAPPLE](https://www.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
+### [THORNAPPLE](https://www.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
 
 Uma banda já conhecida mundialmente se comparada a outras já citadas. Thornapple possui vários estilos. Já escutei rock pesado, rock pop e um rock folk. Com certeza alguma das músicas deles satisfazem diversos tipos de público.
 
-#### [Monotheism](https://www.youtube.com/channel/UC278sVy4ISOTpsLJnkiNZCA)
+### [Monotheism](https://www.youtube.com/channel/UC278sVy4ISOTpsLJnkiNZCA)
 
 Essa banda composta por 3 pessoas me impactou como nenhuma outra. Queria colocá-la como destaque mas descobri ela depois de já ter feito a distribuição de bandas. Mas vocês precisam ouví-los. É uma heavy metal de incrível qualidade. Possuem 2 EP e eles são 100% focados em rock instrumental. Isso mesmo, não tem vocal em nenhuma das músicas e todas elas fazem você ficar de queixo caído pela qualidade e te faz querer balançar a cabeça que nem rockeiro.
 
-#### [Gogostar](https://www.youtube.com/channel/UCRtZmHUNiGzCnU2mHD0dYoQ)
+### [Gogostar](https://www.youtube.com/channel/UCRtZmHUNiGzCnU2mHD0dYoQ)
 
 Outra banda que gostaria de ter dado destaque mas então o blog ia ficar gigante. Gogostar tem uma energia tão boa e contagiante. Eles também são completos. Tem um bom instrumental e um bom vocal e claro, muito rock na veia.
 
-#### [The Woozy](https://www.youtube.com/channel/UC0UWDCPTgk7b0fu9l8W2KFQ/videos)
+### [The Woozy](https://www.youtube.com/channel/UC0UWDCPTgk7b0fu9l8W2KFQ/videos)
 
 The Woozy conheci através do site **House of the Dragonfly** e é uma banda tão fofa e talentosa. Apesar de também serem recem formados e possuírem apenas 1 álbum, percebe já pelo som que entregaram que vão se tornar bem consolidados no cenário indie.
 
-#### [The Vane](https://www.youtube.com/channel/UCzdNtRg2cuKCro0gt0ih5AQ~)
+### [The Vane](https://www.youtube.com/channel/UCzdNtRg2cuKCro0gt0ih5AQ~)
 
 Também descobri pelo mesmo site e quando descobri que The Vane era um artista solo fiquei muito mais surpreendida. Imagina uma banda de rock com apenas um vocalista? Claro que ele possui a banda de apoio mas ele promove individualmente. Ele possui 1 album e 1 EP e todos muito bons e também dignos de balançar a cabeça como rockeiro. Provavelmente você já deve ter o escutado em alguma OST de dorama porque o tanto que esse cara fez OST é assustador! Infelizmente ele acabou de se alistar no exército...
 

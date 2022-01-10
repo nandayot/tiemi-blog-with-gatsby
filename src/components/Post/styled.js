@@ -1,5 +1,6 @@
 import styled from "styled-components"
 import media from "styled-media-query"
+import { Face } from "@styled-icons/boxicons-solid/Face"
 
 export const PostHeader = styled.header`
   color: var(--postColor);
@@ -257,5 +258,9 @@ export const MainContent = styled.section`
     &:hover {
       opacity: 0.8;
     }
+  }
+  a.anchor {
+    fill: red;
+    border-bottom: none;
   }
 `

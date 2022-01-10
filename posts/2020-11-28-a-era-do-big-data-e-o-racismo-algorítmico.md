@@ -35,6 +35,14 @@ Atualmente, vivemos na era do Big Data, onde o volume de dados gerados é altame
 
 Para entender melhor sobre todos esses assuntos eu reuni neste blog um conjunto de 5 livros que falam sobre como sistemas estátísticos, automatizados e preditivos são comercializados e usados deliberadamente em empresas, órgãos públicos, departamentos policiais e que acabam gerando preconceitos raciais, de gênero e de classe. Esses 5 livros eu li nessas últimas 3 semanas e apesar de ser difícil falar de cada um em apenas um blog, vou dar apenas uma pincelada em cada um e o resto deixo para a curiosidade e desejo de vocês de entender melhor sobre o assunto, sendo ou não do ramo da tecnologia. Todos nós somos alvos desses sistemas.
 
+## Sumário
+
+```toc
+exclude: Sumário
+tight: true
+from-heading: 1
+to-heading: 6
+```
 ## Preliminares
 
 Antes de começar a falar sobre os livros é necessário alguns esclarecimentos de conceitos que serão apresentados abaixo. Para quem não é da área de tecnologia, é importante ler esse próximo parágrafo para entender o decorrer do blog.

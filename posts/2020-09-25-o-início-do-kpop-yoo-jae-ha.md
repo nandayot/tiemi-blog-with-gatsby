@@ -27,6 +27,12 @@ Vamos ao blog.
 ˙
 
 ˙
+## Sumário
+
+```toc
+exclude: Sumário
+tight: true
+```
 
 ![Foto de Yoo Jae Ha sentado em um banco em frente à praia.](assets/img/yoojaehaaaa.jpg)
 
@@ -174,39 +180,39 @@ Não só no cenário musical que Yoo Jae Ha é lembrado. Nosso querido diretor B
 
 Falei muito sobre Yoo Jae Ha mas não falei de suas músicas. Não sei muito de teoria musical então a minha análise de músicas é completamente superficial mas tenho certeza que músicos autênticos conseguem entender a genialidade de Jae Ha através do seu único álbum.
 
-### ─── Faixa 1: [Our Love](https://youtu.be/gSAmQ1Di_0Y)
+#### ─── Faixa 1: [Our Love](https://youtu.be/gSAmQ1Di_0Y)
 
 Uma das músicas mais tocadas em karaokê e que foi uma das tocadas em Reply 1988. Nessa música já percebemos toda a instrumentalidade de Jae Ha. É possível ouvir diversos instrumentos sendo tocados em segundo plano de ajuda a enriquecer a melodia. Uma técnica usada por ele e que até hoje usa é a oitavada. Quando a melodia sobe um tom acima.
 
-### ─── Faixa 2: [You In My Arms](https://youtu.be/0JMEU5eU-kU)
+#### ─── Faixa 2: [You In My Arms](https://youtu.be/0JMEU5eU-kU)
 
 Como qualquer música ballad, esta fala sobre Amor. Na verdade todo o álbum é como uma declaração de amor para a mulher que Yoo Jae Ha amava. Não me lembro o nome dela agora, mas ela era amiga próxima de Jae Ha, tanto é que participou de seu álbum como flautista. Porém, eles nunca chegaram a ficar juntos.
 
-### ─── Faixa 3: [Empty Tonight](https://youtu.be/DLQPss7ZQMY)
+#### ─── Faixa 3: [Empty Tonight](https://youtu.be/DLQPss7ZQMY)
 
 Uma música que cheira anos 80, com batidas fortes da bateria e efeitos sonoros de teclado. Durante todo o álbum você percebe que o vocal de Jae Ha é na verdade muito bom e não entende porque foi banido dos programas.
 
-### ─── Faixa 4: [My Reflection In My Mind](https://youtu.be/YbqHV7oRo0U)
+#### ─── Faixa 4: [My Reflection In My Mind](https://youtu.be/YbqHV7oRo0U)
 
 A única música que ele tocou em um programa de TV foi essa. E que se tornou uma das favoritas do público. Uma música que soube usar muito bem a alternância de altos e baixos. E no programa da KBS é possível ver que Jae Ha realmente amava música.
 
-### ─── Faixa 5: [Minuet](https://youtu.be/m4cyZCOJZ0k)
+#### ─── Faixa 5: [Minuet](https://youtu.be/m4cyZCOJZ0k)
 
 Aqui podemos ter uma noção do alcance musical de Yoo Jae Ha. Essa é uma música clássica que Yoo Jae Ha compôs e que se falasse que era de Mozart ninguém ia retrucar. Jae Ha sabia fluentemente violino e foi por isso que essa obra prima nasceu. Ao colocar essa música no álbum Jae Ha queria dizer que era possível misturar clássica com pop e que era perfeitamente 'ok' você gostar de ambos os gêneros. (Fiquei intrigada e coloquei a música no Shazam para ver se o app conseguia identificar a música. Demorou um pouco mas ele identificou!!)
 
-### ─── Faixa 6: [Blocked Road](https://youtu.be/GKFeFwk2JF0)
+#### ─── Faixa 6: [Blocked Road](https://youtu.be/GKFeFwk2JF0)
 
 A música foi inicialmente conhecida através de Kim Hyun Sik que a cantou no seu segundo álbum em 1986. Mas se forem comparar a versão de Hyun Sik e de Jae Ha percebe-se que é completamente diferente. A versão de Yoo Jae Ha em seu álbum é muito superior. Essa música também foi tocada em Reply 1988.
 
-### ─── Faixa 7: [Last Day](https://youtu.be/nXKDMyN8EsE) (Past Days)
+#### ─── Faixa 7: [Last Day](https://youtu.be/nXKDMyN8EsE) (Past Days)
 
 Considero essa música um dos alicerces do pop coreano. Isso porque você consegue perceber que artifícios que os grupos do kpop usam atualmente (e/ou durante a era 2000-2010) são muito semelhantes ao que Jae Ha usa nessa música.
 
-### ─── Faixa 8: [Gloomy Letter](https://youtu.be/MF_X6FuDlMc)
+#### ─── Faixa 8: [Gloomy Letter](https://youtu.be/MF_X6FuDlMc)
 
 A música que aparaceu no filme de sucesso Memories of Murder. E que na época, em 2003, reviveu o legado de Jae Ha. Mesmo que o filme retratasse a música como algo assustador isso não fez com que a música se tornasse algo diferente e a fez voltar aos charts.
 
-### ─── Faixa 9: [Because I Love You](https://youtu.be/Gwa0WNLCkNk)
+#### ─── Faixa 9: [Because I Love You](https://youtu.be/Gwa0WNLCkNk)
 
 A última música e a mais representativa da carreira de Yoo Jae Ha e também a que engloba todo o talento dele. Sem dúvidas é uma das músicas que possuem mais covers de outros artistas e também a “música-manual” para os artistas de ballad que vieram depois dele. Inclusive o fã clube de Jae Ha é justamente "Because I Love Yoo Jae Ha".
 
@@ -226,17 +232,17 @@ Tem uma homenagem maravilhosa que fizeram em 2013 da maioria dos ganhadores da C
 
 # Curiosidades etc.
 
-### ─── Vendas e Reconhecimento
+## Vendas e Reconhecimento
 
 Em 2011 o álbum de Yoo Jae Ha registrou a venda de mais de 2 milhões de cópias. E o álbum foi remasterizado em 2014 no vinil.
 
 Em 2018 a Hankyeoreh em conjunto com o site Melon, Taerim Scores, diversos críticos musicais e jornalistas rankearam os 100 álbuns mais importantes do pop coreano. Because I Love You ficou em primeiro lugar. Mas não somente neste ano que o álbum de Jae Ha foi reconhecido. Em 1998 ficou em sétimo lugar e em 2007 em segundo lugar em ranks similares.
 
-### ─── Adaptação
+## Adaptação
 
 Foi anunciado recentemente que a vida de Yoo Jae Ha, Kim Hyun Sik e o primeiro amor de Yoo Jae Ha ganhará adaptação para o cinema. Um filme, chamado Season of You and Me, que terá lançamento em 2021 com participação do ator Song Joong Ki como Yoo Jae Ha. Saiba mais aqui: [aqui](https://asianwiki.com/Season_of_You_and_Me).
 
-### ─── Covers & Performances
+## Covers & Performances
 
 [Hyukoh — Because I Love You](https://youtu.be/_ijvawCjPW0) (2015 — Melon Music Awards)
 

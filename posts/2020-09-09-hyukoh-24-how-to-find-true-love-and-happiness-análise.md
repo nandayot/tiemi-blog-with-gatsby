@@ -23,6 +23,14 @@ Mas não é nada disso. É belo por simplesmente ser o título do álbum lançad
 
 Porém as opções acima também são válidas. Não agora. Neste momento vamos somente apreciar o álbum da banda Hyukoh.
 
+## Sumário
+
+```toc
+exclude: Sumário
+tight: true
+```
+
+
 ![Foto dos 4 integrantes da banda Hyukoh um ao lado do outro. Foto de perfil de cada um colocado lado a lado.](https://pm1.narvii.com/7096/d079a82a3caa9c3504d49a182e5d77b851de0a00r1-2048-683v2_hq.jpg "Integrantes da banda Hyukoh")
 
 Na sequencia: Oh Hyuk, Dong Gun, In Woo, Hyun Jae

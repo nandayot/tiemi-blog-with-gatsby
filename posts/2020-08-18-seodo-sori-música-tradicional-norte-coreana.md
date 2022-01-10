@@ -13,11 +13,17 @@ background: "#E7881D"
 ---
 Esse é um blog informativo sobre a cultura coreana, em específico, a norte-coreana. Gosto muito de descobrir sobre culturas, tradições, rituais, lendas e histórias de diversos países, mas como apreciadora da cultura coreana, saber mais a fundo sobre o país (norte e sul) é sempre um prazer e espero que também seja para vocês e por isso fiz este blog. Boa leitura!
 
+## Sumário
+
+```toc
+exclude: Sumário
+tight: true
+```
 
 
-## Introdução
+# Introdução
 
-### O que é Seodo Sori ? 
+## O que é Seodo Sori ? 
 
 Seodo Sori, também conhecido como Seodo Minyo, é um estilo musical que contempla músicas tradicionais coreanas da região de Seodo, parte noroeste da Coreia do Norte que engloba as províncias de [Pyeongan](https://www.google.com/search?q=%ED%8F%89%EC%95%88%EB%8F%84&amp;oq=%ED%8F%89%EC%95%88%EB%8F%84&amp;aqs=chrome..69i57j0l4.560j0j7&amp;client=ms-android-xiaomi-rev1&amp;sourceid=chrome-mobile&amp;ie=UTF-8) e [Hwanghae](https://www.google.com/search?q=%ED%99%A9%ED%95%B4%EB%8F%84&amp;oq=%ED%99%A9%ED%95%B4%EB%8F%84&amp;aqs=chrome..69i57j0l4.469j0j7&amp;client=ms-android-xiaomi-rev1&amp;sourceid=chrome-mobile&amp;ie=UTF-8) .
 
@@ -125,7 +131,7 @@ Por ser uma região que faz fronteira com a Coreia do Norte, antes da criação 
 
 ![Foto das 3 mestres de Seodo Sori citadasno blog. Todas vestindo roupas tradicionais coreanas (hanbok) em um teatro com um cenário tradicional antigo de telas de divisão de bambu e pinturas de galhos e gramas. Estão sentada lado a lado. À esquerda está Yu Ji Sook, no centro está Oh Bok Nyeo segurando um janggu (tambor coreano), à direita está Kim Gwang Sook. Todas usam hanbok de tecido de seda rosa claro com detalhes em vinho.](assets/img/1624335.jpg "(esq. para dir.) Yu Ji Sook, Oh Bok Byeo e Kim Gwang Sook.")
 
-### 🍁Seodo Sori moderno?
+## 🍁Seodo Sori moderno?
 
 Seodo Sori ainda é escutado e presente na região sul coreana como vocês leram acima e é realizado performances em diversos lugares e eventos. Como festivais, concertos, museus, feriados e etc. Mas têm pessoas que resolveram inovar e utilizar o Seodo Sori como homenagem em suas músicas para ajudar na divulgação da tradição. Uma dessas pessoas é a cantora Chu Da Hye e sua ex-banda SsingSsing.
 
@@ -149,7 +155,7 @@ SssingSsing era composta por 6 músicos. Lee Hee-moon e Shin Seung-tae eram os v
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QLRxO9AmNNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Finalização
+# Finalização
 
 O blog chega ao fim. Ele teve o único objetivo de proporcionar-me conhecimento sobre a cultura da Coreia como um todo e como várias tradições e rituais são pertinentes e conhecidos tanto no sul como no norte, o que faz ser um símbolo de unificação. Espero que tenham gostado e aprendido um pouco da Coreia.
 

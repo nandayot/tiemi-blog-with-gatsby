@@ -28,6 +28,13 @@ Vamos ao blog.
 .
 
 .
+## Sumário
+
+```toc
+exclude: Sumário
+tight: true
+```
+
 
 ![Colagem de fotos da Sunwoo Junga. Nesta ela possui cabelos bem curtos com coloração verde escuro e brincos de argola](assets/img/sunwoo1.png)
 
@@ -53,7 +60,7 @@ Cantora sola que fez seu debut em 2006 pela OGAM Entertainment e ficou em hiatus
 
 Resolvi fazer este tópico logo de início para eu não ficar enaltecendo ela toda hora no decorrer do blog. Então já vou fazer logo aqui e tentar convencer vocês das inúmeras qualidades da Sunwoo.
 
-### ─── Sua voz
+## Sua voz
 
 Vamos começar primeiro a falar da voz dela. Um timbre que nem os melhores imitadores de vozes conseguem imitar. Sunwoo possui um timbre rouco forte nasalado e por conta disso possui uma extensão vocal grande que poucos cantores no mundo tem. Com esse dom ela consegue realizar progressões vocais de maneira perfeita que parece ser simples de realizar. Ela consegue ir do grave para o agudo máximo sem erros, sendo capaz de realizar firulas sem nenhuma semitonada.
 
@@ -61,7 +68,7 @@ O que eu quero dizer com isso é que ela é uma profissional. Não é aquelas pe
 
 Sem falar na sua capacidade de mergulhar dentro da melodia de uma maneira única. Sua voz, em diversas músicas abaixo, se tornam notas melodiosas que muitas vezes se confundem com o próprio acorde dos instrumentos. Ela é capaz de desenhar sua voz em qualquer ritmo que ela queira fazer. Sem medo nenhum possibilitando a criação de incríveis espontâneos e até mesmo melodias inovadoras.
 
-### ─── Seu senso musical
+## Seu senso musical
 
 Agora vamos falar do diferencial dela se você não ficou satisfeito com o que falei de sua voz. Mas não se preocupe que tudo isso pode ser justificado logo abaixo quando mostrar algumas de suas músicas. Agora sobre seu senso musical que é algo surreal. Ela primeiramente antes de cantora é uma compositora e produtora de músicas e por isso consegue criar músicas incríveis pois ela não é somente boa na voz como também é expert em arranjos musicais. Muitos artistas a contrata para produzir arranjos de músicas porque sabe que ela é uma das melhores no ramo.
 
@@ -83,7 +90,7 @@ Só citei no meio kpop mas ela já produziu diversas músicas para outros artist
 
 # Sua trajetória
 
-### ─── De 2006 à 2014
+## De 2006 à 2014
 
 Não vou ficar falando tanto sobre as músicas porque acredito que é cansativo para quem lê e poucas pessoas gostam de conhecer artistas novos então vou tentar ser breve apesar de ser meio injusto com a Sunwoo. (edit: ok, não consegui ser breve)
 
@@ -101,7 +108,7 @@ O álbum é rico em qualidade e não é a toa que ele foi o grande vencedor da p
 
 Em 2014, um ano depois, ela lançou outro álbum com uma coletânea maravilhosa de piano instrumental junto com a pianista Yeom Shin Hye (염신혜). Intitulado como [RIANO POOM](https://www.youtube.com/playlist?list=PLu73Hcq4NZ_EB8Q3MBoX3F8u0PnH3Jco2) (adorei o anagrama por sinal). Para quem gosta de música classíca, jazz e blues esse é um álbum obrigatório. Sunwoo envolve sua voz entre os acordes do piano passando a se tornar um deles. Vocês vão entender o que digo se escutarem o álbum. [DICA](https://www.youtube.com/watch?v=OG5mF50vGqg).
 
-### ─── De 2015 à 2019
+## De 2015 à 2019
 
 Em 2015 ela lançou o single ['봄처녀' (SPRINGIRLS)](https://youtu.be/SO7L9Lwe8s4) que foi um sucesso imediato na indústria pop coreana. Principalmente por ter apoio e divulgação da **IU** e a participação da **Dara** no MV. Claro que não reclamaria do estouro da música por conta delas. Só seria bacana que a música fizesse sucesso por ela própria. É uma música bem divertida e sexy ao mesmo tempo, tem todo aquele simbolismo de flores e cores primárias que intensifica a vibe sensual das mulheres no clipe. Depois, em 2016, ela lançou duas músicas com o vocalista da banda **CNBLUE**, Jeong Yong Hwa. [‘불꽃놀이’ (FIREWORKS)](https://youtu.be/A8QJ0ZnNX0E) e [‘입김’ (HELLO)](https://youtu.be/JgsBzZZGpGc).
 
@@ -133,7 +140,7 @@ Essa música é para mim uma das melhoras dela.
 
 .
 
-### ─── Resumão (pra quem não leu nada)
+## Resumão (pra quem não leu nada)
 
 Vou tentar ser breve e resumir tudo que falei dela aqui. Versátil. Sunwoo tem seu próprio estilo. Cada música que ela cria é diferente de qualquer uma já lançada. Sunwoo tem esse dom de criar melodias e composições inovadores que passam a ser um modelo para diversos artistas na Coreia. Sunwoo é uma trend maker. Ela define e redefine o conceito de música. Para ela, o que importa é a mensagem que a música passa para os ouvintes. Ela produz suas melodias arranjos de acordo com o que ela quer transmitir. Sempre perfeccionista nos detalhes sonoros, de percussão, de cordas... de tudo.
 
@@ -149,7 +156,7 @@ Vou tentar ser breve e resumir tudo que falei dela aqui. Versátil. Sunwoo tem s
 
 # Participações
 
-### ─── A mais amada
+## A mais amada
 
 Sunwoo frequentemente realiza diversas participações em músicas de outros artistas. São tantos que nunca que iria falar da maioria. Então só vou citar um em particular que eu amo. A música String em conjunto com o cantor Colde, de offonoff.
 
@@ -169,11 +176,11 @@ Outra participação que recomendo fortemente é ['Lost 2'](https://youtu.be/vt8
 
 # Covers
 
-### ─── King of Mask Singer de 2017/2018
+## King of Mask Singer de 2017/2018
 
 Aqui vou falar em especial sobre a participação de Sunwoo nos programa de variedade King of Mask Singer. Ela se fantasiou de Red Mouth (boca vermelha) e ganhou um total de 5 episódios. É a sexta participante com maior número de [vitórias](https://en.wikipedia.org/wiki/King_of_Mask_Singer%3Ca%20href='/c/KpopPt/tag/2018/'%3E#2018%3C/a%3E). E quero falar sobre as músicas que Sunwoo cantou no programas, em particular duas. E que me fez ficar apaixonada por ela.
 
-#### Whistle - BLACKPINK ([Cover](https://youtu.be/zrDaGk6VNbQ))
+### Whistle - BLACKPINK ([Cover](https://youtu.be/zrDaGk6VNbQ))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hnpP3fj12l4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -183,7 +190,7 @@ Ela transformou a música do avesso e a tornou sua, simplesmente. Creio que sua 
 
 Sua voz foi bastante acentuada na música e sua capacidade de transformar ela numa melodia também deu certo neste cover. Sua voz conversa e entra na música como se fizesse parte dela desde sempre.
 
-#### Dear - Mad Soul Child ([vídeo](https://youtu.be/i3Gp_CXK0iw))
+### Dear - Mad Soul Child ([vídeo](https://youtu.be/i3Gp_CXK0iw))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CJS1u6oIrIU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -191,7 +198,7 @@ Outro cover capaz de fazer qualquer um chorar. A paixão na voz de Sunwoo coloca
 
 Também fica claro a extensão vocal dela que sempre me assemelha com a da Mariah Carey. Estou exagerando, eu sei. Mas Sunwoo é boa o bastante para chegar no patamar dela. Não com o mesmo tom vocal mas com certeza com o contralto perfeito que ela tem, sim.
 
-### ─── JAZZ BOX
+## JAZZ BOX
 
 Se você chegou até aqui já vai ter percebido que a grande influência nas músicas da Sunwoo é o jazz, ela é fascinada pelo gênero e isso é percebido na coletânea de covers que ela faz de jazz na série JAZZ BOX que ela criou. Convidando seus amigos instrumentistas, ela canta músicas clássicas e elementares do jazz, tem Ella Fitzgerald, Tom Jobim, Joao Gilberto, Louis Armstrong, Frank Sinatra, Art Blakey, etc. Atualmente ela possui 5 séries de vídeos com convers belíssimos. Detalhe: ela transmite AO VIVO a séria, não é gravado não. Confira abaixo:
 

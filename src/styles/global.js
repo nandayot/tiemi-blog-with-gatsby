@@ -66,7 +66,7 @@ const GlobalStyles = createGlobalStyle`
   	width: 100%;
   	height: auto;
   }
-
+  
   body.dark {
     --borders: #38444d;
     --texts: #8899a6;
@@ -91,7 +91,7 @@ const GlobalStyles = createGlobalStyle`
     --borders: #c1b9b9;
     --postColor: #111;
     --texts: #555555;
-    --highlight: #1fa1f2;
+    --highlight: #043351;
     --mediumBackground: #f0f0f3;
     --background: #fff;
     --white: #fff;

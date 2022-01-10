@@ -22,7 +22,12 @@ background: "#D6BA32"
 Esta é minha primeira resenha "elaborada" da vida. Não sei realmente o que falar sobre um livro mas quando o comprei sabia que seria uma crítica sobre o capitalismo e me interessei de antemão. Charles Dickens também é um autor que sempre quis ler pois sempre me recomendavam e decidi dar um fim a essa curiosidade e comprei uma edição linda do livro.
 
 <br/><br/>
+## Sumário
 
+```toc
+exclude: Sumário
+tight: true
+```
 ![Foto de Charles Dickens.](assets/img/charles-capa.png)
 
 
@@ -46,11 +51,11 @@ Tempos Difíceis é o décimo romance de Charles Dickens e a estória se passa n
 
 Esse é meu primeiro livro de Charles Dickens e estou ansiosa para começar outro clássico seu. Eu gostei bastante do desenvolvimento de Tempos Difíceis. Senti uma certa dificuldade no início da leitura, pode ter sido causado pelo meu tempo de inatividade no mundo literário também. Mas o começo do livro começa um pouco confuso porém a escrita do Charles não peca. É um estilo que gostei bastante e por ser uma livro onde Charles Dickens tem uma escrita mais amadurecida, também contribui para uma fluida leitura. 
 
-### ─── Começo do livro
+## Começo do livro
 
 O livro começa numa sala de aula, onde é apresentado dois personagens. Thomas Gradgrind e Josiah Bounderby. Dois amigos com personalidades bem semelhantes. A escola servia como um lugar de ensino de Fatos. Apenas Fatos e Cálculos era considerado importante para que a futura geração torne-se bem sucedidos e competentes. Imaginação era considerado um exercício constantemente inoportuno. Não só a imaginação mas até a ponderação demorada não era aceitável. E era assim que funcionava as escolas de Coketown.
 
-### ─── Personagens
+## Personagens
 
 Como dito antes o começo do livro já nos apresenta dois personagens e eles são um dos protagonistas desse romance que por sinal é o romance mais curto do Charles. **Thomas Gradgrind** possui dois filhos, **Louisa** e **Tom** onde faz questão de proporcioná-los a educação dentro dos princípios já citados. Ele era um dos palarmentares do tribunal inglês e assim tinha uma riqueza satisfatória. 
 
@@ -60,7 +65,7 @@ No decorrer do livro vão sendo introduzidos novos personagens e Charles faz que
 
 Outros personagens que é importante citar são **Sissy**, **Stephen Blackpool** e **Rachel**. Sissy é uma personagem que é introduzida logo no começo e é filha de um palhaço circense e acaba sendo vista pelo Sr. Gradgrind que sente pena devido a circunstância que Sissy se encontra no livro. Stephen Blackpool é um dos milhares de trabalhadores que faz Coketown funcionar. Ele trabalha em umas das fábricas de Coketown e mora em um pequeno apartamento na cidade. Rachel é uma amiga de Stephen e que trabalha também na fábrica só que em outro setor. Ambos tem personalidades humildes e uma austeridade exemplar. Stephen tinha um amor grande por Rachel e sentia-se mal por não ser um homem a altura que Rachel merecia. Ela por outro lado amava o jeito de Stephen mesmo ele mesmo não gostando. E durante o final de expediente sempre tentavam encontrar-se e conversar durante a caminhada de volta para casa.
 
-### ─── O desenvolvimento
+## O desenvolvimento
 
 Como não quero dar spoilers não vou contar sobre o que acontece no livro. Tem momentos que eu consigo elencar como clímax e eles são incríveis de serem lidos mas Charles também faz questão de soltar umas falas impressionantes durante momentos de calmaria. Todos os personagens citados são protagonistas de suas próprias aventuras dentro do livro. O autor faz questão de destacar cada um deles e suas próprias aflições. Conseguimos entrar na cabeça de cada um nas mãos de Charles.
 
@@ -78,7 +83,7 @@ Uma das grandes críticas que Charles satiriza em seu livro é a meritocracia; u
 
 > "Essa era outra das ficções que se disseminavam em Coketown. Qualquer capitalista do local que tivesse conseguido transformar alguns centavos em diversos milhares sempre se mostrava surpreso e inconformado com o fato de milhares de Mãos não serem capazes do mesmo feito. O que eu fiz vocês, podem fazer. Porque então não o fazem?"
 
-### ─── Curiosidades
+## Curiosidades
 
 É interessante também saber o contexto da publicação do livro. Charles trabalhava em seu próprio periódico chamado Household Words que estava com as vendas diminuindo e para alternar  essa curva, Charles começa publicando Tempos Difíceis em formato serializado e foi dessa forma que os lucros dobraram. Mas certamente essa não foi a única motivação do autor para escrever esse romance. O período industrial que Charles vivenciava naquele momento foi crucial para que ele escrevesse sobre. 
 
