@@ -27,9 +27,11 @@ Bem vindos ao blog. Este tem como objetivo trazer referências históricas sobre
 
 ## Sumário
 
-\`\``toc
-
-\`\``
+```toc
+exclude: Sumário
+from-heading: 2
+to-heading: 6
+```
 
 # ¹ Youth Of May
 
