@@ -99,6 +99,9 @@ Apesar da inclinação em diminuir o autoritarismo dos militares por parte do at
 
 Com essa instabilidade dentro do governo, os estudantes e o proletariado foram para as ruas para demandar o fim da Lei Marcial (imposta desde o Yushin) e o fim do resquícios do regime Yushin. Os protestos estavam concentrados nas grandes capitais, uma delas, Gwangju, por ser a capital, à época, da província de Cheolla do Sul, a região em que nasceu Kim Dae Jung, o principal líder da oposição.
 
+<br/><br/>
+<br/><br/>
+
 ![Foto de uma senhora idosa em um protesto contra o sistema de mísseis americano Thaad numa vila rural do sul da Coreia do Sul. Ela diz: "eu odeio todos os presidentes dos EUA"](assets/img/3lh3m84cmnc61.jpg)
 
 # Anti-americanismo
@@ -109,7 +112,8 @@ Foi por causa dos conflitos que ocorreram em maio de 1980, em Gwangju, que o ant
 
 Outra causa para o anti-americanismo na Coreia se deu por conta do rumor amplamente espalhado de que um porta-aviões americano (USS Coral Seal), tinha entrado no país para ajudar as tropas especiais em Gwangju. Rumor ou não, investigações confirmam o fato de que os Estados Unidos sabia do golpe que Chun daria e na repressão violenta que aguardava Gwangju no meio de maio de 1980 mas nada fez para combater o massacre. Após os acontecimentos em Gwangju, com a ditadura de Chun perdurando até 1987, diversos outros protestos aconteceram em embaixadas dos EUA no país e o espirito anti-americano foi crescendo a cada ano.
 
-![Foto de um cena do dorama onde aparece uma tv transmitindo protestos contra Lei Marcial em Seoul.](assets/img/26fd28476716eaa93ae4fba5d7c8f3ec37577fa9r1-1919-1079v2_00.jpg)
+<br><br>
+<br><br>
 
 # 17 a 27 de Maio de 1980
 
@@ -121,7 +125,7 @@ Foi no dia 18 de Maio, em um protesto pacífico de cerca de 600 estudantes , fre
 
 \-- Na foto: imagens reais dos protestos sangrentos do dia 20 e 21 em Gwangju
 
-![Fotos reais dos protestos em Gwangju. Milhares de pessoas reunidas na avenida principal, com barricadas e ônibus.](assets/img/8492b2ccd5889716fd2d6c6e1c83a5485c04cfcar1-1702-630v2_00.jpg)
+![Fotos reais dos protestos em Gwangju. Milhares de pessoas reunidas na avenida principal, com barricadas e ônibus.](assets/img/real-protest.png)
 
 ## Dia 20 e 21 de Maio de 1980
 
@@ -131,7 +135,7 @@ Desde o começo da manhã do dia 20 milhares de pessoas começaram a se reunir n
 
 Na mesma noite, com mais pessoas juntando-se aos protestos criou-se um sentimento de comunidade entre todos os que estavam na luta. Todos sentiam pela a vida do outro. Pessoas ajudavam como podia a comprar alimentos e materiais para o protesto. Um dos atos mais simbólicos foram os taxistas, que de forma espontânea, uniram-se aos protestos e mobilizaram-se (cerca de 200 táxis e alguns ônibus) para ficar na linha de frente com seus carros, mesmo sabendo que não sairiam ilesos de lá.
 
-![Colagem de duas fotos. A primeira mostra um cena do dorama onde pessoas estão protestando em cima de ônibus e a segunda foto, imagem real dos protestos com a mesma dinâmica.](assets/img/50b6d8d0ccb5b73315d632cb72a244d2189649b4r1-1702-630v2_00.jpg)
+![Colagem de duas fotos. A primeira mostra um cena do dorama onde pessoas estão protestando em cima de ônibus e a segunda foto, imagem real dos protestos com a mesma dinâmica.](assets/img/protest-site2.png)
 
 Nessa cena do dorama é possível desenhar um paralelo em relação aos acontecimentos reais daquele dia com base na foto ao lado. Testemunhas afirmam que os militares teriam começado atirar logo após o cântico do hino nacional coreano e quando os motoristas estavam próximos as barricadas dos soldados. Taxistas foram pegos e espancados, seus carros destruídos; foi utilizado também o gás CS, o mesmo usado na Guerra do Vietnã. A população enfurecida pelos ataques contra os taxistas incendiaram duas sedes financeiras de duas grandes emissoras televisivas (KBS, MBC) por não estar transmitindo o terror que militares estavam fazendo na região.
 
@@ -141,7 +145,7 @@ No dia 21 os protestos aumentaram e a população conseguiu roubar armas veícul
 
 Depois dos fortes confrontos entre a população e os militares, as tropas foram ordenadas a se retirarem e assim o povo conseguiu invadir o salão, deixando Gwangju sob controle popular.
 
-![Texto explicativo abaixo.](assets/img/00dfe3d58df78994534c0023e466def7ecc08908r1-1702-630v2_00.jpg)
+![Texto explicativo abaixo.](assets/img/civilians-site.png)
 
 Nessa cena do dorama é possível ver os estudantes distribuindo armamento para a população, convocando todos a participarem dos protestos. Também nota-se, pela legenda, a indignação de um dos estudantes quando questionado sobre o uso das armas, e se o protesto pacífico não seria a melhor opção. Em resposta, ele diz: "Eles estão massacrando os cidadãos, porque devemos nos manter imaculados/pacíficos? É legítimo soldados atirarem em pessoas inocentes? Mas é ilegal revidarmos?"
 
@@ -155,9 +159,13 @@ No dia 27 de Maio, pela manhã, já programado para os militares retomarem toda 
 
 "Os militares têm esperado pacientemente desde a evacuação da cidade em 21 de maio. Prometemos aos representantes dos cidadãos que não voltaríamos, desde que certas condições fossem respeitadas. Elas não foram respeitadas. Voltar para a cidade tornou-se inevitável, pois a escória da sociedade e os elementos criminosos se organizaram como o chamado “exército dos cidadãos”. Eles infringiram a lei. O exército completou sua missão com sucesso. Cidadãos, venham à frente. A ordem foi restaurada." - Comunicado emitido pelo Comandante da Lei Marcial às 05:25 do dia 27 de Maio de 1980.
 
+
+<br/><br/>
+<br/><br/>
+
 \-- Na foto: 1) Cena do dorama onde os corpos dos mortos eram colocados. 2) Foto real em um dos ginásios que eram usados para funerais das pessoas mortas durante os ataques. Tirada pelo jornalista Jurgen Hinzpeter.
 
-![Caixões de militantes mortos cobertos com a bandeira sul-coreana, velas e fores ao lado.](assets/img/d27480ece88d09de159cb9e89990777089afb84er1-1702-630v2_00.jpg)
+![Caixões de militantes mortos cobertos com a bandeira sul-coreana, velas e fores ao lado.](assets/img/funeral-site.png)
 
 # Efeito pós Massacre de Gwangju
 
@@ -173,9 +181,13 @@ Chun Doo Hwan assumiu efetivamente o governo como presidente em Setembro de 1980
 
 Apesar da Quinta República ter sido iniciada em 1987 resquícios da ditadura ainda eram percebidos no governo sucessor com o presidente Roh Tae Woo, ele que também participou do golpe de 1979. Até a outra reeleição em que Kim Young Sam foi eleito, em 1993, outras manifestações também foram acontecendo contra a brutalidade policial da época. Algumas mortes eclodiram em grandes protestos contra Roh Tae Woo, sendo elas, morte de dois estudantes que ateram fogo em seus próprios corpos. Essas mortes incendiaram o desejo de vários estudantes a lutar por seus diretos em 1991.
 
+
+<br/><br/>
+<br/><br/>
+
 \-- Na foto: Roh Tae Woo. (esq.) e Chun Doo Hwan (dir.) durante o “julgamento do século”
 
-![Advogados ao redor dos dois militares usando ternos pretos. Roh Tae Woo e Chun Doo Hwan com uniforme de penitenciária de cor azul claro.](assets/img/9a6f1e0598ce428f215081c7fc82e881bb794068r1-1702-630v2_00.jpg)
+![Advogados ao redor dos dois militares usando ternos pretos. Roh Tae Woo e Chun Doo Hwan com uniforme de penitenciária de cor azul claro.](assets/img/trial.jpg)
 
 # Audiência e Punições sobre Maio de 1980
 
@@ -184,6 +196,11 @@ Uma das pautas para que os protestos ainda continuassem acontecendo era a falta 
 Foi em 1996 que o julgamento chegou ao fim com a condenação de 8 políticos militares incluindo Chun Doo Hwan e Roh Tae Woo. Acusados de alta traição e responsáveis pelo massacre de Gwangju, suas punições foram oficializadas em 1997 com a sentença de morte. A sentença acabou sendo alterada para prisão perpétua para Chun Doo Hwan e para Roh Tae Woo e demais militares. Apesar disso, todos receberam perdão em nome do Presidente da época, Kim Young Sam, que foi aconselhado pelo Kim Dae Jung.
 
 Resumidamente, mesmo após anos e anos de protestos e milhares de mortes, nenhum dos militares recebeu efetivamente uma punição justa pelo massacre. Todos foram perdoados e apenas tiveram que pagar multas. Não é de agora que a justiça coreana não pune criminosos de guerra e faz pouco caso com políticos assassinos enquanto prendem pessoas que fumam maconha quase todo mês. Nada de novo no capitalismo.
+
+<br/><br/>
+<br/><br/>
+
+![Posters do drama Sandglass, e filmes A Petal e Taxi Driver.](assets/img/other-adaptations-site.png)
 
 # Outras adaptações
 
@@ -211,9 +228,13 @@ Apesar de não estar ligado diretamente com os acontecimentos de Gwangju, o ambi
 
 Mais algumas: *Peppermint Candy (박하사탕, 1999), The Old Garden (오래된 정원, 2006), May 18 (화려한 휴가, 2007) e 26 Years (26년, 2012).*
 
+
+<br/><br/>
+<br/><br/>
+
 \-- Na foto: vítima dos tiros de militares, a estudante de ensino médio Park Geum Hi foi morta após ter ido ao hospital doar sangue para ajudar os militantes dos protestos.
 
-![Foto de um familiar de Park Geum Hi chorando no retrato da estudante acima de seu caixão.](assets/img/9488b87e7c46c7086ea26633fdb5919f941b2053r1-1702-630v2_00.jpg)
+![Foto de um familiar de Park Geum Hi chorando no retrato da estudante acima de seu caixão.](assets/img/park-geum-hi-site.png)
 
 # Referências
 
@@ -229,23 +250,29 @@ KIM, Yong Cheol. The Shadow of the Gwangju Uprising in the Democratization of Ko
 
 Katsiaficas, Georgy. "Neoliberalism and the Gwangju uprising." 민주주의와 인권 6.2 (2006): 191-229.
 
+<br/><br/>
+<br/><br/>
+
 # Finalização
 
 Foi um blog que não queria ter me estendido tanto mas gostei do resultado e da experiência em aprender um pouco mais da história da Coreia. Não falei muito sobre Youth of May, mas considero ele um ótimo drama, caso você, que tenha lido, já tenha assistido ele, notou diversas semelhanças com a realidade e creio que isso foi bem repassado nas telas assim como as demais adaptações acima.
 
 Para quem terminou esse extenso artigo, meu obrigada e espero que tenha aprendido mais sobre o levante de Gwangju. Deixe seu comentário caso queira. Até a próxima.
 
+<br/><br/>
+<br/><br/>
+
 # Bônus
 
 Uma parte bônus para quem quiser aprender um pouco mais sobre o levante. Coloquei esse bônus pois não teria como falar de tudo num único blog. Até porque, eu inclusive, não aprendi tudo que esse período histórico teve. Foram muitos conflitos sociais e políticos nessa época de transição "democrática". Mas abaixo deixo mais contribuições.
 
-![Fotos explicadas abaixo.](assets/img/f8847cc298f20dd253f62ab15e82cdb56bc9c84dr1-1702-630v2_00.jpg)
+![Fotos explicadas abaixo.](assets/img/bonus-chun-site.png)
 
 1a. Foto de Chun Doo Hwan na cerimônia de posse como Presidente em Setembro de 1980. Ele eventualmente conseguiu o poder presidencial depois de muita pressão por parte dele e de seus militares e da falta de apoio que Choi Gyu Ha tinha naquele momento. Militares no geral sentiam que Chun tinha mais força política que Gyu Ha, no fim, ele acabou cedendo.
 
 2a. Foto de Chun Doo Hwan e o embaixador norte americano Gleysteen. Esse senhor foi responsável por tantas tragédias no país que se fosse contar tudo daria outro blog. Não ele, como os EUA inteiro né. Gleysteen, apesar de não estar inclinado com atitude mais violenta de Doo Hwan não via alternativas a não ser aceitar seu novo governo para atender as estratégias políticas e de território do país assassino que os EUA é. O Presidente Jimmy Carter estava preocupado com a situação coreana sair de controle assim como foi na Guerra do Vietnã em que os EUA foram derrotados. Carter não queria que isso acontecesse na Coreia e por isso fortaleceu a base militar americana e coreana no país.
 
-![Fotos explicadas abaixo.](assets/img/acf3bb5da989a1de991504b77149054c3ee6beb0r1-856-480v2_00.jpg)
+![Fotos explicadas abaixo.](assets/img/army.png)
 
 Um trecho interessante de uma parte do dorama enquanto acontecia os ataques do dia 20 e 21 de Maio. Em que o irmão de Hee Tae reitera a afirmação dita pelo seu colega quando falou que eram os soldados norte coreanos atirando nos cidadãos. Ele responde: “É nosso próprio exército”. Pois foi esse o rumor que Chun mandou espelhar como forma de justificar sua repressão violenta na cidade. A desculpa era que o país devia proteger sua nação contra ataques norte coreanos. Só que isso foi uma baita mentira criada por ele para causar essa sensação duvidosa na população no começo da repressão. Isso acabou não convencendo ninguém e Gleysteen e Carter sabiam que, naquele momento, uma ameaça norte coreana era a ameaça menos provável de se acontecer, isso foi comprovado por diversos relatórios que eram emitidos sobre a situação na fronteira entre os países.
 
@@ -274,3 +301,6 @@ A foto acima é muito interessante de ser analisada pois creio que seja uma das 
 Mais um ponto interessante na foto. Volte mais atrás e busque a foto de Park Geum Hi, guarde ela e agora veja esta foto novamente. Percebeu algo? Repare nas 3 meninas com uniforme escolares a frente de um dos caixões. Note que este caixão é um dos da extremidade do ginásio, assim como na foto anterior de Park Geum Hi. Com base nessas duas fotos, é possível cogitar a hipótese de que seja o caixão da estudante que morreu após doar sangue. Youth of May também detalha muito bem o medo que o massacre causou para estudantes do ensino médio e fundamental com a personagem Lee Jin A e sua amiga. A história de Park Geum Hi foi detalhada pelo Mark em seu blog Gusts of Popular Feeling (em referências).
 
 Nessa foto é possível ver o Cemitério Nacional de 18 de Maio, inaugurado em 1997 onde encontra-se os corpos das vítimas do massacre de Gwangju e outros ativistas que também lutaram pela democracia, os corpos foram exumados e recolados neste novo local. Durante o levante os corpos eram enterrados no cemitério chamado Mangwol-dong. Park Geum Hi e Lee Han Yeol, por exemplo, estão enterrados no local. É comum as pessoas visitarem no dia 18 de Maio de todo ano em homenagem as vítimas. Lá encontra-se também uma parede dedicada a cada vítima reconhecida no massacre bem como datas e momentos históricos daquele mês.
+
+<br/><br/>
+<br/><br/>
