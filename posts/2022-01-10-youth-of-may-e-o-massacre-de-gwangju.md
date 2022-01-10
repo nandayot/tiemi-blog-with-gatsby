@@ -21,6 +21,8 @@ tags:
   - go min si
   - lee do hyun
   - roh tae woo
+  - Kim Dae Jung
+  - Kim Young Sam
 background: "#E7881D"
 ---
 Bem vindos ao blog. Este tem como objetivo trazer referências históricas sobre o recente drama Youth of May e como ele transmitiu alguns acontecimentos da história da redemocratização da Coreia. Dito isto, o blog VAI CONTER ALGUNS SPOILERS sobre o drama mas acredito que isso não implica de forma alguma o/a leitor(a) que ainda não assistiu e deseja assistir. Garanto que após a leitura do blog e os relatos históricos aqui mostrados vão até deixar a experiência de assistir o dorama mais elucidativa e realística. Espero que acompanhem pois vai ser um tanto extenso. Abaixo deixo o sumário.
@@ -33,31 +35,31 @@ from-heading: 1
 to-heading: 6
 ```
 
-# ¹ Youth Of May
+![Poster Oficial](assets/img/youth-of-may-poster-3.jpg)
+
+# Youth Of May
 
 Data de transmissão: 3 de Maio a 8 de Junho de 2021
 
-Episódios: 12
-
-Emissora: KBS2
-
-Diretor: Song Min Yeop
-
+Episódios: 12\
+Emissora: KBS2\
+Diretor: Song Min Yeop\
 Escritor: Lee Kang
 
 Durante os tempos difíceis de Maio de 1980 em Gwangju, Myung Hee, uma jovem enfermeira que sonha em estudar medicina fora do país, apaixona-se por Hee Tae, recém formado em medicina no qual era o primeiro de sua classe. Juntos vivem momentos únicos e turbulentos em suas vidas causado por brigas familiares e interesses político-econômicos da época.
 
-fonte: [asianwiki](https://asianwiki.com/Youth_of_May) + enredo autoral
-
-# ² Introdução
+# Introdução
 
 Acho interessante explicar o motivo do blog. Sempre tive interesse por história, seja ela qual for. Mas meu interesse pela história da redemocratização da Coreia e a década de 1980 foram ganhando espaço nos últimos anos por conta de vários filmes e doramas que foram lançando. Depois de terminar Youth of May, prometi para mim que procuraria entender mais sobre esses tempos e o blog é mera consequência. Acabei por fazê-lo com intuito de proporcionar esclarecimentos e conhecimento a mim e aqui estou apenas repassando o que aprendi. Conhecimento é poder e compartilhar é preciso.
 
+<br/><br/>
+<br/><br/>
+
 \-- Na foto: 1) Park Chung Hee e militares. 2) Chang Do Yong e Park Chun Hee em 20/05/1961
 
-![](http://pm1.narvii.com/8075/25348738899d8652ef81eba62be1fc60d532226cr1-1702-630v2_00.jpg)
+![Foto explicada acima.](assets/img/park-site-1.png)
 
-# ³ Contextualização
+# Contextualização
 
 (1960-1980)
 
@@ -79,27 +81,19 @@ Outra ação rápida que foi criada após o golpe foi a KCIA (Agência Central d
 
 Com o lema de rápido crescrimento econômico, a economia nos primeiros anos do governo apresentou sinais positivos. A taxa de crescimento geral do PIB coreano durante o período entre 1963 e 1970 foi em média de 9,6% ao ano, e a renda per capita aumentou de $100 em 1963 para $243 em 1970. A taxa de desemprego diminuiu de 8,6% em 1963 para 4,4% em 1970. Isso fez com que a popularidade de Park aumentasse e foi assim que conseguiu ser reeleito nas eleições de 1967. Importante notar que essa foi a segunda eleição desde o golpe, que dizia-se 'República', mas a predominância militar nos gabinetes não deixava duvida de quem realmente tinha o poder. Porém, o crescimento não durou muito. Logo os efeitos da estratégia econômica de Park foram aparecendo. A desigualdade econômica foi aumentando em todos os setores, regiões e entre classes, contruibuindo para o sentimento de injusta da população e o crescimento do partido de oposição liderado por Kim Dae Jung.
 
-🔻⚒️🔻
-
-![Foto onde um dos personagens olha para um quadro de uma fábrica. Com a legenda: "Vista Aérea para Farmacêutica Changhwa"](assets/img/481616d7018bbb7985a7b327eb7cf92338d2ef74r1-1702-630v2_00.jpg)
+![Foto onde um dos personagens olha para um quadro de uma fábrica. Com a legenda: "Vista Aérea para Farmacêutica Changhwa"](assets/img/changhwa.png)
 
 Nessas cenas retiradas do dorama fica claro a estratégia de desenvolvimento econômico nacional de Chung Hee. Um dos personagens está preparando para abrir uma companhia industrial farmacêutica enfatizando no dorama que deseja importar a matéria prima para produzir localmente os insumos. Apesar da visão de Chung Hee, centrada na exportação, o investimento em indústrias químicas era seu principal objetivo e que foi chamado de ‘estratégia HCI’ na época. A cena abaixo traduz o cartaz para: "1980 - Encontro Empresarial Comemorativo da Fundação Local com Cidadãos".
 
-![Cena onde aparece um lugar aberto com mesas e cadeiras brancas, garçons passando com comida e pessoas se cumprimentando.](assets/img/7cdbb1e2059dc7f72c46281fac2c39ed939357e1r1-1702-630v2_00.jpg)
-
-🔺⚒️🔺
+![Cena onde aparece um lugar aberto com mesas e cadeiras brancas, garçons passando com comida e pessoas se cumprimentando.](assets/img/reuniao.png)
 
 Com o rápido avanço da oposição e crescimento da insatisfação da população, Park Chung Hee liderou o segundo golpe militar no dia 17 de outubro de 1972, dando início ao que chamou de Restauração de Outubro (Yushin). Era o começo de mais uma ditadura militar sob o nome de Regime Yushin. Nesse período, Park suspendeu a constituição de 1963, fechou o legislativo e judiciário, garantindo total poder sem restrições para ele. A justificativa para o autogolpe, inspirado pelo Ferdinand Marcos, foi a instabilidade política-internacional e tensões entre a Coreia do Norte. Ainda na nova constitução, Park aumentou o tempo presidencial de 4 anos para 6 sem limite em reeleição e foi assim que conseguiu ficar no poder até 1979.
 
 Em 26 de Outubro de 1979, Park Chung Hee foi assassinado repentinamente pelo seu amigo de longa data, e então chefe do KCIA, Kim Jae Gyu, em uma emboscada. Isso fez com que o autoritarianismo militar sofresse um grande choque pois com base na nova constituição, não tinha nada esclarecido sob quem poderia ser o novo presidente e nem mesmo existia um cargo maior após o posto de Presidente. O poder era todo de Park Chung Hee e sua morte trouxe muitas divisões entre os militares. A princípio quem entrou ao poder foi o então primeiro-ministro Choi Gyu Ha que demonstrou interesse em acabar com o regime Yushin de Park, juntamente com o chefe da KCIA atual (pois Kim Jae Gyu foi deposto após matar Park), Jeong Seong Hwa.
 
-🔻⚒️🔻
-
-![Cena onde um dos personagens está sentado com a cabeça curvada para baixo e olhos para frente ouvindo notícias de um rádio.](assets/img/d53382b16184da5879dddd40090727b8d854852ar1-1918-1076v2_00.jpg)
+![Cena onde um dos personagens está sentado com a cabeça curvada para baixo e olhos para frente ouvindo notícias de um rádio.](assets/img/yushin.png)
 
 Nos primeiros episódios é possível ver nessa cena uma transmissão de rádio onde falava sobre os desejos do partido de oposição, do Kim Dae Jung, em acabar com o regime autoritário com o fim do governo Yushin e a criação de um sistema de eleição distrital.
-
-🔺⚒️🔺
 
 Apesar da inclinação em diminuir o autoritarismo dos militares por parte do atual presidente, outros militares do alto escalão, principalmente do grupo que atuaram no golpe de 72, com medo de perder seus privilégios e poderes, não queriam o fim do regime Yushin. E foi assim, em 12 de dezembro de 1979 que Chun Doo Hwan e demais militares executaram outro golpe. Com isso, Chun foi graduado para Tenente General e assumiu o comando do KCIA em Abril de 1980, ficando praticamente sob o mesmo poder que o Presidente.
 
@@ -107,7 +101,7 @@ Com essa instabilidade dentro do governo, os estudantes e o proletariado foram p
 
 ![Foto de uma senhora idosa em um protesto contra o sistema de mísseis americano Thaad numa vila rural do sul da Coreia do Sul. Ela diz: "eu odeio todos os presidentes dos EUA"](assets/img/3lh3m84cmnc61.jpg)
 
-# ⁴ Anti-americanismo
+# Anti-americanismo
 
 É importante também falar no grande envolvimento que os Estados Unidos teve na Coreia do Sul desde o final da Segunda Guerra Mundial e também durante a Guerra da Coreia, onde os EUA apoiava o sul. Desde então, o envolvimento nunca parou (assim como acontece em outros países — Iraque, Afeganistão, Vietnã). Em 1980, os Estados Unidos mantinham uma força terrestre de 40 mil homens na Coréia do Sul e tinham controle operacional sobre grande parte dos militares sul-coreanos. Antes do golpe de Chun Doo Hwan, desde o governo de Park Chung Hee, os Estados Unidos mantinham uma postura passiva com relação aos golpes militares cometidos no país. Isso se deve ao fato de que os objetivos dos Estados Unidos e dos militares normalmente era os mesmos: manter uma forte segurança nacional sob auxílio das tropas americanas, garantir as relações comerciais de importação/exportação e ajudar a Coreia do Sul a ser um exemplo de desenvolvimento capitalista, segundo a estratégia de Chung Hee. Para isso, o governo dos EUA destinava verba para treinamento de militares como também para o desenvolvimento nacional, chegando a uma verba tão grande que estimava-se ser a metade do fundo do País.
 
@@ -117,9 +111,9 @@ Outra causa para o anti-americanismo na Coreia se deu por conta do rumor amplame
 
 ![Foto de um cena do dorama onde aparece uma tv transmitindo protestos contra Lei Marcial em Seoul.](assets/img/26fd28476716eaa93ae4fba5d7c8f3ec37577fa9r1-1919-1079v2_00.jpg)
 
-# ⁵ 17 a 27 de Maio de 1980
+# 17 a 27 de Maio de 1980
 
-### Dia 17 a 19 de Maio de 1980
+## Dia 17 a 19 de Maio de 1980
 
 Foi na noite de 16 de Maio que ocorreu o último grande protesto em Gwanju que reuniu aproximadamente 30.000 estudantes e trabalhadores da cidade, de uma população de 730.000, indo contra o toque de recolher que estava em vigor. Apesar de Gwangju ser o foco, outras grandes capitais, como Seoul também reuniam milhares de pessoas nos protestos demandandam as mesmas pautas. E foi na madrugada de 17 para 18 de Maio que o governo decretou a Lei Marcial para todo o território nacional sob o pretexto de soldados infiltrados da Coreia do Norte (um falso rumor criado por Chun). Com essa medida, a lei fechou todas as universidades e escolas, proibou protestos e reprimiu a imprensa. Era mais um golpe militar acontecendo no país.
 
@@ -129,7 +123,7 @@ Foi no dia 18 de Maio, em um protesto pacífico de cerca de 600 estudantes , fre
 
 ![Fotos reais dos protestos em Gwangju. Milhares de pessoas reunidas na avenida principal, com barricadas e ônibus.](assets/img/8492b2ccd5889716fd2d6c6e1c83a5485c04cfcar1-1702-630v2_00.jpg)
 
-### Dia 20 e 21 de Maio de 1980
+## Dia 20 e 21 de Maio de 1980
 
 Mais pessoas começaram a se reunir para os protestos depois de conseguirem armamentos improvisados. Na noite de 20 de maio cerca de 200.000 pessoas estavam nas ruas principais de Gwangju, a maior parte do centro da cidade estava tomada pelos cidadãos com exceção de algumas vias de transporte e o Salão Provincial (prefeitura à época)
 
@@ -137,13 +131,9 @@ Desde o começo da manhã do dia 20 milhares de pessoas começaram a se reunir n
 
 Na mesma noite, com mais pessoas juntando-se aos protestos criou-se um sentimento de comunidade entre todos os que estavam na luta. Todos sentiam pela a vida do outro. Pessoas ajudavam como podia a comprar alimentos e materiais para o protesto. Um dos atos mais simbólicos foram os taxistas, que de forma espontânea, uniram-se aos protestos e mobilizaram-se (cerca de 200 táxis e alguns ônibus) para ficar na linha de frente com seus carros, mesmo sabendo que não sairiam ilesos de lá.
 
-🔻⚒️🔻
-
 ![Colagem de duas fotos. A primeira mostra um cena do dorama onde pessoas estão protestando em cima de ônibus e a segunda foto, imagem real dos protestos com a mesma dinâmica.](assets/img/50b6d8d0ccb5b73315d632cb72a244d2189649b4r1-1702-630v2_00.jpg)
 
 Nessa cena do dorama é possível desenhar um paralelo em relação aos acontecimentos reais daquele dia com base na foto ao lado. Testemunhas afirmam que os militares teriam começado atirar logo após o cântico do hino nacional coreano e quando os motoristas estavam próximos as barricadas dos soldados. Taxistas foram pegos e espancados, seus carros destruídos; foi utilizado também o gás CS, o mesmo usado na Guerra do Vietnã. A população enfurecida pelos ataques contra os taxistas incendiaram duas sedes financeiras de duas grandes emissoras televisivas (KBS, MBC) por não estar transmitindo o terror que militares estavam fazendo na região.
-
-🔺⚒️🔺
 
 Foi após a marcha de táxis que tudo começou a se intensificar e os protestos começaram a tomar controle da região metropolitana da cidade, invadindo estações que estavam sendo comandadas pelo exército. Para retomar o controle, tropas foram condicionadas a atirar na população. Foi nesse evento que ocorreram as primeiras mortes.
 
@@ -151,15 +141,11 @@ No dia 21 os protestos aumentaram e a população conseguiu roubar armas veícul
 
 Depois dos fortes confrontos entre a população e os militares, as tropas foram ordenadas a se retirarem e assim o povo conseguiu invadir o salão, deixando Gwangju sob controle popular.
 
-🔻⚒️🔻
-
 ![Texto explicativo abaixo.](assets/img/00dfe3d58df78994534c0023e466def7ecc08908r1-1702-630v2_00.jpg)
 
 Nessa cena do dorama é possível ver os estudantes distribuindo armamento para a população, convocando todos a participarem dos protestos. Também nota-se, pela legenda, a indignação de um dos estudantes quando questionado sobre o uso das armas, e se o protesto pacífico não seria a melhor opção. Em resposta, ele diz: "Eles estão massacrando os cidadãos, porque devemos nos manter imaculados/pacíficos? É legítimo soldados atirarem em pessoas inocentes? Mas é ilegal revidarmos?"
 
-🔺⚒️🔺
-
-### Dia 22 a 27 de Maio de 1980
+## Dia 22 a 27 de Maio de 1980
 
 Após a tomada de Gwangju pela população, formou-se o que chamamos de comuna. Onde a população se organizou política e economicamente de forma independente atendendo a diversas demandas pós Massacre. Uma delas eram as cozinhas comunitárias, organizadas principalmente por mulheres donas e funcionárias de mercearias, para alimentar a milícia e os militantes. Os estudantes também tinham um papel importante em vários aspectos: distribuição de comida, controle do trânsito, organização de funerais, entre outros. Como mencionado acima, tinha também a milícia responsável pela proteção nos limites da cidade como também no centro e de algumas funções operacionais e estratégicas de distribuição de insumos. Existiam outras forças na comuna além das citadas mas não quero me estender.
 
@@ -173,15 +159,15 @@ No dia 27 de Maio, pela manhã, já programado para os militares retomarem toda 
 
 ![Caixões de militantes mortos cobertos com a bandeira sul-coreana, velas e fores ao lado.](assets/img/d27480ece88d09de159cb9e89990777089afb84er1-1702-630v2_00.jpg)
 
-# ⁶ Efeito pós Massacre de Gwangju
+# Efeito pós Massacre de Gwangju
 
-### Quantidade de mortos
+## Quantidade de mortos
 
 A quantidade de mortos no massacre é ainda algo discutido e pesquisado até hoje por intelectuais e historiadores coreanos. Apesar do governo ter oficializado um total de 238 mortes, muitos não acreditam que tenham este sido o número real de mortes diante das características já apresentadas e pela forte repressão que os protestos foram acometidos.
 
 Alguns falam em pelo menos 400 e 500 mortos outros já dizem terem sidos mais de 1000 mortes durante o massacre. A incerteza se dá pela falta de sobreviventes durante os ataques, a omissão de relatórios e corpos por parte dos militares, e pela quantidade de pessoas desaparecidas em que os corpos não foram encontrados e/ou não foram contabilizados como parte dos protestos.
 
-### Protestos pós Gwangju
+## Protestos pós Gwangju
 
 Chun Doo Hwan assumiu efetivamente o governo como presidente em Setembro de 1980 e governou até 1987. Durante esse período de 7 anos, outros protestos aconteceram exigindo direitos democráticos e eleições plurais e justas. Um deles foi o levante de junho de 1987 bastante conhecido pelo assassinato do estudante Lee Han Yeol. A Coreia do Sul só foi conseguir efetivamente a redemocratização com as eleições daquele ano.
 
@@ -191,7 +177,7 @@ Apesar da Quinta República ter sido iniciada em 1987 resquícios da ditadura ai
 
 ![Advogados ao redor dos dois militares usando ternos pretos. Roh Tae Woo e Chun Doo Hwan com uniforme de penitenciária de cor azul claro.](assets/img/9a6f1e0598ce428f215081c7fc82e881bb794068r1-1702-630v2_00.jpg)
 
-# ⁷ Audiência e Punições sobre Maio de 1980
+# Audiência e Punições sobre Maio de 1980
 
 Uma das pautas para que os protestos ainda continuassem acontecendo era a falta de punição para os militares responsáveis pelo massacre de Gwangju. Muitos manifestantes exigiam que a Suprema Corte criasse uma investigação e julgassem os responsáveis pelo massacre. Isso só foi acontecer em 1995 com a criação da Lei Especial do Movimento de Democratização de 18 de Maio, que permitiu o julgamento dos responsáveis pelo golpe de dezembro de 1979 e pelo massacre de Gwangju, apesar do tempo limite para ações legais ter expirado.
 
@@ -199,13 +185,13 @@ Foi em 1996 que o julgamento chegou ao fim com a condenação de 8 políticos mi
 
 Resumidamente, mesmo após anos e anos de protestos e milhares de mortes, nenhum dos militares recebeu efetivamente uma punição justa pelo massacre. Todos foram perdoados e apenas tiveram que pagar multas. Não é de agora que a justiça coreana não pune criminosos de guerra e faz pouco caso com políticos assassinos enquanto prendem pessoas que fumam maconha quase todo mês. Nada de novo no capitalismo.
 
-# ⁸ Outras adaptações
+# Outras adaptações
 
-### Sandglass (1995)
+## Sandglass (1995)
 
 Quem nunca ouviu falar de Sandglass certamente não está familiarizado com o mundo dos doramas. Sandglass é o quarto dorama mais visto da história da tv coreana. Lançado entre janeiro e fevereiro de 1995, foi um dos pioneiros em cenas icônicas que agora é considerado essencial nos dramas de hoje em dia. Mais do que isso, o desenvolvimento da história dos 3 protagonistas: Park Tae Soo, Kang Woo Suk e Yoon Hye Rin são tão bem escritos que a quarta posição é totalmente merecida. Não fosse por isso, Sandglass está marcado na história audiovisual da Coreia por centralizar o enredo do drama em questões sociais e políticas entre a década de 70 até começo de 90. Assim, a história mostra o governo de Park Chung Hee até o governo de Roh Tae Woo passando pela história do movimento de Gwangju.
 
-### A Petal (꽃잎, 1996)
+## A Petal (꽃잎, 1996)
 
 Último filme do diretor Jung Sun Woo lançado no dia 5 de abril de 1996. Apenas 16 anos depois do levante. Conta a história de uma garota que viveu os acontecimentos de Gwangju em 1980 e seus traumas após perder a mãe no massacre. O filme gerou críticas e revolta na população sobre as mortes em Gwangju que fez com que o governo revelasse documentos inéditos desclassificados do caso.
 
@@ -213,13 +199,13 @@ Eu assisti o filme e confesso que não esperava nada do que encontrei nele. É u
 
 Após pesquisar outros filmes e doramas da época, percebi que todos tem uma forte apelação sexual e violenta e muito disso se dá por conta da liberação do cinema após a censura da ditadura. Assim, muitos produtores e diretores se inclinavam a demonstrar cenas fortes na televisão como motivo de celebração da arte e o fim da censura.
 
-### Taxi Driver (택시운전사, 2017)
+## Taxi Driver (택시운전사, 2017)
 
 É um dos grandes sucessos do ator Song Kang Ho e conta uma história real de amizade entre um motorista de táxi e um jornalista estrangeiro durante os protestos de Gwangju. Jornalista que já citei acima, o mesmo quem tirou a foto dos caixões no ginásio.
 
 Após assistir o filme, consegui entender muita coisa sobre o levante de Gwangju e creio que se você ainda não assistiu, depois de ler o blog, vai gostar bastante do filme. Ele mostra na visão do taxista como eles foram importantes para os estudantes e militantes da linha de frente.
 
-### 1987: When The Days Come
+## 1987: When The Days Come
 
 Apesar de não estar ligado diretamente com os acontecimentos de Gwangju, o ambiente continua o mesmo. O filme retrata sobre os protestos de junho de 1987 após a notícia da morte de um estudante via tortura pelo governo, chamado Park Jong Cheol. É interessante de assistir para entender como a Coreia estava politicamente durante o final do governo de Chun Doo Hwan. Apesar do filme não focar nos protestos, e sim na história de alguns personagens, é possível ver algumas cenas reais nos créditos do filme.
 
@@ -229,7 +215,7 @@ Mais algumas: *Peppermint Candy (박하사탕, 1999), The Old Garden (오래된 
 
 ![Foto de um familiar de Park Geum Hi chorando no retrato da estudante acima de seu caixão.](assets/img/9488b87e7c46c7086ea26633fdb5919f941b2053r1-1702-630v2_00.jpg)
 
-# ⁹ Referências
+# Referências
 
 KIM, Byung Kook; VOGEL, Ezra (ed.). The Park Chung Hee Era: The Transformation of South Korea. Londres: Harvard University Press, 2013. 744 p. ISBN 9780674072312.
 
@@ -248,8 +234,6 @@ Katsiaficas, Georgy. "Neoliberalism and the Gwangju uprising." 민주주의와 �
 Foi um blog que não queria ter me estendido tanto mas gostei do resultado e da experiência em aprender um pouco mais da história da Coreia. Não falei muito sobre Youth of May, mas considero ele um ótimo drama, caso você, que tenha lido, já tenha assistido ele, notou diversas semelhanças com a realidade e creio que isso foi bem repassado nas telas assim como as demais adaptações acima.
 
 Para quem terminou esse extenso artigo, meu obrigada e espero que tenha aprendido mais sobre o levante de Gwangju. Deixe seu comentário caso queira. Até a próxima.
-
-
 
 # Bônus
 
