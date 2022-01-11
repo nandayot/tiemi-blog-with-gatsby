@@ -9,8 +9,8 @@ import * as S from '../components/About/styled'
 const AboutPage = () => (
   <LayoutAbout>
     <SEO
-      title="Sobre Mim | Fernanda Tiemi de Souza Taso"
-      description="Um pouco sobre a personalidade da Fernanda Tiemi de Souza Taso"
+      title="Sobre Mim | Fernanda Tiemi"
+      description="Um pouco sobre minha personalidade"
     />
     <S.PostHeader>
         <S.PostDate>
@@ -22,7 +22,7 @@ const AboutPage = () => (
       <S.AboutContent>
       <p>
         Meu nome é Fernanda Tiemi, e sou apaixonada por muitas coisas.
-        Gosto de esportes. Sou torcedora do Boston Red Sox, Seattle Seahawks e Toronto Raptor. Sim, não sou
+        Gosto de esportes. Sou torcedora do Boston Red Sox e Toronto Raptors. Sim, não sou
         estadunidense para torcer para times de mesmo estado. Também gosto de surf, 
         curling, snowboard, esgrima, boxe. Enfim. Desde criança
         sempre gostei de aprender sobre culturas novas, seja escandinava, africana, asiática...
@@ -33,28 +33,27 @@ const AboutPage = () => (
       </p>
 
       <p>
-          Não ouço mais kpop pois não é mais um estilo que gosto de ouvir. Sou muito fã de hiphop
-          então eu basicamente conheço quase todos os rappers da Coreia do Sul :D. Sou grande apreciadora
+          Sou muito fã de hiphop então eu basicamente conheço quase todos os rappers da Coreia do Sul. Sou grande apreciadora
           de hip hop boombap. Aquele dos anos 90 dos EUA. Meus artistas favoritos são The Pharcydes,
           ATCQ, The Fugees, Souls Of Mischief, Tupac, Biggie e muitos outros. Sou bastante eclética então ouço quase de tudo.
-          Gosto de bossa nova, mpb, música clássica, R&B, jazz, folk, rock...
+          Gosto de bossa nova, mpb, música clássica, R&B, jazz, folk, rock... Veja minhas playlists no <a href="https://music.youtube.com/channel/UC3S2v99aLR9jqoLKxvm6Qtw?feature=share" target="_blank">Youtube Music</a>
       </p>
       
       <p>
-        Também sou estudante. Faço Ciência da Computação. Para ser sincera, ainda não descobri se realmente gosto disso. 
-        As vezes me divirto, as vezes passo raiva, as vezes
-        me frustro. É um combinado que não me faz concluir se realmente quero seguir na área. Além da computação, gosto muito do mundo
-        literário. Sou grande fã da Jane Austen. Grande fã mesmo. Daquelas que pode tatuar o nome dela no braço ao lado do nome Eiichiro Oda.
+        Também gosto muito do mundo literário. Sou grande fã da Jane Austen. Grande fã mesmo. Daquelas que pode tatuar o nome dela no braço ao lado do nome Eiichiro Oda.
         Gosto bastante da Agatha Christie e do Sir Doyle. Douglas Adams e Patrick Ruthfuss. Irmãos Verde e a nerdfigtheria. Victor Hugo e Charles Dickens.
         Rainbow Rowell e outros YA. Deu para ter um vislumbre já.
       </p>
 
+      <p> 
+        Sou dorameira desde 2013 e sou viciada em dramas coreanos. Mesmo. Gosto de todos os gêneros e por aqui também vai ter resenhas
+        de doramas sempre tentando trazer contextualizações e também analogias com outros assuntos. Veja minhas lista de doramas <a href="https://nandayot.notion.site/My-Drama-List-Page-bdd7b4ef914641589b1c5a92c1111cb3" target="_blank">aqui.</a>
+      </p>
       <p>
           Este blog foi criado com o intuito principal de falar sobre cultura coreana/japonesa e conhecer artistas,
           principalmente independentes e não tão conhecidos, da Coreia do Sul e do Japão. Então esse blog vai trazer análises
-          de álbuns, descobertas músicais, apresentação de artistas no geral. Mas como disse, possuo muitos hobbies, fica difícil
-          falar sobre uma coisa só. Então o blog pode ter de tudo. Posso falar sobre animes/mangás (principalmente One Piece), posso falar
-          sobre baseball e surf, sobre livros (e resenhas). Basicamente todo esse universo que me faz ser eu. Se algo lhe interessar, bem-vinda(o)!
+          de álbuns, descobertas músicais, apresentação de artistas no geral, resenha de doramas... Mas como disse, possuo muitos hobbies, fica difícil
+          falar sobre uma coisa só. Então o blog é no improviso. Se algo lhe interessar, bem-vinda(o)!
       </p>
 
       <h2>Allons-y!</h2>
