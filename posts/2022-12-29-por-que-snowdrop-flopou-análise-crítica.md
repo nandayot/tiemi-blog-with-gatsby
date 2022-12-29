@@ -27,7 +27,7 @@ background: "#E7881D"
 
 Veio aí um blog controverso assim como o drama desse blog e meu cancelamento pelas BLINKS de plantão. Brincadeiras a parte, aqui vou redigir uma longa análise crítica sobre o drama que cativou milhares de dorameiros recentemente e vi até alguns coreanos pedindo segunda temporada (??). É meus amigos, essa síndrome da netflix tá acabando com as pessoas. Aviso que o blog é longo e se você não tem culhão para ler crítica do seu dorama preferido nem adianta ler o meu blog. (Não julgo pois seria assim caso alguém falasse mal de Secret Forest, até agora vi ninguém falando mal pois realmente é um drama sem defeitos).
 
-![Poster do dorama da jtbc/disney+ Snowdrop. Um homem de terno e uma mulher de vestido olhando para câmera em pé. Atrás deles, uma escada de madeira.](assets/img/9.png "Poster Snowdrop.")
+![Poster do dorama da jtbc/disney+ Snowdrop. Um homem de terno e uma mulher de vestido olhando para câmera em pé. Atrás deles, uma escada de madeira.](assets/img/9-poster.png "Poster Snowdrop.")
 
 # Ficha Técnica + enredo
 
@@ -55,6 +55,8 @@ As atuações não me surpreenderam pois o elenco foi cheio de talentos e atores
 
 Creio que já falei dos pontos que considerei positivo no drama, agora vem as partes ruins, que tem muito. Tenho um tópico específico para falar da atuação da Jisoo só pra causar intriga, eu sou assim, é meu jeitinho. (mentira).
 
+\-- Na foto: Cheo Yeong e seu marido
+
 ![Uma mulher de óculos e cabelo de comprimento médio. Cheo Yeong. Ao lado seu marido que usa óculos.](assets/img/1-choyeong.png "Cheo Yeong e seu marido")
 
 # Críticas
@@ -71,7 +73,9 @@ E não foi só isso. A protagonista Young Ro, não era o nome da personagem, a p
 
 Mas não ficou por isso, depois de muitos protestos e repercussão negativa, o enredo foi revisto e reescrito mudando o nome da personagem principal para Young Ro e reafirmando que não teria nenhum espião norte-coreano liderando movimentos democráticos e que a história não ia centralizar neles e sim na dinâmica de poder entre políticos de alto escalão da Coreia do Norte e Sul. ([fonte](https://namu.wiki/w/%EC%84%A4%EA%B0%95%ED%99%94%20:%20snowdrop))
 
+\--Na foto: A música '솔아 솔아 푸르른 솔아' foi colocada no segundo álbum do projeto [노래를 찾는 사람들](https://music.youtube.com/browse/MPREb_WfxDp39APRh) (Pessoas que procuram músicas), onde cantores, músicos e compositores se reúnem para gravar músicas tradicionais coreanas. Os álbuns do projeto são carregados de canções usadas nos movimentos democráticos. O segundo álbum foi lançado em 1988 e foi um grande sucesso na época, sendo até hoje um dos mais conhecidos.
 
+![Foto do álbum 노래를 찾는 사람들](assets/img/7-solah.png "Foto do álbum 노래를 찾는 사람들")
 
 # Música episódio 2
 
@@ -80,6 +84,8 @@ Apesar do enredo vazado e muitos pedidos de cancelamento, JTBC continuou afirman
 Quando Lim Soo Ho estava fugindo da polícia após um acidente de carro, ele passou em meio a um protesto que estava ocorrendo entre estudantes e militares em que os estudantes estavam cantando uma canção. Essa canção chama-se 솔아! 푸르른 솔아 (Solah! Green Solah) e foi considerada um hino durante os movimentos democráticos que simbolizava dor, força e vitória para as lutas que aconteciam e era sempre cantada pelos militantes.
 
 Dizer que o enredo não tem como foco os movimentos democráticos daquele ano (relembrando, 1987 meados de novembro) ao mesmo tempo que coloca uma das músicas mais emblemáticas dos protestos que ocorreram no país enquanto ocorre uma perseguição de um espião norte-coreano por um policial da ANSP, considero uma hipocrisia e uma grande irresponsabilidade.
+
+\-- Na foto: Escritora Yoo Hyun Mi e presidente Yoon Seok Yeol.
 
 ![Escritora Yoo Hyun Mi e presidente Yoon Seok Yeol.](assets/img/2-yumi.png "Escritora Yoo Hyun Mi e presidente Yoon Seok Yeol.")
 
@@ -95,6 +101,8 @@ E se formos mais a fundo nos bastidores desse drama, vamos achar que a JTBC, emi
 
 Além disso, a escritora de Snowdrop, Yoo Hyun-Mi, já agradeceu ao político Yoon Seok Yeol, em 2008, por ele ajudar a escrever o roteiro de um drama que ela fez na época. Quem é Yoon Seok Yeol? Atualmente, conhecido por ser o candidato à presidência nas eleições da Coreia do Sul, um político conservador que muito se assemelha ao presidente atual do Brasil pelas suas falas sem pudor, exageradas, e pela falta de inteligência. Yoon Seok Yeol afirmou recentemente que os movimentos democráticos dos anos 80 e 90 foram “importados de ideologias estrangeiras” e não refletiu o desejo de uma “Coreia liberal” no qual deveria ter refletido na época. Acho que da pra tirar conclusões já.
 
+\-- Na foto: Soldados Paramilitares na celebração do 73° aniversário da fundação da DPRK
+
 ![Soldados Paramilitares na celebração do 73° aniversário da fundação da DPRK](assets/img/5-apresent.png "Soldados Paramilitares na celebração do 73° aniversário da fundação da DPRK")
 
 # Espião e Treinamento Militar Norte Coreano
@@ -108,6 +116,8 @@ Uma cena específica me chamou atenção também, no episódio 12, onde mostra o
 A cena em que o velho, Kim Man Dong, mata a antiga diretora do dormitório, Song Hye Joo, após descobrir que ele era uma espião norte-americano, é tão chocante quanto a do treinamento militar. São tantas frases erradas que foram ditas nessa cena que apenas um tópico sobre isso não é suficiente.
 
 Song Hye Joo ao criticar a Coreia do Norte: “Amor? Eles não tem liberdade, como isso é amor?”. Disse ela enquanto está vivendo em uma ditadura. Eu fico por aqui.
+
+\-- Na foto: Candidatos principais a presidência da Coreia do Sul em 2022. Lee Jae Myeong, Yoon Seok Yeol, Shim Sang Jeon, Ahn Cheol Soo.
 
 ![Candidatos principais a presidência da Coreia do Sul em 2022. Lee Jae Myeong, Yoon Seok Yeol, Shim Sang Jeon, Ahn Cheol Soo](assets/img/4-candidatos.png "Candidatos principais a presidência da Coreia do Sul em 2022. Lee Jae Myeong, Yoon Seok Yeol, Shim Sang Jeon, Ahn Cheol Soo")
 
@@ -129,11 +139,19 @@ Acho que a escolha de Ji Soo para o papel principal foi equivocada. Era um papel
 
 Deu para perceber que ela estava tensa em todas as cenas dela e não senti emoção na sua atuação. Não vou nem comentar do beijo porque a forçação de um romance já é em si um erro. Talvez pela produção querer colocar uma personalidade forte e famosa na Coréia do Sul e no mundo inteiro para forçar o aumento da audiência pode ter sido o caso, pois em questões de entrega de atuação, com certeza ela não seria escalada para esse drama. Normalmente os idols de kpop começam com um papel mais simples e sem muita demanda emocional para depois ir crescendo no meio. Porém Ji Soo já começou num papel que até para atores profissionais, é um papel difícil. Curioso, não?
 
+\-- Na foto: Posters dos dramas Youth of May e Snowdrop
+
 ![Posters dos dramas Youth of May e Snowdrop](assets/img/10-compare.png "Posters dos dramas Youth of May e Snowdrop")
 
 # Comparação com Youth of May
 
 Não tem como não comparar com o drama Youth of May, ambos passam na década de 1980. A questão é que Youth of May foi inspirado e adaptado nos eventos de Gwangju daquele ano. Já Snowdrop foi inventado e com algumas adaptações de um livro de um desertor norte-coreano. Outra diferença é que Youth of May se preocupa em mostrar os acontecimentos reais de Gwangju ao mesmo tempo em que foca em dois jovens apaixonados. Já Snowdrop parece que coloca o dormitório feminino numa bolha mágica e só aquele evento que está acontecendo no país naquele momento e nada mais. Eles literalmente, com exceção de uma cena de segundos no episódio 2, retiraram todo o movimento democrático de cena e inventaram a narrativa de acordo entre Sul e Norte para a eleição do partido atual. A desculpa da JTBC foi criar um drama falando sobre como pessoas no poder manipulam outras para fins próprios. Mas bem... Isso poderia ser feito em qualquer período de tempo e em qualquer tipo de situação mas escolheram logo o ano de 1987 e eleições presidenciais como tema sem considerar os eventos históricos reais da época onde centenas de pessoas morreram para que pudesse existir eleições diretas de fato? Coincidência novamente? Reflita.
+
+\-- Na foto 1: Park Jong Cheol (esq.), Lee Han Yeol (dir.) após ataque de bomba de gás lacrimogêneo em sua cabeça em 09/06/1987.
+
+\-- Na foto 2: Funeral de Lee Han Yeol no dia 09/07/1987 com mais de um milhão de pessoas prestando homenagem.
+
+![Park Jong Cheol (esq.), Lee Han Yeol (dir.) após ataque de bomba de gás lacrimogêneo em sua cabeça em 09/06/1987. E Funeral de Lee Han Yeol no dia 09/07/1987 com mais de um milhão de pessoas prestando homenagem.](assets/img/6-1987.png "Park Jong Cheol (esq.), Lee Han Yeol (dir.) após ataque de bomba de gás lacrimogêneo em sua cabeça em 09/06/1987. E Funeral de Lee Han Yeol no dia 09/07/1987 com mais de um milhão de pessoas prestando homenagem.")
 
 # O que realmente aconteceu em 1987
 
@@ -143,12 +161,12 @@ Tudo começou com a notícia da morte do estudante Park Jong Chol em Janeiro daq
 
 A história de Park Jong Chol e de Lee Han Yeol é contada no filme 1987: When The Days Come com a Kim Tae Ri como protagonista, além de mostrar com fidelidade os acontecimentos daquele ano, a produção conseguiu encaixar, com leveza, um romance. Diferente de Snowdrop.
 
-![Cenas de bastidores de Snowdrop](assets/img/14.png "Cenas de bastidores de Snowdrop")
+![Cenas de bastidores de Snowdrop](assets/img/14-bts.png "Cenas de bastidores de Snowdrop")
 
 # Finalização
 
 Cheguei ao fim. Espero que a minha opinião fique clara sobre esse drama. Snowdrop não passou de uma propaganda anti-comunista feita em período de eleições no país para tentarem aumentar o poder político dos conservadores. Apesar de uma produção cara, bem feita, com ótimo elenco, o roteiro claramente com ideologia liberal culminou em uma produção enviesada para fins políticos. Na minha percepção, é também preciso ter em mente que doramas não é feito apenas para entretenimento estrangeiro mas serve como uma máquina ideológica para o contexto atual do país. Consciência política também é entender que apesar de eu ser viciada em doramas, também tenho uma visão clara de como este pode servir como ferramenta de alienação.
 
-E para encerrar, termino com uma frase da candidata à presidência Shim Sang Jeong, em sua [resposta](https://twitter.com/sangjungsim/status/1473221769259814914?t=q0vsPl3mqIUluNdQNKG73w&amp;s=19) sobre o drama Snowdrop:
+E para encerrar, termino com uma frase da candidata à presidência Shim Sang Jeong, em sua [resposta](https://twitter.com/sangjungsim/status/1473221769259814914?t=q0vsPl3mqIUluNdQNKG73w&s=19) sobre o drama Snowdrop:
 
 “Liberdade criativa deve ser humilde diante das feridas da história”
