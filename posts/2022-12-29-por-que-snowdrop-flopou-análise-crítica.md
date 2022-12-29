@@ -18,6 +18,7 @@ tags:
   - jtbc
   - coreia do norte
   - yoo hyun mi
+  - yoon seok yeol
 background: "#E7881D"
 ---
 *Originalmente publicado em 31/01/2022.*
