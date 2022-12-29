@@ -17,6 +17,7 @@ tags:
   - eleições coreana
   - jtbc
   - coreia do norte
+  - yoo hyun mi
 background: "#E7881D"
 ---
 *Originalmente publicado em 31/01/2022.*
