@@ -41,7 +41,7 @@ const BlogPost = ({ data, pageContext }) => {
           )
         })}
       </S.TagWrapper>
-      <Newsletter />
+      {/* <Newsletter /> */}
       <RecommendedPosts next={next} previous={previous} />
       <Comments url={post.fields.slug} title={post.frontmatter.title} />
     </Layout>

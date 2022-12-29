@@ -67,7 +67,7 @@ const MenuBar = () => {
         >
           {isDarkMode ? <ToggleOff /> : <ToggleOn />}
         </S.MenuBarItem>
-        <S.MenuBarLink
+        {/* <S.MenuBarLink
           to="/newsletter/"
           cover
           direction="right"
@@ -89,7 +89,7 @@ const MenuBar = () => {
           <S.MenuBarItem>
             <Face />
           </S.MenuBarItem>
-        </S.MenuBarLink>
+        </S.MenuBarLink> */}
         <S.MenuBarItem 
           title="Ir para o Topo"
           onClick={() => {
