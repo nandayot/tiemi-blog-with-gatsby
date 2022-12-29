@@ -169,4 +169,4 @@ Cheguei ao fim. Espero que a minha opinião fique clara sobre esse drama. Snowdr
 
 E para encerrar, termino com uma frase da candidata à presidência Shim Sang Jeong, em sua [resposta](https://twitter.com/sangjungsim/status/1473221769259814914?t=q0vsPl3mqIUluNdQNKG73w&s=19) sobre o drama Snowdrop:
 
-“Liberdade criativa deve ser humilde diante das feridas da história”
+> “Liberdade criativa deve ser humilde diante das feridas da história”
