@@ -22,7 +22,7 @@ const Search = () => (
       indexName={algolia.indexName}
       searchClient={searchClient}
     >
-      <SearchBox autoFocus translations={{ placeholder: "Pesquisar..." }} />
+      <SearchBox translations={{ placeholder: "Pesquisar..." }} />
       <Stats
         translations={{
           stats(nbHits, timeSpentMs) {

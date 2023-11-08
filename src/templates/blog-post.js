@@ -5,7 +5,6 @@ import Layout from "../components/Layout"
 import SEO from "../components/seo"
 import RecommendedPosts from "../components/RecommendedPosts"
 import Comments from "../components/Comments"
-import Newsletter from "../components/Newsletter"
 
 import * as S from "../components/Post/styled"
 
@@ -41,7 +40,6 @@ const BlogPost = ({ data, pageContext }) => {
           )
         })}
       </S.TagWrapper>
-      {/* <Newsletter /> */}
       <RecommendedPosts next={next} previous={previous} />
       <Comments url={post.fields.slug} title={post.frontmatter.title} />
     </Layout>

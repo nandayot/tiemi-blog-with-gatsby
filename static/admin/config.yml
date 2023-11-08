@@ -2,7 +2,7 @@ backend:
   name: github
   repo: nandayot/tiemi-blog-with-gatsby
   branch: master
-  site_domain: tiemi.netlify.app
+  site_domain: tiemi.dev
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"

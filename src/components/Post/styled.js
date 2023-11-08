@@ -1,6 +1,5 @@
 import styled from "styled-components"
 import media from "styled-media-query"
-import { Face } from "@styled-icons/boxicons-solid/Face"
 
 export const PostHeader = styled.header`
   color: var(--postColor);
