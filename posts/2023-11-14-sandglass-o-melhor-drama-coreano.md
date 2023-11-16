@@ -4,6 +4,21 @@ description: t
 date: 2023-11-14 03:30:19
 thumbnail: assets/img/capa-final.png
 category: Asia
+tags:
+  - sandglass
+  - kdrama
+  - choi min soo
+  - park sang won
+  - go hyun jung
+  - lee jung jae
+  - zhuravli
+  - choi hyung sik
+  - song jin a
+  - kim jong hak
+  - gwangju
+  - samcheong
+  - sbs
+  - blockbuster
 background: "#B31917"
 ---
 A história gira em torno de três personagens principais, Park Tae Soo, Kang Woo Seok e Yoon Hye Rin e seus relacionamentos internos e externos durante o período de suas vidas adultas, entre os anos de 1976 a 1987. A trama é centralizada nos acontecimentos históricos da Coreia do Sul durante esse anos e a relação que cada personagem tem com a situação socio-política da época e como cada um se vê diante dos conflitos. Todos com vidas totalmente diferentes faz com que cada um faça escolhas de vida distintas e isso colabora para um desenvolvimento complexo, único e muito interessante de cada um dos personagens.
