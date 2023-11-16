@@ -4,7 +4,7 @@ description: Blockbuster sul-coreano dos anos 90 que elevou o nível de produç�
   de telenovelas e criou o padrão que é conhecido hoje em dia. Sandglass tem
   tudo que um drama coreano pode oferecer e com certeza vai entrar na sua lista
   de favoritos.
-date: 2023-11-14 03:30:19
+date: 2023-11-16 05:28:56
 thumbnail: assets/img/capa-final.png
 category: Asia
 tags:
@@ -160,3 +160,5 @@ Em inglês é possível assistir pelo site Dramacool, onde aparentemente eles co
 Se agora você está com vontade de assistir, então meu objetivo foi cumprido. Senão, meu sinto muito pois você vai perder uma dos melhores dramas da Coreia do Sul. Então mesmo que você não se interessou pelo drama, é porque eu não consegui recomendar adequadamente, então mesmo assim, faça um favor a si mesmo e assista!
 
 Até o próximo blog.
+
+*(versão original escrito em 28 de outubro de 2021)*
