@@ -6,41 +6,35 @@ thumbnail: assets/img/1563990083369.jpg
 category: Cultura
 background: "#E7881D"
 ---
-<!--StartFragment-->
+Você sabia que senão fosse a intervenção dos EUA na Coreia após a Segunda Guerra Mundial, a Coreia seria uma terra única com um governo do norte e não duas? Pois bem, é isso que vemos e percebemos nesse drama e se tiver curiosidade em entender o motivo da divisão do país, esse é a única adaptação com fidelidade histórica que irá ver.
 
-Welcome
+## Ficha Técnica + enredo
 
-Mais um blog do meu desafio pessoal. Este, na verdade, deveria ser o primeiro drama do desafio mas confesso que foi difícil terminar num tempo rápido. Comecei a assistir ano passado com a esperança de terminar naquele ano mas sem sucesso. Fui assistindo episódios esparsos durante os dias em que tinha tempo livre e o resultado foi terminar praticamente 7 meses depois que o prazo que estipulei na minha cabeça.
+Nome: Eyes of Dawn/Eyes of Daybreak\
+Hangul: 여명의 눈동자\
+Episódios: 36\
+Emissora: MBC\
+Diretor: Kim Jong Hak\
+Escritora: Song Ji Na\
+Data de Transmissão: 07/10/1991 à 06/02/1992 (Quartas e Quintas às 21:50)
 
-O blog vai ser mais um informativo do que uma indicação pois é um drama que não existe em nenhuma plataforma pública e sem legenda em português. Mas espero que apreciem a resenha de um dos dramas mais emblemáticos da Coreia.
+Eyes of Dawn (Olhos do Amanhecer) é uma adaptação para a televisão do romance de mesmo nome do escritor Kim Seong Jong, que foi escrito entre 1975 a 1981. Conta a história de vida de 3 personagens durante a Segunda Guerra Mundial até o fim da Guerra da Coreia, onde são condicionados a tomarem decisões de vida complexas e que sempre acabam se entrelaçando.
 
-Introdução
+## Elenco
 
-Você sabia que senão fosse a intervenção dos EUA na Coreia após a Segunda Guerra Mundial, a Coreia seria uma terra única com um governo do norte e não duas? Pois bem, é isso que vemos e percebemos nesse drama e se tiver curiosidade em entender o motivo da divisão do país, esse é uma boa adaptação com fidelidade histórica que irá ver.
-
-Ficha Técnica + enredo
-
-Nome: Eyes of Dawn/Eyes of Daybreak Hangul: 여명의 눈동자 Episódios: 36 Emissora: MBC Diretor: Kim Jong Hak Escritora: Song Ji Na Data de Transmissão: 07/10/1991 à 06/02/1992 (Quartas e Quintas às 21:50)
-
-Eyes of Dawn (Olhos do Amanhecer) é uma adaptação para a televisão do romance de mesmo nome do escritor Kim Seong Jong, que foi escrito entre 1975 a 1981. Conta a história de vida de 3 personagens durante a segunda guerra mundial até o fim da Guerra da Coreia, onde são condicionados a tomarem decisões de vida complexas e que sempre acabam se entrelaçando.
-
-(fonte: autoral)
-
-Elenco
-
-Chae Si Ra como Yoon Yeook
+### Chae Si Ra como Yoon Yeook
 
 Um jovem mulher que foi condicionada a ser uma mulher de conforto durante a guerra e era submetida a múltiplas “sessões”. Conseguiu fugir, grávida, recebendo ajuda de Jang Harim. Yeook teve que se tornar uma mulher forte após a notícia da gravidez, e faz de tudo para sobreviver nesse tempo difícil de guerra, sendo condicionada a diversos tipos de trabalho.
 
-Choi Jae Seong como Choi Dae Chi
+### Choi Jae Seong como Choi Dae Chi
 
 Um jovem coreano que foi obrigado a lutar junto com os japoneses. Conhece Yeook na China em um dos alojamentos. Apaixonam-se e Dae Chi a engravida. Faz de tudo para que Yeook não se submeta a “sessões”. Apesar disso, com a guerra, foram obrigados a se separaram com uma promessa de reencontro.
 
-Park Sang Won como Jang Harim
+### Park Sang Won como Jang Harim
 
 Estudante de medicina no Japão e que foi obrigado a largar a faculdade e ser auxiliar médico nos campos de batalha. Com isso, acaba por presenciar atrocidades sendo cometidas pelos japoneses e a compactuar com elas. Conhece Yeook em Saipan e, compadecido, ajuda-a dar a luz a seu filho, Daewoon.
 
-História
+## História
 
 A história é composta por basicamente 3 grandes partes históricas que são contadas durante os 36 episódios. Começando pela ambientação da Coreia no fim da era colonial japonesa em meados de 1943. Na época, a Coreia se chamava Jeoson. A capital era Gyeonsang que mais tarde foi renomeada para Seoul.
 
@@ -50,7 +44,7 @@ Para nós, pessoas não coreanas, é difícil deduzir e “sacar” algumas cena
 
 Apesar disso é possível entender, por meio de transitividade, cenas históricas que são contadas e vivenciadas pelos personagens. Mesmo você não sabendo nada da história da Coreia, o drama consegue fazer você entender como o termo Coreia do Norte e Coreia do Sul surgiram. Para mim, acho muito interessante entender como um país foi dividido em dois e continua até hoje.
 
-Período colonial pré-1945
+## Período colonial pré-1945
 
 A história começa no período da Segunda Guerra Mundial, e a situação dos personagens é como descrita no tópico acima. Logo nos primeiros episódios cenas de abuso e violência são mostradas tornando difícil assistir por completo. O drama faz questão de mostrar tudo isso e logo após a dissolução daquela unidade, o drama mostra que aquele departamento realmente existiu na vida real e mostra números exatos de mulheres mortas e mulheres que foram submetidas a isso.
 
@@ -62,7 +56,7 @@ Já Jang Harim, como estudante de medicina no Japão, vivia numa pensão onde, e
 
 A unidade era responsável por desenvolver armas químicas e para isso, realizava experimentos humanos letais. Jang Harim começa a questionar sua existência e sua vida como ser humano já que era condicionado a ser conivente com as experiencias. O drama faz questão de mostrar essas partes e afirma que muitas dessas informações não são contadas e acabam sendo esquecidas durante a história da segunda guerra mundial.
 
-Invasão Americana, pós-1945
+## Invasão Americana, pós-1945
 
 A segunda parte do drama narra o período da Coreia “Independente”, sem o comando do Império Japonês com o fim da Guerra mas com os EUA em seu território na parte sul e a URSS na parte norte. Apesar de ainda ser Jeoson, a Coreia começa a ter no imaginário comum uma divisão entre norte e sul através das invasões. Foi somente em 1948 que a divisão ocorreu oficialmente onde o norte permaneceu com o nome histórico Jeoson e o sul mudou o nome para Coreia.
 
@@ -80,7 +74,7 @@ Nesse meio tempo, Daechi torna-se um oficial do partido do norte e vai para um m
 
 Após descoberta de espionagem ambos escapam para Jeju e juntam-se a população contra o exército americano que estavam massacrando os civis. Harim, também está em Jeju para a missão de reportar o andamento das ações do exército americano na ilha. Os protestos e lutas dos civis com o comando de Daechi não dão certo e assim ele abandona a ilha para voltar para Pyeongyang, abandonando seu filho e sua esposa. Assim, Yeook é presa por um policial que a reconheceu como espiã do norte e é sentenciada a morte.
 
-Guerra da Coreia
+## Guerra da Coreia
 
 A guerra começa em junho de 1950.
 
@@ -90,7 +84,7 @@ Harim com sua atuação excelente no exército americano junta-se como comandant
 
 Os 3 personagens reencontram-se na batalha no Monte Jiri (Jirisan) onde os últimos momentos dos personagens são mostrados.
 
-Análise
+## Análise
 
 No geral, o drama é bom de assistir. A dificuldade que tive foi a questão do prolongamento de algumas cenas que achava desnecessário e ao meu ver consumia um tempo significativo. Apesar disso é possível perceber o quanto de dinheiro foi gasto para a produção. Várias cenas foram filmadas em locais diferentes do país e do mundo e o elenco/produção inteiro teve que se locomover constantemente.
 
@@ -116,110 +110,6 @@ O drama faz questão de mostrar a data exata de cada acontecimentos e suas conse
 
 Eyes of Dawn é um drama importante em diversos aspectos, tanto no sentido de produção quanto no sentido histórico sobre uma única Coreia e a luta de um povo que não gostaria de se dividir. Ele abre um pouco os olhos de pessoas que tem uma imagem deturpada pela mídia burguesa sobre Coreia do Norte e a sua formação
 
-Finalização
+## Conclusão
 
 Obrigada por lerem até aqui. Caso tenham interesse genuíno de assistir essa produção podem entrar em contato comigo que disponibilizo o local por onde assisti com legendas em inglês. No mais, é um pedaço da história de produção de dramas coreanos que acho interessante, para os dorameiros, conhecerem. Até porque, o custo de produção de fazer um remake desse drama (que sempre foi questionado no decorrer dos anos), é altíssimo e praticamente inviável. Ou seja, não vai existir mais um drama que narra a história do povo coreano com tanta fidelidade e qualidade de produção e por isso que Eyes of Dawn é único e importante.
-
-Até o próximo blog.
-
-Esse dorama faz parte do meu desafio pessoal desse ano e você pode conferir na minha wiki abaixo.
-
-22 agosto de 1945
-
-pyeongyang - ocupada pelo exercito sovietico
-
-8 de setembro de 1945
-
-exercito americsno chega no porto de incheon
-
-pyeongyan -
-
-jo man shik e heyon jun hyeok
-
-“it is time we go beyond class and political divide and together foster the birth of a new identity for our nation
-
-28 de setembro de 1945 - hyeon jun hyeok assassinado
-
-commmunist party of korea - north jeoson headquarters
-
-sovieticos invadem o predio??
-
-5 provincial communist party of korea hq’s appoint kim il sung as chief secretary
-
-16 dedezembro de 1945 - 4 nation treaty for following 5years - moscow conference
-
-preço do arroz subindo por conta dos esquemas dos EUA e japão
-
-7 setembro 1946 - arrest roders for top communist party officials - Park Heon Young, Lee Juha, Lee Gang Guk
-
-23 set 1946 - busan railway workers announce strike begin sit-in
-
-16 top labor union officials arrested - along with 12k workers(2 dead)
-
-south jeoson interim - legislative assembly opens
-
-1 março de 1947 - conflict between right and left wing movementsat march 1st celebration
-
-after 4 months touring north america, lee seungman returns (Syngman Rhee)
-
-while residing in EUA, lee was protagonist of diplomatic efforts to establish a independent government at the south
-
-8 de janeiro de 1948 - US Supervisory Commite visits korea
-
-7 de fevereiro de 1948 - South Labor Party Lauches demonstrations to save the motherland
-
-number o deaths unknow - detained aprox 9k
-
-1 marco de 1948 - general hodge announces first south korean elections
-
-29 abril 1948 - jeju - first north Koreans defectors arrives
-
-15 agosto 1948 - governo da Coreia do Sul estabelecido.
-
-9 de setembro de 1948 - governo norte coreano estabelecido
-
-22 de setembro de 1948 - law punishing crimes against the korean nation enacted
-
-8 de janeiro de 1949 - treason law committe begins first round of arrests
-
-Choi Daechi vai para minas no norte por conta dos erros que ele cometeu em jeju
-
-Yeook é presa e não confessa nada, harim consegue um advogado para ele quando ela foi para julgamento por ser espiã.
-
-junho de 1949 - us army completes withdrawal
-
-26 de junho 1949 - Kim Gu Assassinated
-
-baek in su arresed - conspiring with commies
-
-park changseok - disbarred for forged evidence
-
-Yooeok - sentenced to execution
-
-25 de junho de 1950 - guerra da coreia começa
-
-26 de junho - norte invade munsan
-
-27 de junho - sul muda-se para suwon e lee seungman se muda de seoul
-
-28 de junho - ponte no rio han é bombardeada
-
-em menos de um mês note ganha controle de todo territorio do sul com execeção de partes da provincia gyeonsang (seoul)
-
-agosto de 1950 - forcas do eua constroe muma linha de defesa no rio nakdong
-
-setembro de 1950 - norte faz sua ofensiva final em nakdong
-
-15 de setembro - eua chega na ilha wolmi
-
-18 de setembro - linha de defesa do norte em nakdong acaba
-
-28 de setembro - seoul foi recapturada
-
-20 de outubro - tropas da UN chegam em pyeongyang
-
-[final](https://www.notion.so/final-9b0a847c78884b83a929a25e1fc2c194?pvs=21)
-
-<!-- notionvc: 1b3ced86-605f-49ad-8642-83f7e8e0580c -->
-
-<!--EndFragment-->
