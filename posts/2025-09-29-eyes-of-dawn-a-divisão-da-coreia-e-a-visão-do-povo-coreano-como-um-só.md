@@ -2,7 +2,7 @@
 title: "Eyes of Dawn: A divisão da Coreia e a visão do povo coreano como um só"
 description: rascunho
 date: 2025-09-29 07:52:41
-thumbnail: assets/img/1563990083369.jpg
+thumbnail: assets/img/11.jpg
 category: Cultura
 background: "#E7881D"
 ---
@@ -24,13 +24,19 @@ Eyes of Dawn (Olhos do Amanhecer) é uma adaptação para a televisão do romanc
 
 ## Elenco
 
+![Mulher coreana de cabelo liso preso com franja com olhar triste](assets/img/6.jpg "Chae Si Ra como Yoon Yeook")
+
 ### Chae Si Ra como Yoon Yeook
 
 Um jovem mulher que foi condicionada a ser uma mulher de conforto durante a guerra e era submetida a múltiplas “sessões”. Conseguiu fugir, grávida, recebendo ajuda de Jang Harim. Yeook teve que se tornar uma mulher forte após a notícia da gravidez, e faz de tudo para sobreviver nesse tempo difícil de guerra, sendo condicionada a diversos tipos de trabalho.
 
+![Homem coreano com roupa militar de inverno durante a segunda guerra mundial, olha para fora de uma cerca de metal](assets/img/8.jpg "Choi Jae Seong como Choi Dae Chi")
+
 ### Choi Jae Seong como Choi Dae Chi
 
 Um jovem coreano que foi obrigado a lutar junto com os japoneses. Conhece Yeook na China em um dos alojamentos. Apaixonam-se e Dae Chi a engravida. Faz de tudo para que Yeook não se submeta a “sessões”. Apesar disso, com a guerra, foram obrigados a se separaram com uma promessa de reencontro.
+
+![Homem coreano com lágrimas no rosto e um olhar vazio](assets/img/9.jpg "Park Sang Won como Jang Harim")
 
 ### Park Sang Won como Jang Harim
 
@@ -42,9 +48,9 @@ A história é composta por basicamente 3 grandes partes históricas que são co
 
 Com a introdução dos personagens, já dá pra ter uma ideia de como a trama se desenvolve. Mas isso só fica claro a medida que você vai assistindo os episódios. Cada um gira em torno de 45-50 minutos. Somente o último possui uma duração de 90 minutos.
 
-Para nós, pessoas não coreanas, é difícil deduzir e “sacar” algumas cenas e informações que o drama apresenta e por isso foi mais difícil acompanhar o andar da história. Muitas informações históricas são cobertas em cada episódio mas assistindo com um olhar estrangeiro fica complicado entender e sentir o peso que aquela cena representa e esse foi uma dos motivos da demora que tive para terminar.
+Para nós, pessoas não coreanas, é difícil deduzir e “sacar” algumas cenas e informações que o drama apresenta e por isso foi mais difícil acompanhar o andar da história. Muitas informações históricas são cobertas em cada episódio mas assistindo com um olhar estrangeiro fica complicado entender e sentir o peso que aquela cena representa e esse foi uma dos motivos da demora que tive para terminar. Mesmo você não sabendo nada da história da Coreia, o drama consegue fazer você entender como o termo Coreia do Norte e Coreia do Sul surgiram. Para mim, acho muito interessante entender como um país foi dividido em dois e continua assim até hoje.
 
-Apesar disso é possível entender, por meio de transitividade, cenas históricas que são contadas e vivenciadas pelos personagens. Mesmo você não sabendo nada da história da Coreia, o drama consegue fazer você entender como o termo Coreia do Norte e Coreia do Sul surgiram. Para mim, acho muito interessante entender como um país foi dividido em dois e continua assim até hoje.
+![Choi Dae Chi abraçando por trás Yoon Yeook](assets/img/1.jpg "Período colonial pré-1945")
 
 ## Período colonial pré-1945
 
@@ -76,6 +82,8 @@ Nesse meio tempo, Daechi torna-se um oficial do partido do norte e vai para um m
 
 Após descoberta de espionagem ambos escapam para Jeju e juntam-se a população contra o exército americano que estavam massacrando os civis. Harim, também está em Jeju para a missão de reportar o andamento das ações do exército americano na ilha. Os protestos e lutas dos civis com o comando de Daechi não dão certo e assim ele abandona a ilha para voltar para Pyeongyang, abandonando seu filho e sua esposa. Assim, Yeook é presa por um policial que a reconheceu como espiã do norte e é sentenciada a morte.
 
+![Ahn Myeonji, mulher coreana de pele clara e batom vermelho com cabelos ondulados curto.](assets/img/3.jpg "Ahn Myeonji")
+
 ## Guerra da Coreia
 
 A guerra começa em junho de 1950.
@@ -85,6 +93,8 @@ Quando a Guerra da Coreia começa e o exército do Povo, liderado pelo revolucio
 Harim com sua atuação excelente no exército americano junta-se como comandante para liderar batalhas contra guerrilheiros e soldados do norte. Yeook tenta sobreviver da maneira que consegue indo e vindo de cidade em cidade. Daechi vai para guerra também como comandante mas do exército do Povo e mais tarde como guerrilheiro.
 
 Os 3 personagens reencontram-se na batalha no Monte Jiri (Jirisan) onde os últimos momentos dos personagens são mostrados.
+
+![Choi Dae Chi em prantos](assets/img/12.jpg "Choi Dae Chi")
 
 ## Análise
 
@@ -112,6 +122,8 @@ Eyes of Dawn é um drama importante em diversos aspectos, tanto no sentido de pr
 
 Eyes of Dawn é um drama obrigatório para quem gosta de produções sul-coreanas e quer entender a história do audiovisual do país. Não vai existir mais um drama que narra a história do povo coreano com tanta fidelidade e qualidade de produção e por isso que Eyes of Dawn é único e importante.
 
+![Título do drama em coreano](assets/img/13.jpg "Eyes of Dawn")
+
 # Onde assistir Eyes of Dawn em Português
 
 Com o objetivo de distribuir conhecimento e arte, eu comecei a legendar o drama para o português em dezembro de 2024 para disponibilizar em outubro de 2025 no dia do lançamento do drama que foi há 34 anos. A legenda foca bastante em distinguir certos elementos linguísticos. Expressões como "Chosen", "Joseon", "Joseon saram" possuem conotações diferentes e mantive a tradução literal. A legenda em inglês traduzia por vezes "Joseon saram" para "coreanos". Eu mantive a tradução de "Pessoas de Joseon" ou "Povo de Joseon" pois "Joseon" tem peso histórico. O país ainda era chamado assim. "Chosen" era usado por soldados japoneses para referir-se pejorativamente ao povo de Joseon e também mantive isso na tradução.
@@ -122,7 +134,5 @@ Estão disponíveis tanto em formato 480p como em formato de 1080p que podem ser
 
 Eyes of Dawn (480p) - Legenda em português: [eyesofdawn480p.tiemi.dev](https://eyesofdawn480p.tiemi.dev)\
 Eyes of Dawn (1080p) - Legenda em português: [eyesofdawn1080p.tiemi.dev](https://eyesofdawn1080p.tiemi.dev)
-
-
 
 Caso encontrem algum erro na legenda, entre em contato comigo que faço a correção.
