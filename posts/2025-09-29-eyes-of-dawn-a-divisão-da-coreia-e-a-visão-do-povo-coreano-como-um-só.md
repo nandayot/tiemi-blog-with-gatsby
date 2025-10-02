@@ -4,6 +4,21 @@ description: rascunho
 date: 2025-09-29 07:52:41
 thumbnail: assets/img/11.jpg
 category: Cultura
+tags:
+  - eyes of dawn
+  - 여명의 눈동자
+  - mbc
+  - drama coreano
+  - kim jong hak
+  - song ji na
+  - eyes of daybreak
+  - chae si ra
+  - choi jae seong
+  - park sang won
+  - coreia do sul
+  - coreia do norte
+  - guerra da coreia
+  - segunda guerra mundial
 background: "#E7881D"
 ---
 Você sabia que senão fosse a intervenção dos EUA na Coreia após a Segunda Guerra Mundial, a Coreia seria uma terra única com um governo do norte e não duas? Pois bem, é isso que vemos e percebemos nesse drama e se tiver curiosidade em entender o motivo da divisão do país, esse é a única adaptação com fidelidade histórica que irá ver.
