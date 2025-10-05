@@ -28,7 +28,7 @@ background: "#E7881D"
 ---
 Você sabia que senão fosse a intervenção dos EUA na Coreia após a Segunda Guerra Mundial, a península seria uma terra única com um governo do norte? É isso que vemos e percebemos nesse drama e se tiver curiosidade em entender o motivo da divisão do país, esse é a única adaptação com fidelidade histórica que irá ver.
 
-Em homenagem aos 34 anos do lançamento desse drama. Vou compatilhar algumas informações sobre ele. Por vezes com alguns spoilers mas tratando-se de histórias reais sobre a guerra, nem chega a ser um de verdade.
+Em homenagem aos 34 anos do lançamento desse drama. Vou compatilhar algumas informações sobre ele. Tem bastante spoilers do drama então vai para Análise ou Conclusão caso não goste.
 
 ## Ficha Técnica + enredo
 
@@ -66,7 +66,7 @@ Estudante de medicina no Japão e que foi obrigado a largar a faculdade e ser au
 
 A história é composta por basicamente 3 grandes partes históricas que são contadas durante os 36 episódios. Começando pela ambientação da Coreia no fim da era colonial japonesa em meados de 1943. Na época, a Coreia ainda se chamava Jeoson. A capital era Gyeonseong que mais tarde foi renomeada para Seoul. Cada episódio gira em torno de 45-50 minutos. Somente o último possui uma duração de 90 minutos.
 
-Para nós, pessoas não coreanas, é difícil deduzir e “sacar” algumas cenas e informações que o drama apresenta. Muitas informações históricas são cobertas em cada episódio mas assistindo com um olhar estrangeiro fica complicado entender e sentir o peso que aquela cena representa e esse foi uma dos motivos que demorei para terminar. Mesmo você não sabendo nada da história da Coreia, o drama consegue fazer você entender como o termo Coreia do Norte e Coreia do Sul surgiram.
+Para nós, pessoas não coreanas, é difícil deduzir e “sacar” algumas cenas e informações que o drama apresenta. Muitas informações históricas são cobertas em cada episódio mas assistindo com um olhar estrangeiro fica complicado entender e sentir o peso que aquela cena representa e esse foi uma dos motivos que demorei para terminar. Em contrapartida, mesmo não sabendo nada da história da Coreia, o drama consegue fazer você entender como o termo Coreia do Norte e Coreia do Sul surgiram.
 
 ![Choi Dae Chi abraçando por trás Yoon Yeook](assets/img/1.jpg "Período colonial pré-1945")
 
@@ -124,9 +124,7 @@ Sabe aquela imagem viral onde aparece um antes/depois de um homem que lutou na g
 
 Choi Dae Chi era um soldado inteligente porém medroso e com o tempo foi se tornando um homem sangue frio que não possuía medo da morte. Yeook era uma jovem mulher que foi abusada e aprendeu da maneira mais difícil a sobreviver sozinha durante esse período. Harim queria apenas continuar estudando medicina mas foi convocado para a guerra e obrigado a fazer experimentos em pessoas. Harim tornou-se um homem sentimental mas que soube guardar seu rancor em troca de sobrevivência.
 
-Gostei muito da atuação e da escolha do elenco. Muitos dos atores foram escalados para Sandglass também então não tive muitas surpresas no elenco e na capacidade de cada um. A escolha das músicas foi um ponto negativo para esse drama. Pelo que percebi, só tocava um única música em momentos de clímax. Tornou-se enjoativo e a emoção que a cena deveria passar não conseguiu ser entregue na minha opinião. Então, apesar de existir muitas cenas emocionantes no drama, não consegui sentir por completo.
-
-Mas a história dos personagens é sem dúvidas algo incrível de acompanhar e como as relações se entrelaçam mesmo os personagens seguindo rumos totalmente diferentes. A roteirista faz com que os reecontros aconteçam de forma natural e lógica. Uma história que começa com 3 coreanos em um guerra, 2 apaixonados que se separam e depois reencontram-se em situações políticas opostas. Enquanto um é oficial do partido soviético outro é uma espiã dos EUA. O mesmo acontece com Jang Harim e seu irmão. E mesmo assim, as relações entre eles continuou fortes.
+A história dos personagens é sem dúvidas o ponto forte do drama. Acompanhar como as relações se entrelaçam mesmo os personagens seguindo rumos totalmente diferentes. A roteirista faz com que os reecontros acontecessem de forma natural e lógica. Uma história que começa com 3 coreanos em uma guerra, 2 apaixonados que se separam e depois reencontram-se em situações políticas opostas. Enquanto um é oficial do partido soviético outro é uma espiã dos EUA. O mesmo acontece com Jang Harim e seu irmão. E mesmo assim, as relações entre eles continuou fortes.
 
 O drama conseguiu mostrar verdadeiramente a história do povo coreano e sua busca por independência pois foca nas atrocidades que os EUA cometeu no Sul e como o próprio povo conseguiu se emancipar no norte. Jang Harim, apesar de ajudar o governo americano, sabia que eles não tinham interesse algum em melhorar a vida do povo coreano. O drama mostra isso em diversas cenas onde pessoas do sul se veem exaustas da presença de um país invasor em seu território. O massacre de Jeju é contado em detalhes. Também mostra a disposição de pessoas do sul em ajudar ativistas e soldados do norte a se esconderem. É possível perceber que o povo coreano ansiava por um governo popular que só seria possível com um governo comandado por pessoas coreanas sem nenhum resquício do imperialismo japonês e colaboracionistas pró-japão coreanos. O drama faz questão de mostrar a data exata de cada acontecimento e suas consequências. Algumas vezes, imagens reais eram usadas (em preto e branco) para evidenciar os fatos que eram narrados.
 
