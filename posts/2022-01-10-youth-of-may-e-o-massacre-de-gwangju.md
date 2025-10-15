@@ -35,7 +35,7 @@ from-heading: 1
 to-heading: 6
 ```
 
-![Poster Oficial](assets/img/youth-of-may-poster-3.jpg)
+![Poster Oficial](/assets/img/youth-of-may-poster-3.jpg)
 
 # Youth Of May
 
@@ -57,7 +57,7 @@ Acho interessante explicar o motivo do blog. Sempre tive interesse por história
 
 \-- Na foto: 1) Park Chung Hee e militares. 2) Chang Do Yong e Park Chun Hee em 20/05/1961
 
-![Foto explicada acima.](assets/img/park-site-1.png)
+![Foto explicada acima.](/assets/img/park-site-1.png)
 
 # Contextualização
 
@@ -81,17 +81,17 @@ Outra ação rápida que foi criada após o golpe foi a KCIA (Agência Central d
 
 Com o lema de rápido crescrimento econômico, a economia nos primeiros anos do governo apresentou sinais positivos. A taxa de crescimento geral do PIB coreano durante o período entre 1963 e 1970 foi em média de 9,6% ao ano, e a renda per capita aumentou de $100 em 1963 para $243 em 1970. A taxa de desemprego diminuiu de 8,6% em 1963 para 4,4% em 1970. Isso fez com que a popularidade de Park aumentasse e foi assim que conseguiu ser reeleito nas eleições de 1967. Importante notar que essa foi a segunda eleição desde o golpe, que dizia-se 'República', mas a predominância militar nos gabinetes não deixava duvida de quem realmente tinha o poder. Porém, o crescimento não durou muito. Logo os efeitos da estratégia econômica de Park foram aparecendo. A desigualdade econômica foi aumentando em todos os setores, regiões e entre classes, contruibuindo para o sentimento de injusta da população e o crescimento do partido de oposição liderado por Kim Dae Jung.
 
-![Foto onde um dos personagens olha para um quadro de uma fábrica. Com a legenda: "Vista Aérea para Farmacêutica Changhwa"](assets/img/changhwa.png)
+![Foto onde um dos personagens olha para um quadro de uma fábrica. Com a legenda: "Vista Aérea para Farmacêutica Changhwa"](/assets/img/changhwa.png)
 
 Nessas cenas retiradas do dorama fica claro a estratégia de desenvolvimento econômico nacional de Chung Hee. Um dos personagens está preparando para abrir uma companhia industrial farmacêutica enfatizando no dorama que deseja importar a matéria prima para produzir localmente os insumos. Apesar da visão de Chung Hee, centrada na exportação, o investimento em indústrias químicas era seu principal objetivo e que foi chamado de ‘estratégia HCI’ na época. A cena abaixo traduz o cartaz para: "1980 - Encontro Empresarial Comemorativo da Fundação Local com Cidadãos".
 
-![Cena onde aparece um lugar aberto com mesas e cadeiras brancas, garçons passando com comida e pessoas se cumprimentando.](assets/img/reuniao.png)
+![Cena onde aparece um lugar aberto com mesas e cadeiras brancas, garçons passando com comida e pessoas se cumprimentando.](/assets/img/reuniao.png)
 
 Com o rápido avanço da oposição e crescimento da insatisfação da população, Park Chung Hee liderou o segundo golpe militar no dia 17 de outubro de 1972, dando início ao que chamou de Restauração de Outubro (Yushin). Era o começo de mais uma ditadura militar sob o nome de Regime Yushin. Nesse período, Park suspendeu a constituição de 1963, fechou o legislativo e judiciário, garantindo total poder sem restrições para ele. A justificativa para o autogolpe, inspirado pelo Ferdinand Marcos, foi a instabilidade política-internacional e tensões entre a Coreia do Norte. Ainda na nova constitução, Park aumentou o tempo presidencial de 4 anos para 6 sem limite em reeleição e foi assim que conseguiu ficar no poder até 1979.
 
 Em 26 de Outubro de 1979, Park Chung Hee foi assassinado repentinamente pelo seu amigo de longa data, e então chefe do KCIA, Kim Jae Gyu, em uma emboscada. Isso fez com que o autoritarianismo militar sofresse um grande choque pois com base na nova constituição, não tinha nada esclarecido sob quem poderia ser o novo presidente e nem mesmo existia um cargo maior após o posto de Presidente. O poder era todo de Park Chung Hee e sua morte trouxe muitas divisões entre os militares. A princípio quem entrou ao poder foi o então primeiro-ministro Choi Gyu Ha que demonstrou interesse em acabar com o regime Yushin de Park, juntamente com o chefe da KCIA atual (pois Kim Jae Gyu foi deposto após matar Park), Jeong Seong Hwa.
 
-![Cena onde um dos personagens está sentado com a cabeça curvada para baixo e olhos para frente ouvindo notícias de um rádio.](assets/img/yushin.png)
+![Cena onde um dos personagens está sentado com a cabeça curvada para baixo e olhos para frente ouvindo notícias de um rádio.](/assets/img/yushin.png)
 
 Nos primeiros episódios é possível ver nessa cena uma transmissão de rádio onde falava sobre os desejos do partido de oposição, do Kim Dae Jung, em acabar com o regime autoritário com o fim do governo Yushin e a criação de um sistema de eleição distrital.
 
@@ -102,7 +102,7 @@ Com essa instabilidade dentro do governo, os estudantes e o proletariado foram p
 <br/><br/>
 <br/><br/>
 
-![Foto de uma senhora idosa em um protesto contra o sistema de mísseis americano Thaad numa vila rural do sul da Coreia do Sul. Ela diz: "eu odeio todos os presidentes dos EUA"](assets/img/3lh3m84cmnc61.jpg)
+![Foto de uma senhora idosa em um protesto contra o sistema de mísseis americano Thaad numa vila rural do sul da Coreia do Sul. Ela diz: "eu odeio todos os presidentes dos EUA"](/assets/img/3lh3m84cmnc61.jpg)
 
 # Anti-americanismo
 
@@ -125,7 +125,7 @@ Foi no dia 18 de Maio, em um protesto pacífico de cerca de 600 estudantes , fre
 
 \-- Na foto: imagens reais dos protestos sangrentos do dia 20 e 21 em Gwangju
 
-![Fotos reais dos protestos em Gwangju. Milhares de pessoas reunidas na avenida principal, com barricadas e ônibus.](assets/img/real-protest.png)
+![Fotos reais dos protestos em Gwangju. Milhares de pessoas reunidas na avenida principal, com barricadas e ônibus.](/assets/img/real-protest.png)
 
 ## Dia 20 e 21 de Maio de 1980
 
@@ -135,7 +135,7 @@ Desde o começo da manhã do dia 20 milhares de pessoas começaram a se reunir n
 
 Na mesma noite, com mais pessoas juntando-se aos protestos criou-se um sentimento de comunidade entre todos os que estavam na luta. Todos sentiam pela a vida do outro. Pessoas ajudavam como podia a comprar alimentos e materiais para o protesto. Um dos atos mais simbólicos foram os taxistas, que de forma espontânea, uniram-se aos protestos e mobilizaram-se (cerca de 200 táxis e alguns ônibus) para ficar na linha de frente com seus carros, mesmo sabendo que não sairiam ilesos de lá.
 
-![Colagem de duas fotos. A primeira mostra um cena do dorama onde pessoas estão protestando em cima de ônibus e a segunda foto, imagem real dos protestos com a mesma dinâmica.](assets/img/protest-site2.png)
+![Colagem de duas fotos. A primeira mostra um cena do dorama onde pessoas estão protestando em cima de ônibus e a segunda foto, imagem real dos protestos com a mesma dinâmica.](/assets/img/protest-site2.png)
 
 Nessa cena do dorama é possível desenhar um paralelo em relação aos acontecimentos reais daquele dia com base na foto ao lado. Testemunhas afirmam que os militares teriam começado atirar logo após o cântico do hino nacional coreano e quando os motoristas estavam próximos as barricadas dos soldados. Taxistas foram pegos e espancados, seus carros destruídos; foi utilizado também o gás CS, o mesmo usado na Guerra do Vietnã. A população enfurecida pelos ataques contra os taxistas incendiaram duas sedes financeiras de duas grandes emissoras televisivas (KBS, MBC) por não estar transmitindo o terror que militares estavam fazendo na região.
 
@@ -145,7 +145,7 @@ No dia 21 os protestos aumentaram e a população conseguiu roubar armas veícul
 
 Depois dos fortes confrontos entre a população e os militares, as tropas foram ordenadas a se retirarem e assim o povo conseguiu invadir o salão, deixando Gwangju sob controle popular.
 
-![Texto explicativo abaixo.](assets/img/civilians-site.png)
+![Texto explicativo abaixo.](/assets/img/civilians-site.png)
 
 Nessa cena do dorama é possível ver os estudantes distribuindo armamento para a população, convocando todos a participarem dos protestos. Também nota-se, pela legenda, a indignação de um dos estudantes quando questionado sobre o uso das armas, e se o protesto pacífico não seria a melhor opção. Em resposta, ele diz: "Eles estão massacrando os cidadãos, porque devemos nos manter imaculados/pacíficos? É legítimo soldados atirarem em pessoas inocentes? Mas é ilegal revidarmos?"
 
@@ -165,7 +165,7 @@ No dia 27 de Maio, pela manhã, já programado para os militares retomarem toda 
 
 \-- Na foto: 1) Cena do dorama onde os corpos dos mortos eram colocados. 2) Foto real em um dos ginásios que eram usados para funerais das pessoas mortas durante os ataques. Tirada pelo jornalista Jurgen Hinzpeter.
 
-![Caixões de militantes mortos cobertos com a bandeira sul-coreana, velas e fores ao lado.](assets/img/funeral-site.png)
+![Caixões de militantes mortos cobertos com a bandeira sul-coreana, velas e fores ao lado.](/assets/img/funeral-site.png)
 
 # Efeito pós Massacre de Gwangju
 
@@ -187,7 +187,7 @@ Apesar da Quinta República ter sido iniciada em 1987 resquícios da ditadura ai
 
 \-- Na foto: Roh Tae Woo. (esq.) e Chun Doo Hwan (dir.) durante o “julgamento do século”
 
-![Advogados ao redor dos dois militares usando ternos pretos. Roh Tae Woo e Chun Doo Hwan com uniforme de penitenciária de cor azul claro.](assets/img/trial.jpg)
+![Advogados ao redor dos dois militares usando ternos pretos. Roh Tae Woo e Chun Doo Hwan com uniforme de penitenciária de cor azul claro.](/assets/img/trial.jpg)
 
 # Audiência e Punições sobre Maio de 1980
 
@@ -200,7 +200,7 @@ Resumidamente, mesmo após anos e anos de protestos e milhares de mortes, nenhum
 <br/><br/>
 <br/><br/>
 
-![Posters do drama Sandglass, e filmes A Petal e Taxi Driver.](assets/img/other-adaptations-site.png)
+![Posters do drama Sandglass, e filmes A Petal e Taxi Driver.](/assets/img/other-adaptations-site.png)
 
 # Outras adaptações
 
@@ -234,7 +234,7 @@ Mais algumas: *Peppermint Candy (박하사탕, 1999), The Old Garden (오래된 
 
 \-- Na foto: vítima dos tiros de militares, a estudante de ensino médio Park Geum Hi foi morta após ter ido ao hospital doar sangue para ajudar os militantes dos protestos.
 
-![Foto de um familiar de Park Geum Hi chorando no retrato da estudante acima de seu caixão.](assets/img/park-geum-hi-site.png)
+![Foto de um familiar de Park Geum Hi chorando no retrato da estudante acima de seu caixão.](/assets/img/park-geum-hi-site.png)
 
 # Referências
 
@@ -266,35 +266,35 @@ Para quem terminou esse extenso artigo, meu obrigada e espero que tenha aprendid
 
 Uma parte bônus para quem quiser aprender um pouco mais sobre o levante. Coloquei esse bônus pois não teria como falar de tudo num único blog. Até porque, eu inclusive, não aprendi tudo que esse período histórico teve. Foram muitos conflitos sociais e políticos nessa época de transição "democrática". Mas abaixo deixo mais contribuições.
 
-![Fotos explicadas abaixo.](assets/img/bonus-chun-site.png)
+![Fotos explicadas abaixo.](/assets/img/bonus-chun-site.png)
 
 1a. Foto de Chun Doo Hwan na cerimônia de posse como Presidente em Setembro de 1980. Ele eventualmente conseguiu o poder presidencial depois de muita pressão por parte dele e de seus militares e da falta de apoio que Choi Gyu Ha tinha naquele momento. Militares no geral sentiam que Chun tinha mais força política que Gyu Ha, no fim, ele acabou cedendo.
 
 2a. Foto de Chun Doo Hwan e o embaixador norte americano Gleysteen. Esse senhor foi responsável por tantas tragédias no país que se fosse contar tudo daria outro blog. Não ele, como os EUA inteiro né. Gleysteen, apesar de não estar inclinado com atitude mais violenta de Doo Hwan não via alternativas a não ser aceitar seu novo governo para atender as estratégias políticas e de território do país assassino que os EUA é. O Presidente Jimmy Carter estava preocupado com a situação coreana sair de controle assim como foi na Guerra do Vietnã em que os EUA foram derrotados. Carter não queria que isso acontecesse na Coreia e por isso fortaleceu a base militar americana e coreana no país.
 
-![Fotos explicadas abaixo.](assets/img/army.png)
+![Fotos explicadas abaixo.](/assets/img/army.png)
 
 Um trecho interessante de uma parte do dorama enquanto acontecia os ataques do dia 20 e 21 de Maio. Em que o irmão de Hee Tae reitera a afirmação dita pelo seu colega quando falou que eram os soldados norte coreanos atirando nos cidadãos. Ele responde: “É nosso próprio exército”. Pois foi esse o rumor que Chun mandou espelhar como forma de justificar sua repressão violenta na cidade. A desculpa era que o país devia proteger sua nação contra ataques norte coreanos. Só que isso foi uma baita mentira criada por ele para causar essa sensação duvidosa na população no começo da repressão. Isso acabou não convencendo ninguém e Gleysteen e Carter sabiam que, naquele momento, uma ameaça norte coreana era a ameaça menos provável de se acontecer, isso foi comprovado por diversos relatórios que eram emitidos sobre a situação na fronteira entre os países.
 
-![Fotos explicadas abaixo.](assets/img/0-bus-protest.jpg)
+![Fotos explicadas abaixo.](/assets/img/0-bus-protest.jpg)
 
 Imagens coloridas durante o levante, muito similar a cena que aparece no dorama, não? Uma pessoa erguendo a bandeira do país em cima do ônibus durante a marcha de taxistas no dia 20. Marcha que foi o ponto de virada para os protestos ganharem força e apoio popular de quase toda a população da cidade. Se procurarem mais fotos desse dia vai ver que a quantidade de pessoas nas ruas era IMENSA e vale ressaltar que Gwangju, nesse momento pós decreto da Lei Marcial em todo território nacional, era a única cidade em que a população estavam lutando pela liberdade. Seoul, a capital do país, os movimentos estudantis decidiram não realizar protestos depois da Lei. Assim, nos dias 18/19/20/21 até onde eu sei, só Gwangju estava resistindo as repressões.
 
-![Fotos explicadas abaixo.](assets/img/d12c-bodies-5-21.jpg)
+![Fotos explicadas abaixo.](/assets/img/d12c-bodies-5-21.jpg)
 
 Uma imagem bastante emblemática, forte e revoltante. É uma história que acabou sendo o ponto chave para pessoas irem as ruas lutarem. Está vendo um carrinho de mão bem no meio desse grupo de pessoas, cheio de bandeiras sul coreanas? Se repararem bem vai perceber uma perna saindo dele logo abaixo. Sim, é um corpo de uma pessoa morta durante os ataques que aconteceram nas estações de trem, muito provavelmente. O corpo foi encontrado e colocado dentro do carrinho. Não só um corpo, mas são dois corpos de pessoas mortas que estão aí dentro. Esses corpos acabaram por serem uma símbolo representativo de luta do povo de Gwangju e de toda violência que estava acontecendo na cidade. A notícia desses corpos circulou entre a população que por conta disso conseguiu reunir milhares de pessoas para protestar no dia 20, taxistas inclusos. Foram por conta dessas duas vítimas encontradas mortas na rua que a raiva veio a tona e a luta de toda Gwangju, unida com um só propósito, começou.
 
 *Fotos: Robin Moyer*
 
-![Foto de uma pessoa com capacete e uma arma com a mira apontada para fora em meio ao vidro quebrado da parte da frente de um ônibus](assets/img/robin-moyer-foto-2.png)
+![Foto de uma pessoa com capacete e uma arma com a mira apontada para fora em meio ao vidro quebrado da parte da frente de um ônibus](/assets/img/robin-moyer-foto-2.png)
 
-![Foto de 3 pessoas com roupas casuais, capacetes de proteção, armas apontadas, mascaras brancas no rosto, atrás de troncos grandes de árvores.](assets/img/robin-moyer-foto.png)
+![Foto de 3 pessoas com roupas casuais, capacetes de proteção, armas apontadas, mascaras brancas no rosto, atrás de troncos grandes de árvores.](/assets/img/robin-moyer-foto.png)
 
 Algumas fotos da milícia armada de Gwangju. Foi um dos grupos mais importantes para que a raiva da população fosse canalizada para luta contra os militares. Qualquer um que era capaz de usar uma arma, podia ser encarregado de proteger determinados locais. Isso era decidido entre a população. Aqueles que já tinham ido no exército e principalmente homens jovens dispostos a aprender a atirar.
 
 *Foto: Robin Moyer (colorizada)*
 
-![Foto explicada abaixo.](assets/img/92c0a977-c853-4098-8c3e-6eb4dc9a055c.jpg)
+![Foto explicada abaixo.](/assets/img/92c0a977-c853-4098-8c3e-6eb4dc9a055c.jpg)
 
 A foto acima é muito interessante de ser analisada pois creio que seja uma das poucas fotos tiradas nos ginásios, onde os caixões era colocados, que é possível ver o andar de cima. A maioria das fotos são de caixões porém com poucas pessoas em volta. A foto acima mostra ser diferente. Centenas de pessoas em luto por conhecidos e desconhecidos. Por ela, é possível até deduzir que muito mais pessoas estavam dentro do ginásio prestando condolências. Assim como em Youth of May mostra, os caixões eram revestidos com a bandeira da Coreia justamente para simbolizar o motivo pelo qual a pessoa se foi. Lutando pela democracia.
 

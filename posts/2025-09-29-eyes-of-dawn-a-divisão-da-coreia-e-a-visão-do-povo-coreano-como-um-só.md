@@ -44,19 +44,19 @@ Eyes of Dawn (Olhos do Amanhecer) é uma adaptação para a televisão do romanc
 
 ## Elenco
 
-![Mulher coreana de cabelo liso preso com franja com olhar triste](assets/img/6.jpg "Chae Si Ra como Yoon Yeook")
+![Mulher coreana de cabelo liso preso com franja com olhar triste](/assets/img/6.jpg "Chae Si Ra como Yoon Yeook")
 
 ### Chae Si Ra como Yoon Yeook
 
 Um jovem mulher que foi condicionada a ser uma mulher de conforto durante a guerra e era submetida a múltiplas “sessões”. Conseguiu fugir, grávida, recebendo ajuda de Jang Harim. Yeook teve que se tornar uma mulher forte após a notícia da gravidez, e fez de tudo para sobreviver nesse tempo difícil de guerra, sendo condicionada a diversos tipos de trabalho.
 
-![Homem coreano com roupa militar de inverno durante a segunda guerra mundial, olha para fora de uma cerca de metal](assets/img/8.jpg "Choi Jae Seong como Choi Dae Chi")
+![Homem coreano com roupa militar de inverno durante a segunda guerra mundial, olha para fora de uma cerca de metal](/assets/img/8.jpg "Choi Jae Seong como Choi Dae Chi")
 
 ### Choi Jae Seong como Choi Dae Chi
 
 Um jovem coreano que foi obrigado a lutar junto com os japoneses. Conhece Yeook na China em um dos alojamentos. Apaixonam-se e Dae Chi a engravida. Faz de tudo para que Yeook não se submeta a “sessões”. Apesar disso, com a guerra, foram obrigados a se separaram com uma promessa de reencontro.
 
-![Homem coreano com lágrimas no rosto e um olhar vazio](assets/img/9.jpg "Park Sang Won como Jang Harim")
+![Homem coreano com lágrimas no rosto e um olhar vazio](/assets/img/9.jpg "Park Sang Won como Jang Harim")
 
 ### Park Sang Won como Jang Harim
 
@@ -68,7 +68,7 @@ A história é composta por basicamente 3 grandes partes históricas que são co
 
 Para nós, pessoas não coreanas, é difícil deduzir e “sacar” algumas cenas e informações que o drama apresenta. Muitas informações históricas são cobertas em cada episódio mas assistindo com um olhar estrangeiro fica complicado entender e sentir o peso que aquela cena representa e esse foi uma dos motivos que demorei para terminar. Em contrapartida, mesmo não sabendo nada da história da Coreia, o drama consegue fazer você entender como o termo Coreia do Norte e Coreia do Sul surgiram.
 
-![Choi Dae Chi abraçando por trás Yoon Yeook](assets/img/1.jpg "Período colonial pré-1945")
+![Choi Dae Chi abraçando por trás Yoon Yeook](/assets/img/1.jpg "Período colonial pré-1945")
 
 ## Período colonial pré-1945
 
@@ -100,7 +100,7 @@ Daechi torna-se um oficial do partido do norte e vai para um missão no Sul quan
 
 Após descoberta de espionagem ambos escapam para Jeju e juntam-se a população contra o exército americano que estavam massacrando os civis. Harim, também está em Jeju para a missão de reportar o andamento das ações do exército americano na ilha. Os protestos e lutas dos civis com o comando de Daechi não dão certo e assim ele abandona a ilha para voltar para Pyeongyang, abandonando seu filho e sua esposa. Assim, Yeook é presa por um policial que a reconheceu como espiã do norte e é sentenciada a morte.
 
-![Ahn Myeonji, mulher coreana de pele clara e batom vermelho com cabelos ondulados curto.](assets/img/3.jpg "Ahn Myeonji")
+![Ahn Myeonji, mulher coreana de pele clara e batom vermelho com cabelos ondulados curto.](/assets/img/3.jpg "Ahn Myeonji")
 
 ## Guerra da Coreia
 
@@ -110,7 +110,7 @@ Quando a Guerra da Coreia começa e o exército do Povo, liderado pelo revolucio
 
 Harim com sua atuação excelente no exército americano junta-se como comandante para liderar batalhas contra guerrilheiros e soldados do norte. Yeook tenta sobreviver da maneira que consegue indo e vindo de cidade em cidade. Daechi vai para guerra também como comandante mas do Exército do Povo e mais tarde como guerrilheiro. Os 3 personagens reencontram-se na batalha no Monte Jiri (Jirisan) onde os últimos momentos dos personagens são mostrados.
 
-![Choi Dae Chi em prantos](assets/img/12.jpg "Choi Dae Chi")
+![Choi Dae Chi em prantos](/assets/img/12.jpg "Choi Dae Chi")
 
 ## Análise
 
@@ -134,7 +134,7 @@ Eyes of Dawn é um drama importante em diversos aspectos, tanto no sentido de pr
 
 Eyes of Dawn é um drama obrigatório para quem gosta de produções sul-coreanas e quer entender a história do audiovisual do país. Não vai existir mais um drama que narra a história do povo coreano com tanta fidelidade e qualidade de produção e por isso que Eyes of Dawn é único e importante.
 
-![Título do drama em coreano](assets/img/13.jpg "Eyes of Dawn")
+![Título do drama em coreano](/assets/img/13.jpg "Eyes of Dawn")
 
 # Onde assistir Eyes of Dawn em Português
 
@@ -144,8 +144,8 @@ Foi trabalhoso pesquisar os acontecimentos históricos e verificar se de fato o 
 
 Estão disponíveis tanto em formato 480p como em formato de 1080p que podem ser baixados no link abaixo.
 
-Eyes of Dawn (480p) - Legenda em português: <a href="https://eyesofdawn480p.tiemi.dev" target="_blank">eyesofdawn480p.tiemi.dev</a>\
-Eyes of Dawn (1080p) - Legenda em português: <a href="https://eyesofdawn1080p.tiemi.dev" target="_blank">eyesofdawn1080p.tiemi.dev</a>\
-Canal Eyes of Dawn (disponível apenas em 480p): <a href="https://eyesofdawncanal.tiemi.dev" target="_blank">eyesofdawncanal.tiemi.dev</a>
+Eyes of Dawn (480p) - Legenda em português: eyesofdawn480p . tiemi . dev
+Eyes of Dawn (1080p) - Legenda em português: eyesofdawn1080p.tiemi.dev
+Canal Eyes of Dawn (disponível apenas em 480p): eyesofdawncanal . tiemi . dev
 
 Caso encontrem algum erro na legenda, entre em contato comigo que faço a correção.

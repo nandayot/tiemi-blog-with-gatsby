@@ -1,8 +1,8 @@
 import styled from "styled-components"
 import media from "styled-media-query"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
-import Img from "gatsby-image"
-
+// import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { GatsbyImage } from "gatsby-plugin-image"
+import { Link } from "gatsby"
 
 export const MenuBarWrapper = styled.aside`
   align-items: center;
@@ -18,6 +18,7 @@ export const MenuBarWrapper = styled.aside`
   width: 3.75rem;
   border-right: 1px solid var(--borders);
   transition: background 0.5s;
+  z-index: 1000;
   ${media.lessThan("small")`
     border-top: 1px solid var(--borders);
     bottom: 0;
@@ -38,7 +39,7 @@ export const MenuBarGroup = styled.div`
   `}
 `
 
-export const MenuBarLink = styled(AniLink)`
+export const MenuBarLink = styled(Link)`
   display: block;
 
   &.active {
@@ -93,7 +94,7 @@ export const MenuBarItem = styled.span`
     width: 3.2rem;
   `}
 `
-export const AvatarWrapper = styled(Img)`
+export const AvatarWrapper = styled(GatsbyImage)`
   margin: auto;
   height: 1.875rem;
   width: 1.875rem;

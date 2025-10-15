@@ -36,7 +36,7 @@ tight: true
 ```
 
 
-![Colagem de fotos da Sunwoo Junga. Nesta ela possui cabelos bem curtos com coloração verde escuro e brincos de argola](assets/img/sunwoo1.png)
+![Colagem de fotos da Sunwoo Junga. Nesta ela possui cabelos bem curtos com coloração verde escuro e brincos de argola](/assets/img/sunwoo1.png)
 
 # Quem é Sunwoo JungA?
 
@@ -86,7 +86,7 @@ Só citei no meio kpop mas ela já produziu diversas músicas para outros artist
 
 .
 
-![Colagem de fotos da Sunwoo Junga. Nesta ela está de terno e calças azul turquesa, cabelos curtos louro e faz diferentes poses para fotos.](assets/img/sunwoo3.png)
+![Colagem de fotos da Sunwoo Junga. Nesta ela está de terno e calças azul turquesa, cabelos curtos louro e faz diferentes poses para fotos.](/assets/img/sunwoo3.png)
 
 # Sua trajetória
 
@@ -152,7 +152,7 @@ Vou tentar ser breve e resumir tudo que falei dela aqui. Versátil. Sunwoo tem s
 
 .
 
-![Diferentes colagens de fotos da Sunwoo Junga.](assets/img/sunwoo4.png)
+![Diferentes colagens de fotos da Sunwoo Junga.](/assets/img/sunwoo4.png)
 
 # Participações
 
@@ -220,7 +220,7 @@ Se você chegou até aqui já vai ter percebido que a grande influência nas mú
 
 .
 
-![Foto de capa dos últimos dois EPs e Album lançados no ano de 2019.](assets/img/sunwoo2.png)
+![Foto de capa dos últimos dois EPs e Album lançados no ano de 2019.](/assets/img/sunwoo2.png)
 
 # Finalização
 

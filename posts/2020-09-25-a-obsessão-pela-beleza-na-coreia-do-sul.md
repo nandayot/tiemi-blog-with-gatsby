@@ -25,7 +25,7 @@ exclude: Sumário
 tight: true
 ```
 
-![Foto da celebridade coreana Nana em uma publicidade de cosmético.](assets/img/nana.jpg)
+![Foto da celebridade coreana Nana em uma publicidade de cosmético.](/assets/img/nana.jpg)
 
 # Padrão de beleza
 
@@ -59,7 +59,7 @@ E todos esses padrões que homem tem de seguir também são reflexos do machismo
 
 # Padrão de beleza coreano
 
-![Foto da dupla de kpop AKMU.](assets/img/akmu.jpg)
+![Foto da dupla de kpop AKMU.](/assets/img/akmu.jpg)
 
 ## No Kpop
 
@@ -69,7 +69,7 @@ A indústria musical não só coreana mas de toda a Ásia sempre foi focada na b
 
 Muitos são obrigados a fazerem cirurgia plásticas em ordem de debutar em seus grupos. Outros, tentam resistir ao máximo. Os irmãos **AKMU** quando ganharam o reality show **KPOPSTAR** e assinaram com a YG, fizeram questão de deixar claro que não se comprometeriam, em hipótese alguma, em se submeter à cirurgias plásticas. É. Eles sabiam que não se enquadravam no padrão e já deixaram bem claro durante a contratação. Não vou me estender neste tópico do kpop, pois quero falar do padrão na sociedade comum.
 
-![Foto de um trecho da cena do clima do tempo do dorama Jealousy Incarnate](assets/img/jealousy.jpg)
+![Foto de um trecho da cena do clima do tempo do dorama Jealousy Incarnate](/assets/img/jealousy.jpg)
 
 ## Nos doramas
 
@@ -83,7 +83,7 @@ E um drama interessante é **My ID is Gangnam Beauty**, que fala justamente sobr
 
 Poderia ter citado diversos outros doramas para verem o quanto os coreanos são mergulhados dentro de esteriótipos. E isso é reproduzido continuamente.
 
-![Foto da protagonista do webtoon True Beauty. Onde metade de seu rosto está sem maquiagem, com óculos e espinhas e a outra metade com maquiagem e lentes de contato.](assets/img/true-beauty.jpg)
+![Foto da protagonista do webtoon True Beauty. Onde metade de seu rosto está sem maquiagem, com óculos e espinhas e a outra metade com maquiagem e lentes de contato.](/assets/img/true-beauty.jpg)
 
 ## Na cultura
 
@@ -91,7 +91,7 @@ Ultimamente eu venho lendo bastante webtoons. Um em especial chama a atenção. 
 
 Existem diversos tipos de entretenimento que banalizam este tipo de preconceito e acaba se tornando algo normal dentro do país.
 
-![imagem de produtos de beleza de marcas coreanas](assets/img/cosmetico.jpg)
+![imagem de produtos de beleza de marcas coreanas](/assets/img/cosmetico.jpg)
 
 # A indústria de cosméticos
 
@@ -103,7 +103,7 @@ Agora todos têm uma noção do quanto o mercado de cosméticos coreano é forte
 
 E todo esse faturamento é tudo graças a contínua imposição da beleza perfeita. Em que "cara lavada" é um estigma social. Estar maquiada é uma regra para todo tipo de afazer.
 
-![Foto de maquiagens destruídas.](assets/img/espartilho.jpg)
+![Foto de maquiagens destruídas.](/assets/img/espartilho.jpg)
 
 ## Adeus espartilho!
 
@@ -115,7 +115,7 @@ Assim, diversas mulheres publicavam fotos nessa hashtag com cosméticos quebrado
 
 # O extremismo da beleza
 
-![Foto de uma jornalista coreana. Uma foto dela sem óculos e outra com.](assets/img/oculos-ancora.jpg)
+![Foto de uma jornalista coreana. Uma foto dela sem óculos e outra com.](/assets/img/oculos-ancora.jpg)
 
 ### Não pode usar óculos!
 

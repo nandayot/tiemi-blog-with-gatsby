@@ -1,9 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-import getThemeColor from "../../utils/getThemeColor"
+import { useTheme } from 'styled-components';
 
 import * as S from "./styled"
+import { cover } from '../../animations/variants';
 
 const PostItem = ({
     source,
@@ -15,25 +16,28 @@ const PostItem = ({
     timeToRead,
     title,
     description,
-  }) => (
-    <S.PostItemLink to={slug} drip direction="right" bg={getThemeColor()} duration={0.6}>
-      <S.PostItemWrapper>
-        {(()=> {
-          if (source === 'blog-list') {
-            return <S.PostItemThumbnail src={thumbnail} />
-          }
-        })()}
-        <S.PostItemInfo>
-          <S.PostItemTag background={background}>{category}</S.PostItemTag>
-          <S.PostItemDate>
-            {date} • {timeToRead} min de leitura
-          </S.PostItemDate>
-          <S.PostItemTitle>{title}</S.PostItemTitle>
-          <S.PostItemDescription>{description}</S.PostItemDescription>
-        </S.PostItemInfo>
-      </S.PostItemWrapper>
-    </S.PostItemLink>
-  )
+  }) => {
+    const theme = useTheme();
+    return (
+      <S.PostItemLink to={slug} animation={cover(theme.background)}>
+        <S.PostItemWrapper>
+          {(()=> {
+            if (source === 'blog-list') {
+              return <S.PostItemThumbnail src={thumbnail} />
+            }
+          })()}
+          <S.PostItemInfo>
+            <S.PostItemTag background={background}>{category}</S.PostItemTag>
+            <S.PostItemDate>
+              {date} • {timeToRead} min de leitura
+            </S.PostItemDate>
+            <S.PostItemTitle>{title}</S.PostItemTitle>
+            <S.PostItemDescription>{description}</S.PostItemDescription>
+          </S.PostItemInfo>
+        </S.PostItemWrapper>
+      </S.PostItemLink>
+    );
+  };
 
 PostItem.propTypes = {
   slug: PropTypes.string.isRequired,

@@ -34,7 +34,7 @@ exclude: Sumário
 tight: true
 ```
 
-![Imagem dos 6 romances de Jane Austen. Minha coleção de livros.](assets/img/colecao.jpg "Minha coleção dos romances de Jane Austen.")
+![Imagem dos 6 romances de Jane Austen. Minha coleção de livros.](/assets/img/colecao.jpg "Minha coleção dos romances de Jane Austen.")
 
 # Minha coleção Jane Austen
 
@@ -51,7 +51,7 @@ Pode conter alguns spoilers sobre doramas.
 ˙\
 ˙
 
-![Header de uma mão escrevendo com nanquim em um papel.](assets/img/letter-hand.jpg)
+![Header de uma mão escrevendo com nanquim em um papel.](/assets/img/letter-hand.jpg)
 
 # Quem é Jane Austen?
 
@@ -76,7 +76,7 @@ Não vou contar em detalhes sobre as particularidades de Jane e de sua escrita m
 ˙\
 ˙
 
-![Header de uma cena do filme Orgulho e Preconceito em que aparece Elizabeth segurnado a mão de Darcy quando ele o ajuda a subir na carruagem.](assets/img/mao-darcy.jpg)
+![Header de uma cena do filme Orgulho e Preconceito em que aparece Elizabeth segurnado a mão de Darcy quando ele o ajuda a subir na carruagem.](/assets/img/mao-darcy.jpg)
 
 # Os 6 romances de Jane
 
@@ -212,7 +212,7 @@ Uma característica essencial que vi para escolher ele foi a relação dos irmã
 ## Conclusão
 
 
-![Foto poster do dorama Reply 1994 onde os 7 protagonistas estão em pé olhando para a camera um ao lado do outro.](assets/img/reply-1994.jpg)
+![Foto poster do dorama Reply 1994 onde os 7 protagonistas estão em pé olhando para a camera um ao lado do outro.](/assets/img/reply-1994.jpg)
 
 Se você gostou de Reply 1994, vai gostar de Mansfield Park. E se você leu Mansfield Park, é um dever assistir Reply 1994!
 
@@ -251,7 +251,7 @@ A grande semelhança se dá na relação entre os protagonistas. Ambos são amig
 ## Conclusão
 
 
-![Foto poster do dorama The Time We Were not in Love. Os dois protagonistas estão sentados numa escada olhando para a camera.](assets/img/the-time-we-were-not-in-love.jpg)
+![Foto poster do dorama The Time We Were not in Love. Os dois protagonistas estão sentados numa escada olhando para a camera.](/assets/img/the-time-we-were-not-in-love.jpg)
 
 Já atualiza sua lista de doramas e/ou sua lista de leitura e coloca esses nelas! Não irá se arrepender. Emma é um livro extraordinário, e detalha bastante a vida daquela época. Outros doramas que relembram Emma:
 
@@ -343,7 +343,7 @@ Resumindo. Recomendadíssimo a leitura de Persuasão para quem já assistiu e go
 ˙\
 ˙
 
-![Foto de uma cena do filme Orgulho e Preconceito em que completa a foto já mostrada acima. Está foto aqui mostra a face do Darcy quando ele empresta sua mão para Elizabeth subir na carruagem.](assets/img/darcy0.jpg)
+![Foto de uma cena do filme Orgulho e Preconceito em que completa a foto já mostrada acima. Está foto aqui mostra a face do Darcy quando ele empresta sua mão para Elizabeth subir na carruagem.](/assets/img/darcy0.jpg)
 
 # Finalização
 

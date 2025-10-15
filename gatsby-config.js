@@ -10,67 +10,51 @@ module.exports = {
     siteUrl: `https://tiemi.dev/`, //TROCAR
   },
   plugins: [
-    `gatsby-plugin-transition-link`,
+    `gatsby-plugin-image`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     // needs to be the first to work with gatsby-remark-images
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `uploads`,
         path: `${__dirname}/static/assets/img`,
+        name: `uploads`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
         path: `${__dirname}/src/images`,
+        name: `images`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `posts`,
         path: `${__dirname}/posts`,
+        name: `posts`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `pages`,
         path: `${__dirname}/src/pages`,
+        name: `pages`,
       },
     },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-relative-images",
-            options: {
-              name: "uploads",
-            },
-          },
-          {
             resolve: "gatsby-remark-images",
             options: {
-              maxWidth: 960,
-              linkImagesToOriginal: true,
+              maxWidth: 960
             },
           },
           `gatsby-remark-lazy-load`,
-          {
-            resolve: `gatsby-remark-table-of-contents`,
-            options: {
-              exclude: "Table of Contents",
-              tight: false,
-              ordered: false,
-              fromHeading: 1,
-              toHeading: 3,
-              className: "table-of-contents"
-            },
-          },
           {
             resolve: `gatsby-remark-autolink-headers`,
             options: {
@@ -80,13 +64,6 @@ module.exports = {
           },
           `gatsby-remark-prismjs`,
         ],
-      },
-    },
-    {
-      resolve: 'gatsby-background-image-es5',
-      options: {
-        // add your own characters to escape, replacing the default ':/'
-        specialChars: '/:',
       },
     },
     {
@@ -152,14 +129,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-mailchimp',
-      options: {
-        endpoint: 'https://social.us17.list-manage.com/subscribe/post?u=250c82102f83d291e47798794&amp;id=1a94510349', // url do seu endpoint
-      },
-    },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
-    {
       resolve: `gatsby-plugin-algolia-search`,
       options: {
         appId: process.env.GATSBY_ALGOLIA_APP_ID,
@@ -179,13 +148,13 @@ module.exports = {
         background_color: `#16202c`,
         theme_color: `#16202c`,
         display: `minimal-ui`,
-        icon: `src/images/logoFT.png`, // This path is relative to the root of the site.
+        icon: `src/images/my-notion-face-transparent.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-sitemap`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
-    `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-decap-cms`,
   ],
 }

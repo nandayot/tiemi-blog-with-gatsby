@@ -26,7 +26,7 @@ background: "#B31917"
 ---
 Uma resenha especial de um drama que mudou totalmente a minha vida e minha visão da Coreia do Sul. Um drama que me deu inúmeros motivos para assistir mais produções dos anos 90 e que sem dúvidas continua sendo o meu TOP1 drama coreano favorito. Não se acanhe por ser antigo, Sandglass tem uma produção digna de muitos prêmios que merecidamente ganhou. Você vai mergulhar na história sul-coreano dos anos 70 a 90 seguindos os passos de 3 personagens principais. Tem ação, romance, drama e muita visão contemporânea da Coreia do Sul por essas décadas.
 
-![Poster promocional de Sandglass onde mostra os 3 personagens principais.](assets/img/5-sanglass-tiemi-dev.jpg "Poster promocional de Sandglass onde mostra os 3 personagens principais.")
+![Poster promocional de Sandglass onde mostra os 3 personagens principais.](/assets/img/5-sanglass-tiemi-dev.jpg "Poster promocional de Sandglass onde mostra os 3 personagens principais.")
 
 ## Detalhes Técnicos + Enredo
 
@@ -45,37 +45,37 @@ Sandglass significa ampulheta, e no próprio drama um dos personagens cita um do
 
 ## Personagens
 
-![Park Tae Soo (por Choi Min Soo)](assets/img/6-sanglass-tiemi-dev.jpg "Park Tae Soo (por Choi Min Soo)")
+![Park Tae Soo (por Choi Min Soo)](/assets/img/6-sanglass-tiemi-dev.jpg "Park Tae Soo (por Choi Min Soo)")
 
 ### Park Tae Soo (por Choi Min Soo)
 
 Park Tae Soo é um jovem de espírito livre. Por não se dar bem nos estudos e por um infortúnio de seu passado, acabou por não conseguir prestar faculdade. Desde adolescente sempre metia-se em brigas e era reconhecido pela suas habilidades de luta por diversas gangues do país. Com isso, acaba se tornando um gangster e um dos chefs principais de uma das gangues de Seoul. Seu nome então se tornou famoso nesse meio e todos o respeitavam, vendo-o como símbolo de disciplina e lealdade pelas gangues.
 
-![Kang Woo Seok (por Park Sang Won)](assets/img/7-sanglass-tiemi-dev.jpg "Kang Woo Seok (por Park Sang Won)")
+![Kang Woo Seok (por Park Sang Won)](/assets/img/7-sanglass-tiemi-dev.jpg "Kang Woo Seok (por Park Sang Won)")
 
 ### Kang Woo Seok (por Park Sang Won)
 
 Kang Woo Seok sempre foi o mais inteligente da turma. Por ter paixão em estudar e apoio de seu pai, ele torna-se um rapaz com um senso de justiça muito grande fazendo com que suas escolhas sejam baseadas puramente no seu caráter e intelecto. Consegue entrar na faculdade de direito e sonha em passar no exame final e tornar-se promotor. Melhor amigo de infância do Park Tae Soo, os dois sempre estiveram juntos não importa a situação e momento.
 
-![Yoon Hye Rin (por Go Hyun Jung)](assets/img/8-sanglass-tiemi-dev.jpg "Yoon Hye Rin (por Go Hyun Jung)")
+![Yoon Hye Rin (por Go Hyun Jung)](/assets/img/8-sanglass-tiemi-dev.jpg "Yoon Hye Rin (por Go Hyun Jung)")
 
 ### Yoon Hye Rin (por Go Hyun Jung)
 
 Colega de faculdade de Woo Seok, tenta manter sua verdadeira identidade fora de cena mas isso não dura muito. Filha e herdeira da fortuna de seu pai, chefão dos cassinos da Coreia, Yoon Jae Yong, possui uma relação conturbada com sua família e não aceita o estilo de vida de seu pai. Faz de tudo para não ser associada com os negócios da família. Eventualmente, conhece Park Tae Soo por meio de Woo Seok.
 
-![Baek Jae Hee (por Lee Jung Jae)](assets/img/9-sanglass-tiemi-dev.jpg "Baek Jae Hee (por Lee Jung Jae)")
+![Baek Jae Hee (por Lee Jung Jae)](/assets/img/9-sanglass-tiemi-dev.jpg "Baek Jae Hee (por Lee Jung Jae)")
 
 ### Baek Jae Hee (por Lee Jung Jae)
 
 Guarda-costa pessoal de Yoon Hye Rin, contratado pelo pai para vigiar sua filha o tempo todo. Jae Hee conhece Hye Rin desde adolescente quando a salva de um sequestro, arquitetado por um inimigo de seu pai. Desde então, é encarregado de tirar Hye Rin de confusões e brigas para impedir que a figura de Yoon Jae Yong não se manche. Suas habilidades de Kendo mostradas no drama o ajudam a sair com vida em lutas com desvantagem.
 
-![4 outros personagens masculinos importantes](assets/img/10-sanglass-tiemi-dev.jpg "4 outros personagens masculinos importantes")
+![4 outros personagens masculinos importantes](/assets/img/10-sanglass-tiemi-dev.jpg "4 outros personagens masculinos importantes")
 
 ### Outros Personagens
 
 Outros personagens são tão importantes quanto os de cima. Um deles é o pai da Hye Rin, Yoon Jae Yong, que conseguiu erguer seu império com ajuda do governo e por meio de métodos ilegais que praticava. Kang Dong Hwan, é um político e chefe do Departamento Nacional de Planejamento de Segurança, acaba por realizar negócios com Yoon e comprar ações de seus cassinos bem como algumas máquinas caça-níqueis. Jang Do Sik é um executivo do departamento de Dong Hwan e responsável por todas as operações ilegais que o seu chefe possui. Lee Jong Do é amigo de infância de Park Tae Soo que também seguiu para o lado negro da política, realizando os mesmos trabalhos que Tae Soo, inicialmente fazendo parte da mesma gangue que ele. Sua arrogância, ganância e orgulho faz com que sempre almeje ficar no topo e se tornar um chefe de cassino mais poderoso que Yoon Jae Yong.
 
-![Imagem de Kang Wook Seok e Yoon Hye Rin](assets/img/11-sanglass-tiemi-dev.jpg "Imagem de Kang Wook Seok e Yoon Hye Rin")
+![Imagem de Kang Wook Seok e Yoon Hye Rin](/assets/img/11-sanglass-tiemi-dev.jpg "Imagem de Kang Wook Seok e Yoon Hye Rin")
 
 ## Análise e características
 
@@ -99,7 +99,7 @@ Falar sobre os pontos negativos do drama é algo muito difícil. Pensei bastante
 
 Como já falado anteriormente, Sandglass foi único drama da época a contar de maneira detalhada alguns acontecimentos políticos e sociais da história coreana moderna. Vou citar os 4 principais, e creio que se você assistir depois, vai ajudar muito a entender o que se passa no drama. Os primeiros episódios são difíceis de entender, eu particularmente, só fui entender depois que procurei sobre os incidentes e fui rever essas cenas, então as informações abaixo vão facilitar muito.
 
-![Duas fotos, na primeira gangsters invadem a convenção nacional e causam tumulto, na segunda Kim Young Sam é eleito dias depois em votação fechada.](assets/img/13-sanglass-tiemi-dev.jpg "Duas fotos, na primeira gangsters invadem a convenção nacional e causam tumulto, na segunda Kim Young Sam é eleito dias depois em votação fechada")
+![Duas fotos, na primeira gangsters invadem a convenção nacional e causam tumulto, na segunda Kim Young Sam é eleito dias depois em votação fechada.](/assets/img/13-sanglass-tiemi-dev.jpg "Duas fotos, na primeira gangsters invadem a convenção nacional e causam tumulto, na segunda Kim Young Sam é eleito dias depois em votação fechada")
 
 ### Convenção Nacional do Novo Partido Democrático
 
@@ -107,7 +107,7 @@ A convenção aconteceu no dia 25 de Maio de 1976, onde seria a nomeação ofici
 
 Esse é um evento que acontece nos primeiros minutos do 1º episódio de Sandglass então é MUITO importante entender esse ambiente. Park Tae Soo e outros gangsters foram ordenados a assaltar o local a mando de um senador. O suposto líder, Kim Young Sam, foi obrigado a pular do segundo andar do prédio. Isso aconteceu de VERDADE, e essa cena é mostrado no drama. Eu realmente pensei que isso era algo fictício, mas após procurar entender a situação, é quase que inacreditável. ([](https://www.nytimes.com/1976/06/08/archives/opposition-party-in-south-korea-beset-by-bitter-factional-disputes.html)[🔗](https://www.nytimes.com/1976/06/08/archives/opposition-party-in-south-korea-beset-by-bitter-factional-disputes.html))
 
-![Duas fotos, na primeira: greve das mulheres na sede do partido; na segunda: velório de Kim Kyung Sook.](assets/img/14-sanglass-tiemi-dev.jpg "Duas fotos, na primeira: greve das mulheres na sede do partido; na segunda: velório de Kim Kyung Sook.")
+![Duas fotos, na primeira: greve das mulheres na sede do partido; na segunda: velório de Kim Kyung Sook.](/assets/img/14-sanglass-tiemi-dev.jpg "Duas fotos, na primeira: greve das mulheres na sede do partido; na segunda: velório de Kim Kyung Sook.")
 
 ### Incidente YH
 
@@ -122,7 +122,7 @@ Foi um conflito entre os cidadãos da cidade de Gwangju contra as tropas militar
 
 Sandglass também mostra em alguns episódios o conflito que ocorreu na cidade. E se for comparar com outras produções feitas até agora, posso dizer também que Sandglass foi o que melhor adaptou para as telas. O drama mistura cortes de vídeos reais do conflito com as cenas do drama com o objetivo de imergir os personagens dentro da história e mostrar nas telas o medo e angústia que os cidadãos de Gwangju passaram naqueles dias. Como a tecnologia dos anos 80 e 90 não mudou tanto, você pode até ficar confuso em discernir qual cena é real ou não. Não apenas as cenas reais, mas o ponto de vista da população no geral, não somente focando nos taxistas e estudantes, também foi uma escolha muito boa de direção.
 
-![imagens reais de Samcheong.](assets/img/15-sanglass-tiemi-dev.jpg "imagens reais de Samcheong.")
+![imagens reais de Samcheong.](/assets/img/15-sanglass-tiemi-dev.jpg "imagens reais de Samcheong.")
 
 ### Centro de Reeducação Samcheong
 
@@ -130,7 +130,7 @@ O centro de reeducação foi estabelecido durante os primeiros meses de governo 
 
 Sandglass, novamente, retrata esse acontecimento de forma muito dramática e realística. Um de seus personagens é levado para Samcheong coercivamente com a promessa de libertá-lo após 6 meses de trabalho. As cenas são tão fortes que até parece que os atores realmente sofreram gravando. ([🔗](https://www.nytimes.com/1981/09/20/world/seoul-said-to-hold-15000-in-camps-without-trial.html))
 
-![Cena de um dos episódios do drama coreano Reply 1994](assets/img/16-sanglass-tiemi-dev.jpg "Cena de um dos episódios do drama coreano Reply 1994")
+![Cena de um dos episódios do drama coreano Reply 1994](/assets/img/16-sanglass-tiemi-dev.jpg "Cena de um dos episódios do drama coreano Reply 1994")
 
 ## Popularidade
 
@@ -143,7 +143,7 @@ A atmosfera que Reply 1994 passa é totalmente verídica. Para ser premiado como
 A estratégia da SBS em transmitir o drama nas Segundas, Terças, Quartas e Quintas consecutivamente, fez com que os demais dramas de outras emissoras estivessem uma audiência muito baixa, monopolizando todo o público televisivo, com o último episódio obtendo uma marca de 64%. Não apenas sucesso na TV mas após Sandglass, a estação Jeongdongjin, localizada na cidade de mesmo nome, começou a receber milhares de turistas depois de aparecer brevemente em uma das cenas do drama. A venda de ampulhetas de verdade cresceu muito após Sandglass e Dojos que treinam Kendo também começaram a receber novos alunos tudo por
  causa do personagem de Lee Jung Jae. ([🔗](https://namu.wiki/w/%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84(%EB%93%9C%EB%9D%BC%EB%A7%88)))
 
-![Imagens do ator Lee Jung Jae recebendo premio de melhor novo ator no 31º Baeksang Arts Awards (1995)](assets/img/17-sanglass-tiemi-dev.jpg "Imagens do ator Lee Jung Jae recebendo premio de melhor novo ator no 31º Baeksang Arts Awards (1995)")
+![Imagens do ator Lee Jung Jae recebendo premio de melhor novo ator no 31º Baeksang Arts Awards (1995)](/assets/img/17-sanglass-tiemi-dev.jpg "Imagens do ator Lee Jung Jae recebendo premio de melhor novo ator no 31º Baeksang Arts Awards (1995)")
 
 ## Prêmios
 
@@ -175,7 +175,7 @@ Era de se esperar que o drama de tanto sucesso fosse premiado com várias conqui
 * Daesang (Grande Prêmio)
 * Melhor Drama
 
-![Imagens do drama Sandglass onde mostra a personagem Yoon Hye Rin](assets/img/18-sanglass-tiemi-dev.jpg "Imagens do drama Sandglass onde mostra a personagem Yoon Hye Rin")
+![Imagens do drama Sandglass onde mostra a personagem Yoon Hye Rin](/assets/img/18-sanglass-tiemi-dev.jpg "Imagens do drama Sandglass onde mostra a personagem Yoon Hye Rin")
 
 ## Onde assistir
 

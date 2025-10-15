@@ -39,7 +39,7 @@ from-heading: 1
 to-heading: 6
 ```
 
-![Imagem dos integrantes da banda. Da esquerda para direita: Hyunjae, Donggun, Oh Hyuk, Inwoo. Fundo Branco.](assets/img/hyukoh1.png)
+![Imagem dos integrantes da banda. Da esquerda para direita: Hyunjae, Donggun, Oh Hyuk, Inwoo. Fundo Branco.](/assets/img/hyukoh1.png)
 
 # Hyukoh?
 
@@ -55,7 +55,7 @@ Hyukoh é uma banda de indie rock que debutou no ano de 2014 pela sub-label da Y
 
 ☟ 
 
-![Colagem de fotos da banda. Uma delas dentro do estúdio de música Real World Studio](assets/img/hyukoh2.png)
+![Colagem de fotos da banda. Uma delas dentro do estúdio de música Real World Studio](/assets/img/hyukoh2.png)
 
 # Visão geral do álbum
 
@@ -83,13 +83,13 @@ Dessa vez a banda resolveu cortar o padrão numérico que foi sempre presente em
 
 Muitos fãs se surpreenderam em receber um álbum diferente do que estão acostumados deles. Nos álbuns anteriores, 23 e 24, a banda tinha letras maiores e mais acusadoras, elas mostravam o protesto da banda com relação a alguma questão sociopolítica, tinha uma vibe inquisitiva. Além do som pesado de rock que estávamos acostumados como em **Wanli** ou em **Citizen Kane**. Mas em Through Love as músicas se tornam menos carregadas de letras e com melodias calmas a tranquilas, mostrando um novo lado da banda, que, na verdade, sempre existiu.
 
-![Colagem de fotos da banda. ](assets/img/hyukoh4.png)
+![Colagem de fotos da banda. ](/assets/img/hyukoh4.png)
 
 ## Minha visão
 
 Isso foi a visão dos fãs mas para mim Hyukoh não me surpreendeu neste quesito. Não me surpreendeu em nada pois sempre acreditei no potencial deles de inovar e trazer músicas bem trabalhadas e de qualidade. Sempre soube que a banda tinha esse lado experimental e tranquilo. Como se estivesse voltando as suas raízes. Para mim, vi muitas semelhanças técnicas entre o álbum 20/22 com Through Love. No começo da carreira, a banda só se preocupava em fazer música por diversão e depois eles começaram a introduzir um discurso subversivo em 23/24 engajando na luta contra a desigualdade, homofobia e outras pautas importantes. Foi quando começaram a se tornar conhecidos. Agora eles voltaram na questão de fazer música focando em trazer o melhor deles, a melhor qualidade, algo que eles nunca irão se arrepender de entregar ao público mas com uma mensagem pacífica para um mundo muito mais cruel que se tornou. Como fosse um remédio que amenizasse as dores e indignações que este mundo traz para nós e para eles também. Eu sempre acreditei que eles eram capazes disso.
 
-![Fotografia de plantas de diversas espécies. Em destaque uma aparentemente murchada. Tirada pelo fotógrado Wolfgang Tillmans.](assets/img/69192.jpg)
+![Fotografia de plantas de diversas espécies. Em destaque uma aparentemente murchada. Tirada pelo fotógrado Wolfgang Tillmans.](/assets/img/69192.jpg)
 
 ## Sobre a capa do álbum
 
@@ -260,7 +260,7 @@ Quando a letra termina e os instrumentos e sons permanecem podemos perceber um s
 
 ☟
 
-![Colagem de fotos da banda. Em destaque: Fotos dos membros com amigos dentro de um estúdio de gravação.](assets/img/hyukoh5.png)
+![Colagem de fotos da banda. Em destaque: Fotos dos membros com amigos dentro de um estúdio de gravação.](/assets/img/hyukoh5.png)
 
 # A revelação
 
@@ -282,7 +282,7 @@ O que também consegui entender do álbum, vendo todas as previews no Youtube, o
 
 ☟ 
 
-![Colagem de fotos da banda, fundo preto e foto com flash que destaca os membros.](assets/img/hyukoh3.png)
+![Colagem de fotos da banda, fundo preto e foto com flash que destaca os membros.](/assets/img/hyukoh3.png)
 
 # Finalização
 

@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Hit from "./Hit"
-import { InstantSearch, SearchBox, Hits, Stats } from "react-instantsearch-dom"
+import { InstantSearch, SearchBox, Hits, Stats } from "react-instantsearch"
 import algoliasearch from "algoliasearch/lite"
 
 import * as S from "./styled"

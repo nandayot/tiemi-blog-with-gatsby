@@ -27,7 +27,7 @@ background: "#E7881D"
 
 Veio aí um blog controverso assim como o drama desse blog e meu cancelamento pelas BLINKS de plantão. Brincadeiras a parte, aqui vou redigir uma longa análise crítica sobre o drama que cativou milhares de dorameiros recentemente e vi até alguns coreanos pedindo segunda temporada (??). É meus amigos, essa síndrome da netflix tá acabando com as pessoas. Aviso que o blog é longo e se você não tem culhão para ler crítica do seu dorama preferido nem adianta ler o meu blog. (Não julgo pois seria assim caso alguém falasse mal de Secret Forest, até agora vi ninguém falando mal pois realmente é um drama sem defeitos).
 
-![Poster do dorama da jtbc/disney+ Snowdrop. Um homem de terno e uma mulher de vestido olhando para câmera em pé. Atrás deles, uma escada de madeira.](assets/img/9-poster.png "Poster Snowdrop.")
+![Poster do dorama da jtbc/disney+ Snowdrop. Um homem de terno e uma mulher de vestido olhando para câmera em pé. Atrás deles, uma escada de madeira.](/assets/img/9-poster.png "Poster Snowdrop.")
 
 # Ficha Técnica + enredo
 
@@ -57,7 +57,7 @@ Creio que já falei dos pontos que considerei positivo no drama, agora vem as pa
 
 \-- Na foto: Cheo Yeong e seu marido
 
-![Uma mulher de óculos e cabelo de comprimento médio. Cheo Yeong. Ao lado seu marido que usa óculos.](assets/img/1-choyeong.png "Cheo Yeong e seu marido")
+![Uma mulher de óculos e cabelo de comprimento médio. Cheo Yeong. Ao lado seu marido que usa óculos.](/assets/img/1-choyeong.png "Cheo Yeong e seu marido")
 
 # Críticas
 
@@ -77,7 +77,7 @@ Mas não ficou por isso, depois de muitos protestos e repercussão negativa, **o
 
 \--Na foto: A música '솔아 솔아 푸르른 솔아' foi colocada no segundo álbum do projeto [노래를 찾는 사람들](https://music.youtube.com/browse/MPREb_WfxDp39APRh) (Pessoas que procuram músicas), onde cantores, músicos e compositores se reúnem para gravar músicas tradicionais coreanas. Os álbuns do projeto são carregados de canções usadas nos movimentos democráticos. O segundo álbum foi lançado em 1988 e foi um grande sucesso na época, sendo até hoje um dos mais conhecidos.
 
-![Foto do álbum 노래를 찾는 사람들](assets/img/7-solah.png "Foto do álbum 노래를 찾는 사람들")
+![Foto do álbum 노래를 찾는 사람들](/assets/img/7-solah.png "Foto do álbum 노래를 찾는 사람들")
 
 ## Música episódio 2
 
@@ -89,7 +89,7 @@ Dizer que o enredo não tem como foco os movimentos democráticos daquele ano (r
 
 \-- Na foto: Escritora Yoo Hyun Mi e presidente Yoon Seok Yeol.
 
-![Escritora Yoo Hyun Mi e presidente Yoon Seok Yeol.](assets/img/2-yumi.png "Escritora Yoo Hyun Mi e presidente Yoon Seok Yeol.")
+![Escritora Yoo Hyun Mi e presidente Yoon Seok Yeol.](/assets/img/2-yumi.png "Escritora Yoo Hyun Mi e presidente Yoon Seok Yeol.")
 
 ## KCIA e ANSP
 
@@ -105,7 +105,7 @@ Além disso, a escritora de Snowdrop, Yoo Hyun-Mi, já agradeceu ao político Yo
 
 \-- Na foto: Soldados Paramilitares na celebração do 73° aniversário da fundação da DPRK
 
-![Soldados Paramilitares na celebração do 73° aniversário da fundação da DPRK](assets/img/5-apresent.png "Soldados Paramilitares na celebração do 73° aniversário da fundação da DPRK")
+![Soldados Paramilitares na celebração do 73° aniversário da fundação da DPRK](/assets/img/5-apresent.png "Soldados Paramilitares na celebração do 73° aniversário da fundação da DPRK")
 
 ## Espião e Treinamento Militar Norte Coreano
 
@@ -123,7 +123,7 @@ Disse ela enquanto está vivendo literalmente em uma ditadura.
 
 \-- Na foto: Candidatos principais a presidência da Coreia do Sul em 2022. Lee Jae Myeong, Yoon Seok Yeol, Shim Sang Jeon, Ahn Cheol Soo.
 
-![Candidatos principais a presidência da Coreia do Sul em 2022. Lee Jae Myeong, Yoon Seok Yeol, Shim Sang Jeon, Ahn Cheol Soo](assets/img/4-candidatos.png "Candidatos principais a presidência da Coreia do Sul em 2022. Lee Jae Myeong, Yoon Seok Yeol, Shim Sang Jeon, Ahn Cheol Soo")
+![Candidatos principais a presidência da Coreia do Sul em 2022. Lee Jae Myeong, Yoon Seok Yeol, Shim Sang Jeon, Ahn Cheol Soo](/assets/img/4-candidatos.png "Candidatos principais a presidência da Coreia do Sul em 2022. Lee Jae Myeong, Yoon Seok Yeol, Shim Sang Jeon, Ahn Cheol Soo")
 
 ## Eleições Presidenciais
 
@@ -145,7 +145,7 @@ Deu para perceber que ela estava tensa em todas as cenas dela e não senti emoç
 
 \-- Na foto: Posters dos dramas Youth of May e Snowdrop
 
-![Posters dos dramas Youth of May e Snowdrop](assets/img/10-compare.png "Posters dos dramas Youth of May e Snowdrop")
+![Posters dos dramas Youth of May e Snowdrop](/assets/img/10-compare.png "Posters dos dramas Youth of May e Snowdrop")
 
 # Comparação com Youth of May
 
@@ -155,7 +155,7 @@ Deu para perceber que ela estava tensa em todas as cenas dela e não senti emoç
 
 \-- Na foto 2: Funeral de Lee Han Yeol no dia 09/07/1987 com mais de um milhão de pessoas prestando homenagem.
 
-![Park Jong Cheol (esq.), Lee Han Yeol (dir.) após ataque de bomba de gás lacrimogêneo em sua cabeça em 09/06/1987. E Funeral de Lee Han Yeol no dia 09/07/1987 com mais de um milhão de pessoas prestando homenagem.](assets/img/6-1987.png "Park Jong Cheol (esq.), Lee Han Yeol (dir.) após ataque de bomba de gás lacrimogêneo em sua cabeça em 09/06/1987. E Funeral de Lee Han Yeol no dia 09/07/1987 com mais de um milhão de pessoas prestando homenagem.")
+![Park Jong Cheol (esq.), Lee Han Yeol (dir.) após ataque de bomba de gás lacrimogêneo em sua cabeça em 09/06/1987. E Funeral de Lee Han Yeol no dia 09/07/1987 com mais de um milhão de pessoas prestando homenagem.](/assets/img/6-1987.png "Park Jong Cheol (esq.), Lee Han Yeol (dir.) após ataque de bomba de gás lacrimogêneo em sua cabeça em 09/06/1987. E Funeral de Lee Han Yeol no dia 09/07/1987 com mais de um milhão de pessoas prestando homenagem.")
 
 # O que realmente aconteceu em 1987
 
@@ -165,7 +165,7 @@ Tudo começou com a notícia da morte do estudante Park Jong Chol em Janeiro daq
 
 A história de Park Jong Chol e de Lee Han Yeol é contada no filme **1987: When The Days Come** com a Kim Tae Ri como protagonista, além de mostrar com fidelidade os acontecimentos daquele ano, a produção conseguiu encaixar, com leveza, um romance. Diferente de Snowdrop.
 
-![Cenas de bastidores de Snowdrop](assets/img/14-bts.png "Cenas de bastidores de Snowdrop")
+![Cenas de bastidores de Snowdrop](/assets/img/14-bts.png "Cenas de bastidores de Snowdrop")
 
 # Finalização
 

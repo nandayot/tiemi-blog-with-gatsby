@@ -39,7 +39,7 @@ Atualmente existem poucos cantores de Seodo Sori na Coreia do Norte. Os principa
 
 O governo sul coreano reconheceu a importância da cultura norte coreana com relação ao Seodo Sori. Em Setembro de 1969, Seodo Sori foi considerado um Patrimônio Cultural Intangível do País. Um título semelhante aos da UNESCO mas é apenas considerado dentro do âmbito nacional.
 
-![3 mulheres sentadas e cada uma delas está tocando instrumentos coreanos antigos. Usam roupas tradicionais coreanas, conhecidas como hanbok. E estão tocando os instrumento gayageum e janggu. As 3 mulheres estão em um palco onde possui um cenário tradicional com telas de divisão de bambu com desenhos antigos, conhecidos como manhwa.](assets/img/art_15725640622956_06de25.jpg "3 mulheres performando Seodo Sori.")
+![3 mulheres sentadas e cada uma delas está tocando instrumentos coreanos antigos. Usam roupas tradicionais coreanas, conhecidas como hanbok. E estão tocando os instrumento gayageum e janggu. As 3 mulheres estão em um palco onde possui um cenário tradicional com telas de divisão de bambu com desenhos antigos, conhecidos como manhwa.](/assets/img/art_15725640622956_06de25.jpg "3 mulheres performando Seodo Sori.")
 
 ## Técnicas e músicas
 
@@ -129,7 +129,7 @@ Por ser uma região que faz fronteira com a Coreia do Norte, antes da criação 
 
 
 
-![Foto das 3 mestres de Seodo Sori citadasno blog. Todas vestindo roupas tradicionais coreanas (hanbok) em um teatro com um cenário tradicional antigo de telas de divisão de bambu e pinturas de galhos e gramas. Estão sentada lado a lado. À esquerda está Yu Ji Sook, no centro está Oh Bok Nyeo segurando um janggu (tambor coreano), à direita está Kim Gwang Sook. Todas usam hanbok de tecido de seda rosa claro com detalhes em vinho.](assets/img/1624335.jpg "(esq. para dir.) Yu Ji Sook, Oh Bok Byeo e Kim Gwang Sook.")
+![Foto das 3 mestres de Seodo Sori citadasno blog. Todas vestindo roupas tradicionais coreanas (hanbok) em um teatro com um cenário tradicional antigo de telas de divisão de bambu e pinturas de galhos e gramas. Estão sentada lado a lado. À esquerda está Yu Ji Sook, no centro está Oh Bok Nyeo segurando um janggu (tambor coreano), à direita está Kim Gwang Sook. Todas usam hanbok de tecido de seda rosa claro com detalhes em vinho.](/assets/img/1624335.jpg "(esq. para dir.) Yu Ji Sook, Oh Bok Byeo e Kim Gwang Sook.")
 
 ## 🍁Seodo Sori moderno?
 

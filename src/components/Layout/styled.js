@@ -4,16 +4,13 @@ import media from "styled-media-query"
 
 export const LayoutWrapper = styled.section`
   display: flex;
-
-  ${media.lessThan("large")`
-    flex-direction: column;
-  `}
+  flex-direction: column;
 `
 
 export const LayoutMain = styled.main`
   background: var(--background);
   min-height: 100vh;
-  padding-left: 3.75rem;
+  padding-left: 1.75rem;
   transition: background, color 0.5s;
   width: 100%;
 
@@ -24,6 +21,6 @@ export const LayoutMain = styled.main`
   }
 
   ${media.lessThan("small")`
-    padding: 1rem 0 3rem 0;
+    padding: 0rem 0 3rem 0;
   `}
 `

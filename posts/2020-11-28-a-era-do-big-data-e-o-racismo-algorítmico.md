@@ -23,7 +23,7 @@ tags:
   - viés algorítmico
 background: "#2E29E0"
 ---
-![Foto de uma mulher chinesa com marcações em volta da face, simbolizando uma algoritmo de reconhecimento facial.](assets/img/coded_2-1536x864.jpg)
+![Foto de uma mulher chinesa com marcações em volta da face, simbolizando uma algoritmo de reconhecimento facial.](/assets/img/coded_2-1536x864.jpg)
 
 # Introdução
 
@@ -53,7 +53,7 @@ Por exemplo, eu quero predizer o valor de um imóvel baseado em dados como CEP, 
 
 <br><br>
 
-![Foto de perfil de Cathy. Cathy é uma mulher branca com olhos claros e cabelo curto azul.](assets/img/1-big-data.png)
+![Foto de perfil de Cathy. Cathy é uma mulher branca com olhos claros e cabelo curto azul.](/assets/img/1-big-data.png)
 
 # Weapons of Math Destruction - Cathy O'Neil (2016)
 
@@ -65,7 +65,7 @@ PredPol é um sistema que prediz, em tempo real, áreas de uma cidade onde tem u
 
 <br><br>
 
-![Foto de uma mapa com câmera infravermelha e ao lado foto de uma maá com quadrados vermelhos distribuídos.](assets/img/predpol.jpg)
+![Foto de uma mapa com câmera infravermelha e ao lado foto de uma maá com quadrados vermelhos distribuídos.](/assets/img/predpol.jpg)
 
 <br><br>
 
@@ -83,7 +83,7 @@ Cathy, durante o livro, também investiga diversos outros softwares que causam g
 
 <br><br>
 
-![Foto de Ruha Benjamin, foto de cabelo comprido preso com dreads. Ruha usa terno preto e está com as mãos cruzadas.](assets/img/2-big-data.png)
+![Foto de Ruha Benjamin, foto de cabelo comprido preso com dreads. Ruha usa terno preto e está com as mãos cruzadas.](/assets/img/2-big-data.png)
 
 # Race After Technology - Ruha Benjamin (2019)
 
@@ -103,7 +103,7 @@ No final do livro, Ruha mostra nos apêndices algumas iniciativas que vem sendo 
 
 <br><br>
 
-![Foto de Safiya Noble, cabelo preto cacheado aos ombros e sorrindo para a camera.](assets/img/3-big-data.png)
+![Foto de Safiya Noble, cabelo preto cacheado aos ombros e sorrindo para a camera.](/assets/img/3-big-data.png)
 
 # Algorithms of Oppression - Safiya Noble (2018)
 
@@ -121,7 +121,7 @@ Safiya responde, durante todo o seu livro, a pergunta "Esse site que aparece em 
 
 <br><br>
 
-![Foto de Meredith Broussard. Cabelo cacheado aos ombros.](assets/img/4-big-data.png)
+![Foto de Meredith Broussard. Cabelo cacheado aos ombros.](/assets/img/4-big-data.png)
 
 # Artificial Unintelligence - Meredith Broussard (2018)
 
@@ -139,7 +139,7 @@ Meredith também alerta sobre como a tecnologia foi desenvolvida basicamente por
 
 <br><br>
 
-![Foto de Virgnia Eubanks, cabelo curto grisalho com óculos. ](assets/img/5-big-data.png)
+![Foto de Virgnia Eubanks, cabelo curto grisalho com óculos. ](/assets/img/5-big-data.png)
 
 # Automating Inequality - Virgnia Eubanks (2018)
 
@@ -159,7 +159,7 @@ No final do livro, a autora também orienta e conclui que sistemas automatizados
 
 <br><br>
 
-![Foto do poster do documentário Coded Bias com uma imagem de uma pessoa negra vestida com uma máscara branca.](assets/img/coded_twitter_post_1024-x-512px.jpg)
+![Foto do poster do documentário Coded Bias com uma imagem de uma pessoa negra vestida com uma máscara branca.](/assets/img/coded_twitter_post_1024-x-512px.jpg)
 
 # CODED BIAS - 2020
 

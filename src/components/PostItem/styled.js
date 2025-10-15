@@ -1,8 +1,8 @@
 import styled from "styled-components"
 import media from "styled-media-query"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { TransitionLink } from '../TransitionLink'
 
-export const PostItemLink = styled(AniLink)`
+export const PostItemLink = styled(TransitionLink)`
   color: var(--texts);
   display: flex;
   text-decoration: none;
@@ -20,7 +20,6 @@ export const PostItemWrapper = styled.section`
   align-items: center;
   border-bottom: 1px solid var(--borders);
   display: flex;
-  padding: 2rem 3rem;
   width: 100%;
 
   body#grid & {
@@ -33,27 +32,30 @@ export const PostItemWrapper = styled.section`
   ${media.lessThan("medium")`
     align-items: center;
     flex-direction: column;
-    padding: 2rem 1rem;
+    padding: 0rem 1rem 1rem;
   `}
 `
 
 export const PostItemThumbnail = styled.img`
-  border-radius: 50%;
+  object-fit: cover;
+  mask-image: linear-gradient(to right, var(--shadowThumbnail) 80%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, var(--shadowThumbnail) 80%, transparent 100%);
   align-items: center;
   display: flex;
   justify-content: center;
   width: 15vw;
-  -webkit-box-shadow: 10px 13px 31px 0px var(--shadowThumbnail);
-  -moz-box-shadow: 10px 13px 31px 0px var(--shadowThumbnail);
-  box-shadow: 10px 13px 31px 0px var(--shadowThumbnail);
 
   ${media.lessThan("medium")`
     min-width:15rem;
   `}
 
   ${media.lessThan("small")`
-    width: 55vw;
+    width: 100vw;
     min-width: 0;
+    max-height: 40vh;
+
+    mask-image: linear-gradient(to bottom, var(--shadowThumbnail) 80%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to bottom, var(--shadowThumbnail) 80%, transparent 100%);
   `}
 
   body#grid & {

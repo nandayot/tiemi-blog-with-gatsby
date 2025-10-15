@@ -34,7 +34,7 @@ exclude: Sumário
 tight: true
 ```
 
-![Foto de Yoo Jae Ha sentado em um banco em frente à praia.](assets/img/yoojaehaaaa.jpg)
+![Foto de Yoo Jae Ha sentado em um banco em frente à praia.](/assets/img/yoojaehaaaa.jpg)
 
 # Quem é Yoo Jae Ha?
 
@@ -56,7 +56,7 @@ Yoo Jae Ha é conhecido pela sua versatilidade e talento. Mesmo estudando músic
 
 ˙
 
-![Na foto Yoo Jae Ha e colegas músicos.](assets/img/5410eab6102ce4ba7dc88a3c33f1345e8415ec83r1-2048-778v2_hq.jpg)
+![Na foto Yoo Jae Ha e colegas músicos.](/assets/img/5410eab6102ce4ba7dc88a3c33f1345e8415ec83r1-2048-778v2_hq.jpg)
 
 # Carreira
 
@@ -76,7 +76,7 @@ Vale lembrar que Jae Ha era uma pessoa muito insegura e de baixa autoestima. Ele
 
 *Na foto: Partitura “Our Love” de Yoo Jae Ha entregue para Cho Yong Pil*
 
-![Na foto: Partitura “Our Love” de Yoo Jae Ha entregue para Cho Yong Pil](assets/img/partitura.png)
+![Na foto: Partitura “Our Love” de Yoo Jae Ha entregue para Cho Yong Pil](/assets/img/partitura.png)
 
 <br /><br />
 
@@ -92,7 +92,7 @@ Quando o álbum foi lançado houve muitas reviravoltas. No começo ele foi taxad
 
 *Na foto: Guitarra que Yoo Jae Ha usava*
 
-![Na foto: Guitarra que Yoo Jae Ha usava (cor vermelha)](assets/img/22e479a7f1718728292e15afb472c6c0fd28cea8r1-2048-778v2_hq.jpg)
+![Na foto: Guitarra que Yoo Jae Ha usava (cor vermelha)](/assets/img/22e479a7f1718728292e15afb472c6c0fd28cea8r1-2048-778v2_hq.jpg)
 
 <br /><br />
 
@@ -110,7 +110,7 @@ Antes de lançar o álbum, em frente à igreja católica que ele frequentava, ex
 
 ˙
 
-![Foto de Yoo Jae Ha com título em coreano numa revista onde fala sobre sua morte.](assets/img/yoojaeha-morte.png)
+![Foto de Yoo Jae Ha com título em coreano numa revista onde fala sobre sua morte.](/assets/img/yoojaeha-morte.png)
 
 # Morte
 
@@ -138,7 +138,7 @@ As duas músicas que Yoo Jae Ha compôs e não foram lançadas no álbum foi dad
 
 <br /><br />
 
-![Foto do cantor Kim Hyun Sik.](assets/img/kimhyunsik.jpg)
+![Foto do cantor Kim Hyun Sik.](/assets/img/kimhyunsik.jpg)
 
 <br /><br />
 
@@ -152,7 +152,7 @@ Kim Hyun Sik foi um dos artistas que mais sofreu pela morte de Jae Ha. O quarto 
 
 *Na foto: Yoo Jae Ha e sua família*
 
-![Na foto: Yoo Jae Ha e sua família](assets/img/yoojaeha-familia.png)
+![Na foto: Yoo Jae Ha e sua família](/assets/img/yoojaeha-familia.png)
 
 # Legado
 
@@ -174,7 +174,7 @@ Não só no cenário musical que Yoo Jae Ha é lembrado. Nosso querido diretor B
 
 ˙
 
-![](assets/img/photogrid_1601164693709.jpg)
+![](/assets/img/photogrid_1601164693709.jpg)
 
 # Discografia
 
@@ -228,7 +228,7 @@ Tem uma homenagem maravilhosa que fizeram em 2013 da maioria dos ganhadores da C
 
 *Na foto: Yoo Jae Ha segundo da esquerda para direita com a banda The Great Birth.*
 
-![Na foto: Yoo Jae Ha segundo da esquerda para direita com a banda The Great Birth.](assets/img/jaeha-amigos.png)
+![Na foto: Yoo Jae Ha segundo da esquerda para direita com a banda The Great Birth.](/assets/img/jaeha-amigos.png)
 
 # Curiosidades etc.
 
@@ -266,7 +266,7 @@ Foi anunciado recentemente que a vida de Yoo Jae Ha, Kim Hyun Sik e o primeiro a
 
 ˙
 
-![Na foto: 27º Torneio Musical Yoo Jae Ha. Apresentação de uma das músicas dele com todos os participantes ao palco.](assets/img/contest.png)
+![Na foto: 27º Torneio Musical Yoo Jae Ha. Apresentação de uma das músicas dele com todos os participantes ao palco.](/assets/img/contest.png)
 
 # Finalização
 

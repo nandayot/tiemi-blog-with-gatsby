@@ -8,9 +8,7 @@ const Avatar = () => {
             query {
                 avatarImage: file(relativePath: { eq: "icon-anime.jpg" }) {
                     childImageSharp {
-                        fluid(maxWidth: 100) {
-                            ...GatsbyImageSharpFluid
-                        }
+                        gatsbyImageData(width: 800, placeholder: BLURRED, layout: CONSTRAINED)
                     }
                 }
             }

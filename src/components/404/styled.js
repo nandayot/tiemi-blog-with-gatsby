@@ -1,5 +1,5 @@
 import styled from "styled-components"
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 import media from "styled-media-query"
 
 
@@ -38,7 +38,7 @@ export const Description = styled.h4`
     color: var(--404Description);
 `
 
-export const AvatarWrapper = styled(Img)`
+export const AvatarWrapper = styled(GatsbyImage)`
     display: flex;
     width: 15rem;
     bottom:0;

@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
-import SEO from "../components/seo"
+import SEO from "../components/SEO"
 import PostItem from "../components/PostItem"
 import Pagination from '../components/Pagination'
 
@@ -34,7 +34,7 @@ export default function BlogList(props) {
               source='blog-list'
               slug={slug}
               key={slug}
-              thumbnail={thumbnail}
+              thumbnail={"/" + thumbnail}
               background={background}
               category={category}
               date={date}

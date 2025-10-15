@@ -28,7 +28,7 @@ Esta é minha primeira resenha "elaborada" da vida. Não sei realmente o que fal
 exclude: Sumário
 tight: true
 ```
-![Foto de Charles Dickens.](assets/img/charles-capa.png)
+![Foto de Charles Dickens.](/assets/img/charles-capa.png)
 
 
 
@@ -43,7 +43,7 @@ Charles Dickens foi um escritor inglês da era vitoriana. Ele era autodidata e a
 
 <br /><br />
 
-![Foto do livro de Tempos Difíceis. Capa Dura de cor roxa.](assets/img/temposdificeis.jpg)
+![Foto do livro de Tempos Difíceis. Capa Dura de cor roxa.](/assets/img/temposdificeis.jpg)
 
 # Tempos Difíceis
 
@@ -95,7 +95,7 @@ Assim Charles ressalta que a pauta sobre o trabalho é muita mais complexa do qu
 
 <br/><br/>
 
-![Colagem de 3 ilustrações usada na primeira edição de Tempos Difíceis.](assets/img/charles-final.png)
+![Colagem de 3 ilustrações usada na primeira edição de Tempos Difíceis.](/assets/img/charles-final.png)
 
 # Finalização
 
