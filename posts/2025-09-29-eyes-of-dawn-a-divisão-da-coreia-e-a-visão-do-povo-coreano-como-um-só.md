@@ -144,8 +144,8 @@ Foi trabalhoso pesquisar os acontecimentos históricos e verificar se de fato o 
 
 Estão disponíveis tanto em formato 480p como em formato de 1080p que podem ser baixados no link abaixo.
 
-Eyes of Dawn (480p) - Legenda em português: eyesofdawn480p . tiemi . dev
-Eyes of Dawn (1080p) - Legenda em português: eyesofdawn1080p.tiemi.dev
+Eyes of Dawn (480p) - Legenda em português: eyesofdawn480p . tiemi. dev\
+Eyes of Dawn (1080p) - Legenda em português: eyesofdawn1080p . tiemi . dev\
 Canal Eyes of Dawn (disponível apenas em 480p): eyesofdawncanal . tiemi . dev
 
 Caso encontrem algum erro na legenda, entre em contato comigo que faço a correção.
