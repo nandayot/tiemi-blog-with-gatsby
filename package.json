@@ -1,11 +1,13 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "tiemi.dev",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "Tiemi Blog",
+  "version": "2.0.0",
+  "author": "Fernanda Tiemi",
   "dependencies": {
+    "@babel/core": "^7.28.4",
     "algoliasearch": "^4.0.0",
+    "babel-plugin-styled-components": "^2.1.4",
     "decap-cms-app": "^3.6.0",
     "dotenv": "^17.2.3",
     "framer-motion": "^12.23.22",
