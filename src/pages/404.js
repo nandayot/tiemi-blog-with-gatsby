@@ -2,7 +2,7 @@ import React from "react"
 import { useStaticQuery, graphql } from 'gatsby'
 import Layout from "../components/Layout"
 
-import SEO from "../components/SEO"
+import SEO from "../components/seo"
 import * as S from "../components/404/styled"
 
 const NotFoundPage = () => {
