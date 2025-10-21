@@ -7,6 +7,14 @@ import RecommendedPosts from "../components/RecommendedPosts"
 
 import * as S from "../components/Post/styled"
 
+export async function getServerData() {
+  return {
+    status: 200,
+    props: {},
+    headers: {},
+  };
+}
+
 const BlogPost = ({ data, pageContext }) => {
   const post = data.markdownRemark
   const next = pageContext.nextPost
