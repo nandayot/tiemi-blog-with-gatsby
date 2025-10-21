@@ -27,13 +27,6 @@ background: "#D6BA32"
 
 Minha paixão por Jane Austen começou faz muitos anos, quando minha paixão pela leitura era muito grande. Creio que Jane Austen foi umas das primeiras escritoras clássicas que li. Antes dela já tinha lido Sir Arthur Conan Doyle, Júlio Verne, VIctor Hugo, Agatha Christie... Essa foi a época em que me apronfundei em escritas mais antigas.
 
-## Sumário
-
-```toc
-exclude: Sumário
-tight: true
-```
-
 ![Imagem dos 6 romances de Jane Austen. Minha coleção de livros.](/assets/img/colecao.jpg "Minha coleção dos romances de Jane Austen.")
 
 # Minha coleção Jane Austen
