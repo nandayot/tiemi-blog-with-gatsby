@@ -1,7 +1,12 @@
 require("dotenv").config()
 const queries = require("./src/utils/algolia_queries")
+const adapter = require("gatsby-adapter-netlify").default
 
 module.exports = {
+  adapter: adapter({
+    excludeDatastoreFromEngineFunction: false,
+    imageCDN: false,
+  }),
   siteMetadata: {
     title: `Fernanda Tiemi`,
     position: `Code & Books & Sports & Asian Culture Lover`,
