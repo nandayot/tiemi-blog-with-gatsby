@@ -12,13 +12,12 @@ module.exports = {
     position: `Code & Books & Sports & Asian Culture Lover`,
     description: `Blog pessoal criado para compartilhar minhas opiniões e conhecimento sobre cultura asiática e quem sabe algumas outras paixões.`,
     author: `@nandayot`,
-    siteUrl: `https://tiemi.dev/`, //TROCAR
+    siteUrl: `https://www.tiemi.dev/`,
   },
   plugins: [
     `gatsby-plugin-image`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
-    // needs to be the first to work with gatsby-remark-images
     {
       resolve: `gatsby-source-filesystem`,
       options: {
